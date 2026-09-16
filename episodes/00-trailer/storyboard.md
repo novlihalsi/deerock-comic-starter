@@ -2,160 +2,167 @@
 
 ## Production format
 
-- **Purpose:** Establish Deerock's ordinary commute-and-work rhythm, the team dynamic, and the episode-one setup.
-- **Length:** 10 panels across three vertically read trailer pages (3 / 4 / 3 panels). Treat page breaks as editorial beats, not elapsed time.
+- **Purpose:** Establish Deerock's ordinary commute-and-work rhythm, the team dynamic, and the Episode 01 setup.
+- **Format:** ONE vertical 9:16 page containing all 10 story panels, read continuously from top to bottom. There are no page breaks and no separate trailer pages.
+- **Story preservation:** Keep all approved story beats, dialogue, character roles, locations, timing, wardrobe continuity, and canon unchanged. The one-page conversion is a layout change only.
 - **Text rule:** Spoken dialogue is Indonesian. Phone and screen text is functional only. Do not reproduce decorative reference-sheet slogans or add motivational copy.
-- **Wardrobe continuity:** D-W01, A-W01, K-W01, R-W01, and M-W01 throughout the office sequence. These labels use the canonical default silhouettes: Deerock in a plain dark T-shirt with overshirt and thin dark glasses; Aki in a light blouse/cardigan; Kai in a casual shirt/polo with headphones around his neck; Rin in dark simple office casual; Mika in smart casual with cardigan/blazer. Deerock keeps D-W01 from home through office; he carries, rather than wears, his overshirt only if the room temperature motivates it.
-- **Reference rule:** Match the approved character sheets in `characters/` and the cited approved location sheet. Deerock remains visually distinct from Kai: glasses, medium messy dark-purple-black hair, and slimmer build versus Kai's no-glasses, short neat black side part, and broader build.
+- **Wardrobe continuity:** D-W01, A-W01, K-W01, R-W01, and M-W01 throughout the office sequence. Deerock keeps D-W01 from home through office; he carries, rather than wears, his overshirt only if the room temperature motivates it.
+- **Reference rule:** Match the approved character sheets in `characters/` and the cited approved location sheets. Deerock remains visually distinct from Kai.
+- **Deerock visual lock:** Match `characters/deerock.png` tightly: medium messy layered dark purple-black hair; thin dark-frame glasses; youthful slim face; facial hair only as a very thin, tiny, sparse patch directly beneath the lower lip, stopping well before the chin. **Clean chin. No chin hair. No beard. No mustache. No stubble.**
+- **Motorcycle lock:** Use the latest approved motorcycle reference from the production conversation. It is a dark/black Honda Vario 150, model year 2017, with gold wheels. Do not substitute another model or generation.
 
 ---
 
-## Page 1 — Morning routine
+## One-page vertical sequence
 
-### Panel 01
+### Panel 01 — Alarm
 
 - **Panel number:** 01
-- **Page/layout:** Page 1, top wide establishing panel; roughly 16:9 horizontal.
-- **Location reference:** `locations/home.png` — Bedroom 1 (Deerock); retain the desk/monitor wall, bed, blinds, plants, and dark practical furnishings.
+- **Page/layout:** ONE 9:16 page; upper section, wide establishing panel.
+- **Location reference:** `locations/home.png` — Bedroom 1; retain desk/monitor wall, bed, blinds, plants, and dark practical furnishings.
 - **Characters:** CHAR-DEEROCK (D-W01 base layers; glasses on bedside/desk, not yet worn).
-- **Character action/expression:** Deerock lies awake, one hand reaching to silence his phone alarm. He looks mildly tired rather than dramatically distressed.
-- **Camera angle:** High three-quarter angle from the bedroom door, looking toward the window and desk.
-- **Composition:** Bed in the foreground; the alarm phone is the nearest readable prop. Keep the monitor/desk recognizable in the back-right and the morning window light as the visual exit direction for the next shot.
+- **Action/expression:** Deerock lies awake and reaches to silence his phone alarm; mildly tired, not distressed.
+- **Camera:** High three-quarter angle from bedroom door toward window and desk.
+- **Composition:** Bed foreground; alarm phone nearest readable prop; monitor/desk back-right; morning window light leads into Panel 02.
 - **Dialogue:** None.
-- **SFX if needed:** `BEEP BEEP` from the phone, small and unobtrusive.
-- **Lighting/time of day:** 06:45; soft warm morning light through half-open blinds, with cool shadow in the room.
-- **Continuity notes:** Preserve Deerock's bedroom geometry from the reference. His medium, slightly messy dark-purple-black hair and small patch of facial hair under the lower lip must remain visible even in the sleepy pose. No headphones or backpack yet.
+- **SFX:** `BEEP BEEP`, small by the phone.
+- **Lighting/time:** 06:45; soft warm morning light through half-open blinds with cool room shadow.
+- **Continuity:** Preserve bedroom geometry. Deerock's locked hair, glasses placement, youthful slim face, and clean-chin facial-hair rule must remain identifiable. No headphones or backpack.
 
-### Panel 02
+### Panel 02 — Coffee
 
 - **Panel number:** 02
-- **Page/layout:** Page 1, middle medium panel; portrait 4:5.
+- **Page/layout:** Same ONE 9:16 page; immediately below Panel 01, medium portrait-oriented panel.
 - **Location reference:** `locations/home.png` — Kitchen & Dining.
-- **Characters:** CHAR-DEEROCK (D-W01; glasses now worn).
-- **Character action/expression:** Deerock pours coffee into a plain mug while checking the time on his phone; focused, routine expression.
-- **Camera angle:** Waist-level side medium shot from the dining-table side.
-- **Composition:** Coffee stream and mug in the foreground, Deerock in profile at centre, kitchen shelves/fridge behind. Phone screen may show only a functional time display: `07.02`.
-- **Dialogue:** Deerock (small thought): “Masih sempat.”
-- **SFX if needed:** `TUANG` / soft liquid-pour effect.
-- **Lighting/time of day:** 07:02; warmer kitchen light mixed with daylight from the open rear direction.
-- **Continuity notes:** Keep coffee, phone, and tidy lived-in kitchen consistent with the location sheet. Deerock's backpack is packed and visible near the dining chair; do not add new personal props.
+- **Characters:** CHAR-DEEROCK (D-W01; glasses worn).
+- **Action/expression:** Deerock pours coffee into a plain mug while checking the time; focused and routine.
+- **Camera:** Waist-level side medium shot from dining-table side.
+- **Composition:** Coffee stream/mug foreground, Deerock in profile centre, shelves/fridge behind; packed backpack near dining chair.
+- **Dialogue:** Deerock thought: “Masih sempat.” Phone UI: `07.02` only.
+- **SFX:** `TUANG`.
+- **Lighting/time:** 07:02; warm kitchen practical light mixed with daylight.
+- **Continuity:** Same phone, hair, face, facial-hair lock, glasses, and base outfit as Panel 01. No invented personal props.
 
-### Panel 03
+### Panel 03 — Leaving home
 
 - **Panel number:** 03
-- **Page/layout:** Page 1, bottom cinematic wide; 2:1 horizontal.
+- **Page/layout:** Same ONE 9:16 page; wide transition panel.
 - **Location reference:** `locations/home.png` — front yard/carport and C12 marker.
-- **Characters:** CHAR-DEEROCK (D-W01, backpack worn).
-- **Character action/expression:** Deerock closes the front gate and walks out toward the street, coffee tumbler in one hand and phone put away.
-- **Camera angle:** Rear three-quarter long shot from inside the front yard, slightly below eye level.
-- **Composition:** Use the house façade, carport, motorcycle, and C12 marker to anchor the location. Deerock occupies the right third and moves left/out of frame, setting the commute direction.
+- **Characters:** CHAR-DEEROCK (D-W01, backpack worn, glasses on).
+- **Action/expression:** Deerock closes the front gate and walks toward the street with coffee tumbler; phone put away.
+- **Camera:** Rear three-quarter long shot from inside the front yard, slightly below eye level.
+- **Composition:** House façade/carport/C12 anchor background. Deerock right third moving left/out. The motorcycle is visible as an established carport prop.
+- **Motorcycle:** Must match the latest approved reference exactly as a **dark/black Honda Vario 150, model year 2017, with gold wheels**. No other model/generation.
 - **Dialogue:** None.
-- **SFX if needed:** `KLIK` for the gate latch.
-- **Lighting/time of day:** 07:12; clear Jakarta morning daylight, gently warm.
-- **Continuity notes:** Backpack is the same dark practical backpack seen in later commute panels. Keep the house and front-yard layout unchanged; this is a transition, not a new street-location introduction.
+- **SFX:** `KLIK` at gate latch.
+- **Lighting/time:** 07:12; clear warm Jakarta morning daylight.
+- **Continuity:** Same backpack and tumbler carry forward. Do not redesign the house, carport, or motorcycle.
 
----
-
-## Page 2 — Commute to the workday
-
-### Panel 04
+### Panel 04 — Sentra Lintas platform
 
 - **Panel number:** 04
-- **Page/layout:** Page 2, top panoramic establishing panel; 2.35:1 horizontal.
-- **Location reference:** `locations/krl-station.png` — Sentra Lintas Station, Platform 1; use its elevated structure, platform sign, red/blue train, and city backdrop.
-- **Characters:** CHAR-DEEROCK (D-W01, backpack worn); background commuters only.
-- **Character action/expression:** Deerock waits near, but safely behind, the platform line. He checks the approaching train with a neutral, prepared expression.
-- **Camera angle:** Platform-level wide shot looking down the tracks toward the incoming train.
-- **Composition:** Platform `1` sign above Deerock's zone; train enters from the far left/background. Use believable weekday crowd density, leaving visible space around Deerock.
+- **Page/layout:** Same ONE 9:16 page; panoramic horizontal panel.
+- **Location reference:** `locations/krl-station.png` — Sentra Lintas Station, Platform 1; elevated structure, platform sign, red/blue train, city backdrop.
+- **Characters:** CHAR-DEEROCK (D-W01, backpack worn); anonymous background commuters only.
+- **Action/expression:** Deerock waits safely behind the platform line and watches the approaching train; neutral and prepared.
+- **Camera:** Platform-level wide looking down tracks.
+- **Composition:** Platform `1` sign above Deerock; train far-left/background; believable weekday crowd with breathing room.
 - **Dialogue:** None.
-- **SFX if needed:** `KRRRSH` (train arriving), low in the panel edge.
-- **Lighting/time of day:** 07:35; bright outdoor daylight with cool structure shadows.
-- **Continuity notes:** Use the exact Sentra Lintas signage language and platform architecture from the sheet. Deerock's overshirt, glasses, backpack, and tumbler should match Panel 03. No other named character is present.
+- **SFX:** `KRRRSH`.
+- **Lighting/time:** 07:35; bright daylight with cool structural shadows.
+- **Continuity:** Overshirt, glasses, backpack, tumbler, hair, face, and facial-hair lock match Panel 03. No other named character.
 
-### Panel 05
+### Panel 05 — KRL notification
 
 - **Panel number:** 05
-- **Page/layout:** Page 2, second panel; portrait 4:5.
-- **Location reference:** `locations/krl-interior.png` — KRL centre view, standing area near the doors; retain silver poles, triangular straps, blue seats, door markings, and route display.
-- **Characters:** CHAR-DEEROCK (D-W01, backpack worn or held close); background passengers only.
-- **Character action/expression:** Standing beside a pole, Deerock reads a team-chat notification on his phone. A nearly imperceptible eyebrow raise signals that the workday has already started.
-- **Camera angle:** Over-the-shoulder medium close-up from behind Deerock's right side, with the carriage extending beyond him.
-- **Composition:** Phone occupies the lower-right readable area; one yellow hanging strap and the blue seat pattern identify the carriage. Keep surrounding commuters naturally absorbed in their own phones or commute.
-- **Dialogue:** Phone notification (functional UI): **Mika:** “Stand-up 09.30. Jangan lupa.”  Deerock (small thought): “Belum sampai kantor.”
-- **SFX if needed:** `TING` from the phone.
-- **Lighting/time of day:** 07:48; cool daylight through train windows, flat practical carriage lighting.
-- **Continuity notes:** Preserve the established KRL door/pole/seat arrangement and modest morning crowd density. Do not turn the message into a dramatic alert; it is an ordinary reminder.
+- **Page/layout:** Same ONE 9:16 page; portrait-oriented panel.
+- **Location reference:** `locations/krl-interior.png` — centre standing area near doors; silver poles, triangular straps, blue seats, door markings, route display.
+- **Characters:** CHAR-DEEROCK (D-W01, backpack worn/held close); anonymous passengers only.
+- **Action/expression:** Deerock stands beside a pole and reads Mika's team-chat reminder; nearly imperceptible eyebrow raise.
+- **Camera:** Over-the-shoulder medium close-up from behind Deerock's right side.
+- **Composition:** Phone lower-right; yellow hanging strap and blue seats identify carriage; commuters natural and unobtrusive.
+- **Dialogue:** Phone notification: **Mika:** “Stand-up 09.30. Jangan lupa.” Deerock thought: “Belum sampai kantor.”
+- **SFX:** `TING`.
+- **Lighting/time:** 07:48; cool window daylight with flat practical carriage lighting.
+- **Continuity:** Preserve KRL geometry and modest crowd density. Routine reminder, not emergency. Maintain Deerock's locked appearance.
 
-### Panel 06
+### Panel 06 — Office access
 
 - **Panel number:** 06
-- **Page/layout:** Page 2, third panel; tall vertical transition panel.
-- **Location reference:** `locations/office.png` — NEXA Workspace Lobby / Reception; retain marble reception wall, access gates, plants, and NEXA mark.
-- **Characters:** CHAR-DEEROCK (D-W01, backpack worn); background receptionist/office workers optional and non-prominent.
-- **Character action/expression:** Deerock taps his office access card at the gate while lifting his eyes toward the open workspace beyond; calm, more alert than the commute panels.
-- **Camera angle:** Low-to-mid rear three-quarter shot from gate height.
-- **Composition:** Gate/card-reader foreground, Deerock centred, NEXA reception wall and the route into the office visible beyond. This shot bridges the cool commute palette to the warmer office palette.
+- **Page/layout:** Same ONE 9:16 page; tall transition panel.
+- **Location reference:** `locations/office.png` — NEXA Workspace Lobby / Reception; reception wall, NEXA mark, plants, access gates, floor finish, onward path.
+- **Characters:** CHAR-DEEROCK (D-W01, backpack worn); background workers optional and non-prominent.
+- **Action/expression:** Deerock taps his access card and looks toward the workspace; calm and more alert.
+- **Camera:** Low-to-mid rear three-quarter at gate height.
+- **Composition:** Reader/gate foreground; Deerock centre; NEXA wall and workspace beyond.
 - **Dialogue:** None.
-- **SFX if needed:** `BIP` from the access gate.
-- **Lighting/time of day:** 08:45; clean neutral lobby lighting with daylight from the glass façade.
-- **Continuity notes:** Card is a recurring office prop; it should read as a simple access card, not a badge redesign. Deerock still carries the same backpack and tumbler. Maintain the approved lobby layout.
+- **SFX:** `BIP`.
+- **Lighting/time:** 08:45; neutral lobby lighting plus glass-façade daylight.
+- **Continuity:** Same backpack, tumbler, glasses, hair, face, and locked facial-hair treatment. Simple recurring access card only.
 
-### Panel 07
+### Panel 07 — Team arrival
 
 - **Panel number:** 07
-- **Page/layout:** Page 2, bottom wide ensemble panel; 16:9 horizontal.
-- **Location reference:** `locations/office.png` — Open Workspace, using the established relative desk areas for Deerock, Aki, Kai, Rin, and Mika.
+- **Page/layout:** Same ONE 9:16 page; wide ensemble panel.
+- **Location reference:** `locations/office.png` — Open Workspace, established desk areas for Deerock, Aki, Kai, Rin, Mika.
 - **Characters:** CHAR-DEEROCK (D-W01); CHAR-AKI (A-W01); CHAR-KAI (K-W01); CHAR-RIN (R-W01); CHAR-MIKA (M-W01).
-- **Character action/expression:** Deerock sets his backpack by his desk. Aki turns from a Figma screen with an open, practical smile; Kai swivels slightly with headphones around his neck; Rin reviews a checklist; Mika walks in with a tablet/phone and a focused but friendly look. All are mid-work, not posed for an introduction.
-- **Camera angle:** Eye-level wide conversational shot from the aisle, slightly angled toward the window wall.
-- **Composition:** Deerock foreground-left at his desk; Aki and Kai in the middle layer; Rin and Mika complete the depth without hiding their defining silhouettes. Let monitors, plants, and the city windows keep the environment readable. Keep speech bubbles short and spaced across the panel.
-- **Dialogue:** Aki: “Pagi, Rock.”  Kai: “Pagi. API auth udah siap.”  Rin: “Aku mulai regression.”  Mika: “Stand-up sepuluh menit lagi.”  Deerock: “Oke.”
-- **SFX if needed:** None.
-- **Lighting/time of day:** 08:50; soft daylight from the windows plus restrained office practical lighting.
-- **Continuity notes:** This is the main cast introduction: preserve every canonical hair silhouette, build, glasses rule, and wardrobe code. Kai must remain clearly broader and without glasses; do not give him Deerock's hair. No character is framed as an obstacle or punchline.
+- **Action/expression:** Deerock sets backpack by desk. Aki turns from Figma with practical smile; Kai swivels with headphones around neck; Rin reviews checklist; Mika enters with tablet/phone. Everyone remains in active work context.
+- **Camera:** Eye-level wide conversational aisle shot toward window wall.
+- **Composition:** Deerock foreground-left; Aki/Kai middle; Rin/Mika complete depth. Keep all defining silhouettes readable and speech bubbles unambiguous.
+- **Dialogue:** Aki: “Pagi, Rock.” Kai: “Pagi. API auth udah siap.” Rin: “Aku mulai regression.” Mika: “Stand-up sepuluh menit lagi.” Deerock: “Oke.”
+- **Lighting/time:** 08:50; soft window daylight and restrained office practical light.
+- **Continuity:** Strict character separation. Deerock: glasses, medium messy dark purple-black hair, slim youthful face, clean chin with only the tiny sparse under-lower-lip patch. Kai: no glasses, short neat black side part, broader build. Wardrobe codes unchanged.
+
+### Panel 08 — Design to QA handoff
+
+- **Panel number:** 08
+- **Page/layout:** Same ONE 9:16 page; large workflow panel.
+- **Location reference:** `locations/office.png` — Open Workspace; approved desk identities for Aki, Deerock, Kai, Rin, with Mika in shared aisle.
+- **Characters:** CHAR-DEEROCK, CHAR-AKI, CHAR-KAI, CHAR-RIN, CHAR-MIKA.
+- **Action/expression:** Aki points to Figma interaction; Deerock implements in code; Kai checks API response; Rin records a reproducible test step; Mika notes dependency. All attentive and collaborative.
+- **Camera:** Slightly elevated wide shot across desk zones.
+- **Composition:** Left-to-right read: design → frontend → API → QA, with Mika connecting dependencies. Screens show only functional categories, not invented dense copy.
+- **Dialogue:** Aki: “Empty state-nya pakai yang ini, ya.” Deerock: “Siap, aku sambung ke endpoint baru.” Kai: “Response-nya sudah ada.” Rin: “Nanti aku cek kondisi kosongnya.” Mika: “Aku catat buat stand-up.”
+- **Lighting/time:** 09:05; neutral office light/daylight.
+- **Continuity:** Same desk positions, wardrobe, props, and character separation as Panel 07. No action-heavy montage or separate deploy effect.
+
+### Panel 09 — The small change
+
+- **Panel number:** 09
+- **Page/layout:** Same ONE 9:16 page; medium reaction panel.
+- **Location reference:** `locations/office.png` — Deerock's Desk; dual monitors, black tumbler, headphones, plant, established desk placement.
+- **Characters:** CHAR-DEEROCK (D-W01); CHAR-MIKA (M-W01, partly in frame).
+- **Action/expression:** Deerock pauses at keyboard and looks up. Mika delivers the update with a measured, slightly apologetic half-smile. Deerock gives a small blank-stare beat, then refocuses.
+- **Camera:** Over Mika's shoulder at seated eye level.
+- **Composition:** Mika shoulder/device frame left; Deerock face/glasses/code screen focal; clear space above for dialogue.
+- **Dialogue:** Mika: “Oh iya, ada satu perubahan kecil lagi…” Deerock: “Yang bagian mana?”
+- **Lighting/time:** 09:10; same office lighting as Panel 08.
+- **Continuity:** Humour comes from familiar ambiguity, not blame. Do not reveal the requested change. Deerock appearance remains locked, including clean chin and no beard/mustache/stubble.
+
+### Panel 10 — Episode title / ending
+
+- **Panel number:** 10
+- **Page/layout:** Same ONE 9:16 page; bottom full-width ending/title section. This is the final section of the single vertical page, not a separate page.
+- **Location reference:** `locations/office.png` — Deerock's Desk, quiet/defocused dual monitors and desk edge.
+- **Characters:** CHAR-DEEROCK (D-W01), soft partial side/rear silhouette only.
+- **Action/expression:** Deerock remains seated facing the monitor immediately after Panel 09; ready to inspect the request.
+- **Camera:** Tight side/rear desk-height detail.
+- **Composition:** Person/desk props lower/right edges; centre kept clean for title typography.
+- **Dialogue/title text:** Exactly:
+  - `EPISODE 01`
+  - `JUST ONE SMALL CHANGE`
+  - `COMING SOON`
+- **SFX:** None.
+- **Lighting/time:** 09:10; same neutral office light, subtly softened.
+- **Continuity:** Immediate continuation from Panel 09. `COMING SOON` is the only newly added ending text. No subtitle, slogan, quote, character tag, or additional caption.
 
 ---
 
-## Page 3 — The ordinary workflow, then the hook
+## One-page assembly rules
 
-### Panel 08
-
-- **Panel number:** 08
-- **Page/layout:** Page 3, top large horizontal workflow panel; 2:1 horizontal, divided by desks/monitor edges rather than literal comic insets.
-- **Location reference:** `locations/office.png` — Open Workspace; use Deerock's, Aki's, Kai's, and Rin's approved desk identities, with Mika standing in the shared aisle.
-- **Characters:** CHAR-DEEROCK (D-W01); CHAR-AKI (A-W01); CHAR-KAI (K-W01); CHAR-RIN (R-W01); CHAR-MIKA (M-W01).
-- **Character action/expression:** Aki points to a Figma interaction on her monitor; Deerock implements it in a code editor; Kai checks a service/API response; Rin records a reproducible test step; Mika listens and notes the dependency. Their expressions are attentive and collaborative.
-- **Camera angle:** Slightly elevated wide shot across the four desks, with Mika in the aisle.
-- **Composition:** Create a left-to-right visual reading line: design → frontend → API → QA, with Mika connecting the group instead of dominating it. Each screen is legible only as functional visual categories (Figma canvas, code editor, API response, QA checklist), not as dense invented copy.
-- **Dialogue:** Aki: “Empty state-nya pakai yang ini, ya.”  Deerock: “Siap, aku sambung ke endpoint baru.”  Kai: “Response-nya sudah ada.”  Rin: “Nanti aku cek kondisi kosongnya.”  Mika: “Aku catat buat stand-up.”
-- **SFX if needed:** None.
-- **Lighting/time of day:** 09:05; consistent neutral office light and daylight.
-- **Continuity notes:** This is a coordinated handoff, not a fast-action montage. Maintain the desk placement and personal desk cues shown in the office reference. Keep all wardrobe codes unchanged from Panel 07.
-
-### Panel 09
-
-- **Panel number:** 09
-- **Page/layout:** Page 3, middle medium reaction panel; portrait 4:5.
-- **Location reference:** `locations/office.png` — Deerock's Desk, with its dual-monitor setup, black tumbler, headphones, plant, and desk placement.
-- **Characters:** CHAR-DEEROCK (D-W01); CHAR-MIKA (M-W01, partly in frame from the aisle).
-- **Character action/expression:** Deerock pauses with one hand on the keyboard, looking up at Mika. Mika holds her phone/tablet and delivers the update with a measured, apologetic half-smile—not panic. Deerock's response is a small blank stare, then resigned focus.
-- **Camera angle:** Over Mika's shoulder toward Deerock, at seated eye level.
-- **Composition:** Mika's shoulder and device frame the left edge; Deerock's face, glasses, and paused code screen are the focus. Leave enough negative space above Deerock for the final dialogue balloon.
-- **Dialogue:** Mika: “Oh iya, ada satu perubahan kecil lagi…”  Deerock: “Yang bagian mana?”
-- **SFX if needed:** None.
-- **Lighting/time of day:** 09:10; same office lighting as Panel 08, no sudden dramatic change.
-- **Continuity notes:** The humour is Deerock's restrained reaction and the familiar ambiguity of “kecil,” not Mika being careless. Keep Mika composed and solution-oriented. Do not reveal the requested change yet; this is the trailer hook into Episode 01.
-
-### Panel 10
-
-- **Panel number:** 10
-- **Page/layout:** Page 3, bottom full-width end card; 16:9 horizontal.
-- **Location reference:** `locations/office.png` — Deerock's Desk, defocused/quiet detail of the dual monitors and desk edge.
-- **Characters:** CHAR-DEEROCK (D-W01), only as a soft partial silhouette at the desk; no additional named characters.
-- **Character action/expression:** Deerock is seated, facing the monitor, a moment after Panel 09. His posture signals he is ready to look at the request.
-- **Camera angle:** Tight side/rear detail shot at desk height; monitor glow and coffee tumbler provide the visual field.
-- **Composition:** Reserve the central clear area for the functional episode label. Keep the person and desk props on the lower/right edges; avoid ornamental graphics, decorative slogans, or action treatment.
-- **Dialogue:** Functional end-card text only: `EPISODE 01` / `JUST ONE SMALL CHANGE`.
-- **SFX if needed:** None.
-- **Lighting/time of day:** 09:10; neutral office light, slightly softened for an editorial ending.
-- **Continuity notes:** Continue exactly from Panel 09. This is a title card, not a new scene and not an approved illustration request. When produced, any art asset must follow the episode versioning convention and never overwrite approved work.
+- The final trailer is **one single vertical 9:16 page**, not three pages.
+- All 10 story panels remain in the exact approved order: 01 → 02 → 03 → 04 → 05 → 06 → 07 → 08 → 09 → 10.
+- Preserve the original story beats, dialogue, roles, locations, wardrobe, time flow, and canon; only the page architecture changes.
+- Panel boundaries may vary in height to fit the 9:16 composition, but no panel may be removed, merged, or reordered.
+- Panel 10 is the ending/title section and must include `COMING SOON` beneath the approved Episode 01 title.
+- Use panel-level generation/review against the approved references; never overwrite approved assets and retain versioned output naming.
