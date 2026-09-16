@@ -5,11 +5,11 @@
 - **Purpose:** Establish Deerock's ordinary commute-and-work rhythm, the team dynamic, and the Episode 01 setup.
 - **Format:** ONE vertical 9:16 page containing all 10 story panels, read continuously from top to bottom. There are no page breaks and no separate trailer pages.
 - **Story preservation:** Keep all approved story beats, dialogue, character roles, locations, timing, wardrobe continuity, and canon unchanged. The one-page conversion is a layout change only.
-- **Text rule:** Spoken dialogue is Indonesian. Phone and screen text is functional only. Do not reproduce decorative reference-sheet slogans or add motivational copy.
+- **Text rule:** Spoken dialogue is Indonesian. Phone and screen text is functional only. Do not reproduce decorative reference-sheet slogans, add motivational copy, or label characters with name/role tags. The banned strings are listed in `prompts/negative-prompts.md`.
 - **Wardrobe continuity:** D-W01, A-W01, K-W01, R-W01, and M-W01 throughout the office sequence. Deerock keeps D-W01 from home through office; he carries, rather than wears, his overshirt only if the room temperature motivates it.
-- **Reference rule:** Match the approved character sheets in `characters/` and the cited approved location sheets. Deerock remains visually distinct from Kai.
+- **Reference rule:** Match the approved character sheets in `characters/` and the cited approved location sheets; resolve every path through `references/registry.md`. Deerock stays visually distinct from Kai, and Aki from Mika — see the separation matrix in `bible/character-bible.md`.
 - **Deerock visual lock:** Match `characters/deerock.png` tightly: medium messy layered dark purple-black hair; thin dark-frame glasses; youthful slim face; facial hair only as a very thin, tiny, sparse patch directly beneath the lower lip, stopping well before the chin. **Clean chin. No chin hair. No beard. No mustache. No stubble.**
-- **Motorcycle lock:** Use the latest approved motorcycle reference from the production conversation. It is a dark/black Honda Vario 150, model year 2017, with gold wheels. Do not substitute another model or generation.
+- **Motorcycle lock:** `PROP-MOTORCYCLE` — `props/motorcycle-vario150.jpg`. A Honda Vario 150, model year 2017, matte dark grey/black bodywork with **gold wheels**. Do not substitute another model, generation or wheel colour.
 
 ---
 
@@ -52,7 +52,7 @@
 - **Action/expression:** Deerock closes the front gate and walks toward the street with coffee tumbler; phone put away.
 - **Camera:** Rear three-quarter long shot from inside the front yard, slightly below eye level.
 - **Composition:** House façade/carport/C12 anchor background. Deerock right third moving left/out. The motorcycle is visible as an established carport prop.
-- **Motorcycle:** Must match the latest approved reference exactly as a **dark/black Honda Vario 150, model year 2017, with gold wheels**. No other model/generation.
+- **Motorcycle:** `PROP-MOTORCYCLE` — `props/motorcycle-vario150.jpg`. Matte dark grey/black **Honda Vario 150, model year 2017, gold wheels**. No other model, generation or wheel colour.
 - **Dialogue:** None.
 - **SFX:** `KLIK` at gate latch.
 - **Lighting/time:** 07:12; clear warm Jakarta morning daylight.
@@ -111,7 +111,7 @@
 - **Composition:** Deerock foreground-left; Aki/Kai middle; Rin/Mika complete depth. Keep all defining silhouettes readable and speech bubbles unambiguous.
 - **Dialogue:** Aki: “Pagi, Rock.” Kai: “Pagi. API auth udah siap.” Rin: “Aku mulai regression.” Mika: “Stand-up sepuluh menit lagi.” Deerock: “Oke.”
 - **Lighting/time:** 08:50; soft window daylight and restrained office practical light.
-- **Continuity:** Strict character separation. Deerock: glasses, medium messy dark purple-black hair, slim youthful face, clean chin with only the tiny sparse under-lower-lip patch. Kai: no glasses, short neat black side part, broader build. Wardrobe codes unchanged.
+- **Continuity:** Strict character separation. Deerock: glasses, medium messy dark **purple**-black hair, slim youthful face, clean chin with only the tiny sparse under-lower-lip patch, 172 cm. Kai: **no glasses**, pure black spiky messy hair, 178 cm, broader, headphones around the neck. Aki: bun. Mika: long wavy hair worn down. Wardrobe codes unchanged.
 
 ### Panel 08 — Design to QA handoff
 

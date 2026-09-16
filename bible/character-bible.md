@@ -1,59 +1,206 @@
 # Character Bible
 
-## Deerock — Frontend Developer
-- Age: mid-20s
-- Personality: calm, observant, mildly introverted, dry humor, quietly perfectionistic
-- Hair: dark purple-black, medium length, slightly messy layered silhouette
-- Face: youthful, slim face, gentle features, with a small patch o facial hair grown just beneath the lower lip
-- Glasses: yes, thin dark frame
-- Build: slim/average
-- Default wardrobe: modern casual; plain T-shirt, overshirt, hoodie, jeans/chinos
-- No katana, tactical costume, ninja styling, or fantasy props.
-- Behavior: often thinks before speaking; reacts with small expressions rather than exaggerated poses.
-- Work habits: coffee, headphones sometimes, tidy desk, prefers solving problems himself first.
+**Precedence:** the approved reference sheet in `characters/` is the visual source of truth.
+This document describes what is *in* those sheets so a prompt can be written without opening
+them. If prose here ever disagrees with the sheet, the sheet wins and this file is the thing
+that gets corrected — see `bible/consistency-guide.md` section 9.
 
-## Aki — UI/UX Designer
-- Age: mid-20s
-- Personality: cheerful, expressive, creative, collaborative
-- Hair: medium-long warm brown, usually tied in a high bun/ponytail
-- Glasses: no
-- Build: petite/average
-- Wardrobe: light blouse, cardigan, casual office wear
-- Visual distinction: warm brown hair, brighter clothing, expressive smile
-- Role dynamic: translates user/product needs into visual and interaction design.
+**Sheet text is not canon.** Every sheet has decorative slogans printed on it ("Same Routine.
+Different Challenges.", "Code. Design. Meet. Debug. Repeat.", "SAME STRUGGLES. BETTER DAYS.",
+and so on). Those are layout decoration for the sheet itself. They must never be rendered into
+a comic panel. See `prompts/negative-prompts.md`.
 
-## Kai — Backend Developer
-- Age: late-20s
-- Personality: easygoing, talkative, practical, playful
-- Hair: short black hair with a neat side part; clearly shorter and more structured than Deerock
-- Glasses: no
-- Build: broader shoulders / stockier than Deerock
-- Wardrobe: casual shirt or polo; headphones often around neck
-- Visual distinction: no glasses, short neat hair, broader build, warmer/more relaxed posture
-- Role dynamic: owns APIs, data, services, authentication, backend reliability.
+---
 
-## Rin — QA Engineer
-- Age: mid/late-20s
-- Personality: calm, observant, methodical, deadpan humor
-- Hair: straight dark hair, shoulder length
-- Glasses: optional thin frame only if explicitly established; default no glasses
-- Build: slim/average
-- Wardrobe: dark/simple office casual
-- Visual distinction: straight shoulder-length hair, composed expression
-- Role dynamic: finds reproducible issues and edge cases; not an antagonist.
+## CHAR-DEEROCK — Frontend Developer
+Reference: `characters/deerock.png`
 
-## Mika — Project Manager
-- Age: late-20s/early-30s
-- Personality: organized, diplomatic, energetic under pressure
-- Hair: long light-brown/blonde-brown hair
-- Glasses: no
-- Wardrobe: smart casual, blazer/cardigan, office attire
-- Visual distinction: longest/lightest hair in the team, confident posture
-- Role dynamic: coordinates scope, timeline, client/stakeholders and team dependencies.
+| Field | Canon |
+| --- | --- |
+| Age / height | 25 · 172 cm |
+| Role | Frontend Developer |
+| Quote | "Aku coba dulu." |
+| Likes | Coffee, clean UI, music, solitude |
+| Dislikes | Unnecessary meetings, vague requirements, last-minute changes |
+
+- **Hair:** dark purple-black, medium length, layered and slightly messy. The purple is the
+  single strongest identity cue in the cast — it must read as purple-black, not plain black.
+- **Face:** youthful, slim, gentle features. **Locked:** facial hair is only a very thin, tiny,
+  sparse patch directly beneath the lower lip, stopping well before the chin. Clean chin.
+  No beard, no moustache, no stubble, no jaw shadow.
+- **Glasses:** always, thin dark rectangular frame.
+- **Build:** slim/average.
+- **Palette:** deep purple, near-black, cool grey, **orange accent**, teal accent, light grey.
+- **Personal props:** MacBook, black tumbler, over-ear headphones, dark practical backpack,
+  notebook, phone, glasses.
+- **Behaviour:** thinks before speaking; reacts with small expressions, not exaggerated poses.
+  Prefers solving a problem himself before escalating.
+
+### Deerock wardrobe codes
+The sheet shows four outfit variations: *Default (Techwear)*, *Casual*, *Office Casual*, *Home Wear*.
+
+| Code | Outfit |
+| --- | --- |
+| `D-W01` | **Workday default.** Dark hoodie or dark overshirt over a plain dark tee, dark jeans/chinos, dark sneakers, one small orange accent. This is the sheet's "Default" silhouette **with the tactical parts removed** — no chest harness, no utility straps, no buckle rig, no pouches. |
+| `D-W02` | Office casual from the sheet: plain tee, open dark shirt/jacket, chinos, lanyard. |
+| `D-W03` | Home wear: hoodie or loose tee, relaxed pants. |
+
+> **Canon note (resolved conflict).** The sheet styles Deerock's default look as techwear with
+> a harness and katakana patches, but canon forbids tactical costume. `D-W01` keeps the dark
+> silhouette and the orange accent — which is what the existing trailer art already shows — and
+> drops the harness. To make the full techwear look canon instead, change it here first, then
+> regenerate downstream assets.
+
+---
+
+## CHAR-AKI — UI/UX Designer
+Reference: `characters/aki.png`
+
+| Field | Canon |
+| --- | --- |
+| Age / height | 24 · 160 cm |
+| MBTI | ENFP |
+| Quote | "Bisa dibuat lebih clean?" |
+| Likes | Design, art, coffee, music, nice cafés, cute things, clean spaces |
+| Dislikes | Rushed work, unclear feedback, messy files, boring UI, negativity |
+
+- **Hair:** warm brown, medium-long, worn in a loose messy **bun** with soft face-framing strands.
+- **Glasses:** no.
+- **Build:** petite, shortest of the cast.
+- **Palette:** warm browns, dusty rose, cream, soft grey.
+- **Personal props:** sticker-covered MacBook, iPad + Apple Pencil, cream tote bag, pink tumbler,
+  lanyard with a rabbit card holder, compact camera, sticky notes, rabbit keychain.
+- **Behaviour:** expressive, big open smiles, gestures while explaining. Detail-oriented and
+  collaborative, not scatterbrained.
+- **Wardrobe `A-W01`:** cream/off-white loose sweater or blouse, black wide cargo trousers,
+  suspender straps, NEXA lanyard, sneakers.
+
+---
+
+## CHAR-KAI — Backend Developer
+Reference: `characters/kai.png`
+
+| Field | Canon |
+| --- | --- |
+| Age / height | 28 · 178 cm |
+| MBTI | ENTP |
+| Quote | "API-nya udah ready." |
+| Likes | Good food, music, gaming, tech, coffee, sports, travel |
+| Dislikes | Complicated people, repetitive work, overthinking |
+
+- **Hair:** **black**, short-to-medium, thick, spiky and messy with a heavy fringe. It is *not*
+  a neat side part, and it is messy like Deerock's — so hair texture alone does not separate
+  them. See the separation matrix below.
+- **Glasses:** never.
+- **Build:** tallest of the cast, athletic, broader shoulders than Deerock.
+- **Palette:** warm charcoal, brown-grey, taupe, dusty blue.
+- **Personal props:** over-ear headphones **worn around the neck** (his strongest silhouette
+  cue), MacBook, mechanical keyboard, black tumbler, cap, backpack, chibi mascot keychain.
+- **Behaviour:** loud open laughs, relaxed posture, leans back in his chair, talks with his hands.
+- **Wardrobe `K-W01`:** dark hoodie under an open dark jacket, olive/brown cargo trousers,
+  headphones around the neck, sneakers.
+
+---
+
+## CHAR-RIN — QA Engineer
+Reference: `characters/rin.png`
+
+| Field | Canon |
+| --- | --- |
+| Age / height | 24 · 162 cm |
+| MBTI | ISTJ |
+| Quote | "Quality isn't a phase, it's a habit." |
+| Likes | Testing, tech gadgets, coffee, cats, clean UI, bug-free builds |
+| Dislikes | Sloppy work, unclear requirements, last-minute changes, unchecked bugs |
+
+- **Hair:** very dark brown/black, straight, **long — well past the shoulders, down to mid-back**,
+  with a full blunt fringe. (Earlier drafts said "shoulder length". That was wrong; the sheet is long.)
+- **Glasses:** no.
+- **Build:** slim/average.
+- **Palette:** black, charcoal, warm taupe, dusty pink.
+- **Personal props:** MacBook with a rabbit sticker, iPad + stylus, black tumbler, test-report
+  notebook, sticky notes, black backpack, a black-and-white cat plush (**Neko**), lanyard.
+- **Behaviour:** calm, still, deadpan. Reacts with a small flat look rather than a retort. Finds
+  reproducible issues; she is never the antagonist.
+- **Wardrobe `R-W01`:** black oversized hoodie or jacket over a light tee, dark grey wide cargo
+  trousers, lanyard, sneakers.
+
+---
+
+## CHAR-MIKA — Project Manager
+Reference: `characters/mika.png`
+
+| Field | Canon |
+| --- | --- |
+| Age / height | 26 · 165 cm |
+| MBTI | ENFJ |
+| Quote | "Client ada request baru." |
+| Likes | Planning, coffee, people, productivity tools, team discussions, nice cafés, travel |
+| Dislikes | Disorganisation, unclear communication, last-minute changes, unresponsive people |
+
+- **Hair:** light warm brown, **long and loosely wavy, worn down**, past the shoulder blades.
+  Lightest hair in the cast.
+- **Glasses:** no.
+- **Build:** average.
+- **Palette:** warm brown, terracotta, cream, slate blue.
+- **Personal props:** sticker MacBook, iPad + stylus, cream tote bag, tumbler, planning notebook,
+  sticky notes, structured shoulder bag, lanyard.
+- **Behaviour:** warm and direct, keeps eye contact, delivers bad news with an apologetic
+  half-smile. Organised, not bossy.
+- **Wardrobe `M-W01`:** cream blouse with rolled sleeves, black wide trousers, suspender straps,
+  NEXA lanyard, structured bag.
+
+---
+
+## Character separation matrix
+
+Two pairs in this cast collapse into each other if a prompt is lazy. Every multi-character
+panel prompt must carry the relevant row.
+
+### Deerock vs Kai — both male, both messy hair, both dark hoodies
+
+| | Deerock | Kai |
+| --- | --- | --- |
+| Hair colour | dark **purple**-black | pure **black** |
+| Glasses | **always** | **never** |
+| Height / build | 172 cm, slim | 178 cm, athletic, broader |
+| Headphones | over-ear, on the desk or on the head | **around the neck**, almost always |
+| Default expression | small, closed-mouth, calm | open-mouth grin, eyes crinkled |
+| Posture | upright, contained | leaning, sprawling, gesturing |
+
+Never give Kai glasses. Never give Kai purple hair. Never give Deerock a wide open laugh in a
+neutral scene.
+
+### Aki vs Mika — both brown hair, both cream top + black wide trousers + suspenders + lanyard
+
+| | Aki | Mika |
+| --- | --- | --- |
+| Hair | medium-long, **tied up in a messy bun** | long, **down and wavy** |
+| Hair tone | mid warm brown | lighter, more golden brown |
+| Height | 160 cm, petite | 165 cm, average |
+| Trousers | black **cargo** with pockets | black **plain wide** trousers |
+| Signature carry | cream tote bag, iPad + Apple Pencil | structured shoulder bag, planning notebook |
+| Register | playful, wink, peace sign | composed, professional warmth |
+
+If both are in frame, keep Aki's bun and Mika's loose hair clearly readable, and do not put
+them in the same colour top.
+
+---
+
+## Art-style consistency risk
+
+Aki and Mika were generated in a softer, rounder, more *moe* rendering than Deerock, Kai and
+Rin, who are drawn with sharper, more grounded anatomy. When they share a panel, pull the two
+towards the middle: keep eye size and face proportions consistent within a panel even if that
+means departing slightly from an individual sheet's rendering. See `bible/visual-style.md`.
+
+---
 
 ## Relationship notes
-- Deerock and Aki: close work partners; possible chemistry can emerge naturally, but no forced romance.
-- Deerock and Kai: friendly technical counterparts.
-- Deerock and Rin: respectful, slightly dry FE-QA dynamic.
-- Mika tries to protect the team while keeping the project moving.
-- The team can joke with each other; no character should be reduced to their job stereotype.
+
+- Deerock & Aki: close work partners. Chemistry may emerge naturally; no forced romance.
+- Deerock & Kai: friendly technical counterparts, FE to BE.
+- Deerock & Rin: respectful, dry FE to QA dynamic.
+- Kai & Rin: the loudest and the quietest; comedy comes from the gap, never from conflict.
+- Mika protects the team while keeping the project moving.
+- Nobody is reduced to their job stereotype. Everyone is competent.

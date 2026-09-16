@@ -15,23 +15,23 @@
 | Reference ID | Visual source of truth | Required use |
 | --- | --- | --- |
 | CHAR-DEEROCK | `characters/deerock.png` | Thin dark-frame glasses; slim/average build; medium messy layered dark purple-black hair; youthful slim/gentle face; facial hair only as a very thin, tiny, sparse patch directly beneath the lower lip, stopping well before the chin; clean chin; no beard, mustache, or stubble; calm small reactions. |
-| CHAR-AKI | `characters/aki.png` | No glasses; petite/average build; medium-long warm-brown hair in high bun/ponytail; light brighter office-casual silhouette; expressive natural smile. |
-| CHAR-KAI | `characters/kai.png` | No glasses; broader/stockier build; short neat black side-part hair; casual shirt/polo; headphones often around neck; relaxed posture. Never use Deerock's hair or glasses. |
-| CHAR-RIN | `characters/rin.png` | Default no glasses; slim/average build; straight shoulder-length dark hair; dark simple office casual; composed expression. |
-| CHAR-MIKA | `characters/mika.png` | No glasses; long light-brown/blonde-brown hair; longest/lightest hair in team; smart-casual blazer/cardigan; confident diplomatic posture. |
-| LOC-HOME | `locations/home.png` | Deerock's house: Bedroom 1, kitchen/dining, carport/front yard, C12 marker, established desk/bed/carport layouts. |
+| CHAR-AKI | `characters/aki.png` | No glasses; petite, 160 cm; warm-brown hair worn UP in a loose messy bun; cream sweater/blouse, black wide cargo trousers, suspenders, lanyard, cream tote bag; expressive natural smile. |
+| CHAR-KAI | `characters/kai.png` | No glasses; tallest of the cast, 178 cm, athletic with broader shoulders; PURE BLACK short-to-medium thick spiky messy hair with a heavy fringe (not a side part); dark hoodie under an open jacket, olive cargo trousers; over-ear headphones around the neck; relaxed posture, open grin. Never use Deerock's purple hair or glasses. |
+| CHAR-RIN | `characters/rin.png` | No glasses; slim, 162 cm; straight very dark hair, LONG — past the shoulders to mid-back — with a full blunt fringe; black oversized hoodie/jacket, dark grey cargo trousers, lanyard; calm deadpan expression. |
+| CHAR-MIKA | `characters/mika.png` | No glasses; 165 cm; light warm-brown hair, LONG, loosely wavy, worn DOWN — lightest hair in the team; cream blouse, black plain wide trousers, suspenders, lanyard, structured shoulder bag; warm, composed posture. |
+| LOC-HOME | `locations/home.png` | Deerock's house — Pesona Ciputih, Cisauk, Type Ruby, unit C12. Bedroom 1, kitchen/dining, carport/front yard, C12 marker, established desk/bed/carport layouts. A landed house, not an apartment. |
 | LOC-STATION | `locations/krl-station.png` | Sentra Lintas Station: elevated platform architecture, platform signs, gates, train/crowd geometry, approved signage language. |
 | LOC-KRL | `locations/krl-interior.png` | Standard KRL carriage: silver poles, triangular hanging straps, blue seats, door area, route display, believable commuter density. |
 | LOC-OFFICE | `locations/office.png` | NEXA Workspace: lobby/reception, access gates, open-workspace windows, plants, desk positions, and named desk cues. |
-| MOTORCYCLE | Latest approved motorcycle reference from production conversation | Dark/black Honda Vario 150, model year 2017, gold wheels. This model/generation must not be substituted. |
+| PROP-MOTORCYCLE | `props/motorcycle-vario150.jpg` | Honda Vario 150, model year 2017, matte dark grey/black bodywork, GOLD wheels. Photo reference — copy machine geometry and colour only, render in the comic's line-and-cel style. This model/generation must not be substituted. |
 
 ## Wardrobe and cross-panel continuity
 
-- **D-W01 / CHAR-DEEROCK:** Plain dark T-shirt, overshirt, jeans/chinos, thin dark glasses. Base layers in Panel 01; glasses worn from Panel 02 onward. Same dark practical backpack from Panels 03–07 and same coffee tumbler from Panels 03–06.
-- **A-W01 / CHAR-AKI:** Canonical light blouse/cardigan, casual office wear; high bun/ponytail in Panels 07–08.
-- **K-W01 / CHAR-KAI:** Canonical casual shirt/polo, no glasses, headphones around neck in Panels 07–08.
-- **R-W01 / CHAR-RIN:** Canonical dark simple office casual, no glasses, shoulder-length straight hair in Panels 07–08.
-- **M-W01 / CHAR-MIKA:** Canonical smart-casual cardigan/blazer, long light hair, phone/tablet in Panels 07–09.
+- **D-W01 / CHAR-DEEROCK:** Dark hoodie or dark overshirt over a plain dark tee, dark jeans/chinos, dark sneakers, one small orange accent, thin dark glasses. **No chest harness, no utility straps, no buckle pouches.** Base layers in Panel 01; glasses worn from Panel 02 onward. Same dark practical backpack from Panels 03–07 and the same black tumbler from Panels 03–06.
+- **A-W01 / CHAR-AKI:** Cream loose sweater or blouse, black wide cargo trousers, suspender straps, NEXA lanyard, sneakers; hair UP in a messy bun in Panels 07–08.
+- **K-W01 / CHAR-KAI:** Dark hoodie under an open dark jacket, olive/brown cargo trousers, no glasses, over-ear headphones around the neck in Panels 07–08.
+- **R-W01 / CHAR-RIN:** Black oversized hoodie or jacket over a light tee, dark grey wide cargo trousers, lanyard, no glasses, long straight hair worn down in Panels 07–08.
+- **M-W01 / CHAR-MIKA:** Cream blouse with rolled sleeves, black plain wide trousers, suspender straps, NEXA lanyard, structured bag, long wavy light hair worn down, phone/tablet in Panels 07–09.
 - **Time flow:** 06:45 → 07:02 → 07:12 → 07:35 → 07:48 → 08:45 → 08:50 → 09:05 → 09:10 → 09:10.
 - **Palette flow:** Warm morning home → bright/cool station and KRL → neutral daylight office. Muted cool neutrals with subtle Deerock purple/blue accents.
 - **Named-character availability:** Deerock only Panels 01–06; full team Panels 07–08; Deerock + Mika Panel 09; Deerock silhouette only Panel 10.
@@ -40,7 +40,7 @@
 
 ## Panel 01 — Alarm
 
-- **Reserved asset ID:** `ep00_p01_panel01_v001.png`.
+- **Reserved asset ID:** `ep00_panel01_v001.png`.
 - **Layout:** Upper section of the single 9:16 page; wide establishing panel.
 - **Character/reference:** CHAR-DEEROCK / `characters/deerock.png`, D-W01 base layers; glasses on bedside surface/desk, not worn.
 - **Location:** LOC-HOME / `locations/home.png`, Bedroom 1. Preserve bed, desk/monitor wall, blinds, plants, dark practical furnishings.
@@ -53,7 +53,7 @@
 
 ## Panel 02 — Coffee
 
-- **Reserved asset ID:** `ep00_p01_panel02_v001.png`.
+- **Reserved asset ID:** `ep00_panel02_v001.png`.
 - **Layout:** Immediately below Panel 01; medium portrait-oriented panel within same 9:16 page.
 - **Character/reference:** CHAR-DEEROCK / D-W01, glasses correctly worn.
 - **Location:** LOC-HOME / Kitchen & Dining; preserve refrigerator, shelves, worktop, table and rear daylight direction.
@@ -66,21 +66,21 @@
 
 ## Panel 03 — Leaving home
 
-- **Reserved asset ID:** `ep00_p01_panel03_v001.png`.
+- **Reserved asset ID:** `ep00_panel03_v001.png`.
 - **Layout:** Wide transition panel in the same single page.
 - **Character/reference:** CHAR-DEEROCK / D-W01, backpack worn, glasses on, tumbler in hand.
 - **Location:** LOC-HOME / front yard-carport and C12 marker.
 - **Camera/composition:** Rear three-quarter long shot from inside front yard, slightly below eye level; house façade/carport anchor background; Deerock right third moving left/out.
 - **Pose/action:** Mid-step after closing gate; backpack on both shoulders; tumbler low in hand; phone away.
 - **Lighting/time:** 07:12; clear warm Jakarta morning daylight.
-- **Props:** Front gate, C12 marker, existing vehicle and **MOTORCYCLE reference**.
+- **Props:** Front gate, C12 marker, the grey Honda car and **PROP-MOTORCYCLE** (`props/motorcycle-vario150.jpg`).
 - **Motorcycle lock:** Dark/black **Honda Vario 150, model year 2017, gold wheels**. Do not replace with another model, generation, year, wheel treatment, or motorcycle type.
 - **Dialogue:** None. SFX `KLIK` at gate latch.
 - **Continuity:** Backpack and tumbler continue to Panel 04. Do not redesign house, carport, or motorcycle.
 
 ## Panel 04 — Sentra Lintas platform
 
-- **Reserved asset ID:** `ep00_p02_panel04_v001.png`.
+- **Reserved asset ID:** `ep00_panel04_v001.png`.
 - **Layout:** Panoramic horizontal panel in the single 9:16 page.
 - **Character/reference:** CHAR-DEEROCK / D-W01, glasses, backpack, tumbler; anonymous commuters only.
 - **Location:** LOC-STATION / Sentra Lintas Station, Platform 1; elevated structure, platform `1` sign, red/blue train, city backdrop.
@@ -93,7 +93,7 @@
 
 ## Panel 05 — KRL notification
 
-- **Reserved asset ID:** `ep00_p02_panel05_v001.png`.
+- **Reserved asset ID:** `ep00_panel05_v001.png`.
 - **Layout:** Portrait-oriented panel in the single 9:16 page.
 - **Character/reference:** CHAR-DEEROCK / D-W01, thin glasses, backpack worn/held close; anonymous passengers only.
 - **Location:** LOC-KRL / centre standing area near doors; retain silver poles, triangular straps, blue seats, door markings, route display.
@@ -107,7 +107,7 @@
 
 ## Panel 06 — Office access
 
-- **Reserved asset ID:** `ep00_p02_panel06_v001.png`.
+- **Reserved asset ID:** `ep00_panel06_v001.png`.
 - **Layout:** Tall transition panel in the single 9:16 page.
 - **Character/reference:** CHAR-DEEROCK / D-W01, glasses, backpack, tumbler; optional background workers non-prominent.
 - **Location:** LOC-OFFICE / NEXA Workspace Lobby-Reception; preserve reception wall, NEXA mark, plants, access gates, floor finish and onward path.
@@ -120,7 +120,7 @@
 
 ## Panel 07 — Team arrival
 
-- **Reserved asset ID:** `ep00_p02_panel07_v001.png`.
+- **Reserved asset ID:** `ep00_panel07_v001.png`.
 - **Layout:** Wide ensemble panel in the single 9:16 page.
 - **Characters:** CHAR-DEEROCK / D-W01; CHAR-AKI / A-W01; CHAR-KAI / K-W01; CHAR-RIN / R-W01; CHAR-MIKA / M-W01.
 - **Location:** LOC-OFFICE / Open Workspace; established window wall, plants, desk zones and named desk cues.
@@ -130,11 +130,11 @@
 - **Lighting/time:** 08:50; soft window daylight + restrained office practical light.
 - **Props:** Backpack, Figma-like screen, Kai headphones, QA checklist, Mika phone/tablet, monitors/plants/chairs/windows from reference.
 - **Dialogue:** Aki `Pagi, Rock.` Kai `Pagi. API auth udah siap.` Rin `Aku mulai regression.` Mika `Stand-up sepuluh menit lagi.` Deerock `Oke.`
-- **Continuity:** Strict separation: Deerock has glasses, medium messy layered dark purple-black hair, youthful slim face and clean chin with only tiny sparse under-lower-lip patch; Kai has no glasses, short neat black side part, broader build. No caricature.
+- **Continuity:** Strict separation. Deerock: glasses, medium messy layered dark **purple**-black hair, youthful slim face, clean chin with only the tiny sparse under-lower-lip patch, 172 cm. Kai: **no glasses**, pure black spiky messy hair, 178 cm, broader, headphones around the neck. Aki: hair UP in a bun, black cargo trousers. Mika: hair DOWN, long and wavy and lighter, plain wide trousers. Aki and Mika must not wear the same colour top. No caricature.
 
 ## Panel 08 — Design to QA handoff
 
-- **Reserved asset ID:** `ep00_p03_panel08_v001.png`.
+- **Reserved asset ID:** `ep00_panel08_v001.png`.
 - **Layout:** Large workflow panel in the single 9:16 page.
 - **Characters:** Full team, same wardrobe codes.
 - **Location:** LOC-OFFICE / Open Workspace; same desk identities and aisle as Panel 07.
@@ -148,7 +148,7 @@
 
 ## Panel 09 — The small change
 
-- **Reserved asset ID:** `ep00_p03_panel09_v001.png`.
+- **Reserved asset ID:** `ep00_panel09_v001.png`.
 - **Layout:** Medium reaction panel in the single 9:16 page.
 - **Characters:** CHAR-DEEROCK / D-W01; CHAR-MIKA / M-W01 partly in frame.
 - **Location:** LOC-OFFICE / Deerock's Desk; dual monitors, black tumbler, headphones, plant, established desk position.
@@ -161,7 +161,7 @@
 
 ## Panel 10 — Episode title / ending
 
-- **Reserved asset ID:** `ep00_p03_panel10_v001.png`.
+- **Reserved asset ID:** `ep00_panel10_v001.png`.
 - **Layout:** Bottom full-width ending/title section of the same ONE 9:16 page. It is not a separate page or scene.
 - **Characters:** CHAR-DEEROCK / D-W01, soft partial side/rear silhouette only.
 - **Location:** LOC-OFFICE / Deerock's Desk; quiet defocused dual monitors and desk edge.
