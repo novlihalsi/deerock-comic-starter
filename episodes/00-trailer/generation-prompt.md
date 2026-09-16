@@ -4,6 +4,20 @@ One prompt, one image: the whole 10-panel 9:16 page. This is the chosen producti
 the trailer — it is a social-media teaser, not print, so a single good render beats a ten-step
 pipeline.
 
+## Paste it verbatim
+
+Copy the fenced block below **exactly**, straight into the image generator. Do not let a chat
+assistant rewrite, summarise or "improve" it on the way, and do not describe the trailer in your
+own words instead — a paraphrase loses the locks, and the page comes back as a different comic.
+
+**Canary:** if the finished page's title block does not read exactly `EPISODE 01` /
+`JUST ONE SMALL CHANGE` / `COMING SOON`, this prompt is not what ran. That has happened once
+already: a page came back with a motorcycle commute, narration captions and the title
+"A SLICE OF OUR DAYS" — none of which appear anywhere in this file.
+
+Other tells that something else ran: caption boxes narrating the panels (this prompt bans
+captions), no Sentra Lintas platform panel, no KRL carriage panel.
+
 ## Before you paste
 
 **Attach these reference images** (paths from `references/registry.md`):
