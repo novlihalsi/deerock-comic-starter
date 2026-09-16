@@ -6,7 +6,7 @@ Purpose: establish the visual identity, tone, main cast and everyday rhythm befo
 | --- | --- |
 | Format | ONE vertical 9:16 page |
 | Panels | 10, read continuously top to bottom |
-| Status | **Storyboard and panel specs locked. Artwork not approved.** |
+| Status | **Complete.** Artwork approved: `results/ep00_page01_v004.png` |
 | Files | [`storyboard.md`](storyboard.md) · [`panel-specs.md`](panel-specs.md) · [`drift-log.md`](drift-log.md) · [`results/`](results) |
 
 ## Production format
@@ -19,21 +19,23 @@ Purpose: establish the visual identity, tone, main cast and everyday rhythm befo
 - **Canon:** do not change story beats, dialogue, character roles, locations, wardrobe
   continuity or established world canon.
 
-## Current artwork status
+## Artwork
 
-`results/ep00_page01_v001.png` is a **draft, not approved**. It was generated as one whole page
-in a single shot and it breaks nine documented rules — decorative slogans rendered into panels,
-invented character name tags, dropped dialogue, a changed panel order and a broken facial-hair
-lock among them. The full comparison is in [`drift-log.md`](drift-log.md).
+**`results/ep00_page01_v004.png` is the final trailer page.** 941 x 1672, 9:16, approved
+2026-09-16. Generated in one shot from [`generation-prompt.md`](generation-prompt.md), then given
+two revision passes for typesetting.
 
-Keep it as a tone, rhythm and layout reference. Do not treat its text or its panel order as canon.
+It took three generation rounds plus revisions. Round one merged Kai into Deerock; round two
+fixed the cast but invented the buildings; round three, after the prompt gained a locked `SETS`
+section, came back correct (`v002`). Revisions then fixed the Panel 10 sky and the Panel 07 and 08
+bubbles (`v003`, `v004`). The full revision history and the one accepted deviation are in
+`assets/approved/manifest.md`.
 
-**Next step:** re-roll the page with [`generation-prompt.md`](generation-prompt.md) — one prompt,
-the whole 10-panel page, with every lock and the banned-text policy stated explicitly. Save each
-attempt as `results/ep00_page01_v002.png`, `v003`, and so on.
+`results/ep00_page01_v001.png` is the rejected first attempt, kept as a record. It broke nine
+documented rules — see [`drift-log.md`](drift-log.md). Do not treat its text or panel order as canon.
 
-If a single panel keeps failing, generate just that panel at the same aspect ratio and paste it
-over the page in an image editor.
+To produce a variant, re-roll from `generation-prompt.md` and save as `v005`, `v006` and so on.
+Never overwrite `v004`.
 
 ## Character continuity — Deerock
 

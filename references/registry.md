@@ -46,4 +46,7 @@ character sheet that contains them.
 
 | File | What it is | Status |
 | --- | --- | --- |
-| `episodes/00-trailer/results/ep00_page01_v001.png` | First full-page trailer attempt, generated in one shot | **draft, not approved** — see `episodes/00-trailer/drift-log.md` |
+| `episodes/00-trailer/results/ep00_page01_v004.png` | The trailer page | **approved, final** |
+| `episodes/00-trailer/results/ep00_page01_v003.png` | Revision pass | superseded by v004 |
+| `episodes/00-trailer/results/ep00_page01_v002.png` | First fully correct page | superseded by v003 |
+| `episodes/00-trailer/results/ep00_page01_v001.png` | First full-page trailer attempt, generated in one shot | rejected — see `episodes/00-trailer/drift-log.md` |

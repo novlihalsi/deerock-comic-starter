@@ -26,9 +26,31 @@ version and mark the old one `superseded`.
 
 | Asset | Episode | Status | Note |
 | --- | --- | --- | --- |
-| `episodes/00-trailer/results/ep00_page01_v001.png` | 00-trailer | **draft — rejected** | Single-shot full page. Nine rule breaks, see `episodes/00-trailer/drift-log.md`. Keep as a tone/layout reference only. |
+| `episodes/00-trailer/results/ep00_page01_v004.png` | 00-trailer | **APPROVED — final** | 941 x 1672 (9:16). Approved 2026-09-16. |
+| `episodes/00-trailer/results/ep00_page01_v003.png` | 00-trailer | superseded by v004 | Revision pass; lost Aki's greeting in Panel 07. |
+| `episodes/00-trailer/results/ep00_page01_v002.png` | 00-trailer | superseded by v003 | First fully correct page: cast, house and lobby all matching their sheets. |
+| `episodes/00-trailer/results/ep00_page01_v001.png` | 00-trailer | draft — rejected | Single-shot full page. Nine rule breaks, see `episodes/00-trailer/drift-log.md`. Keep as a tone/layout reference only. |
 
-No panel-level artwork has been generated yet.
+### Notes on the approved page
+Pre-flight checklist passes: 10 panels in order, all five characters identifiable, Deerock and Kai
+clearly separate, Aki and Mika clearly separate, house and lobby geometry match their sheets,
+Panel 10 daylight matches the 09:10 time flow, no captions or name tags, title block exact.
+Produced in one shot; no panel-level artwork exists.
+
+**Revision history after the first correct render:**
+- `v002` — generated from `episodes/00-trailer/generation-prompt.md`. Correct cast and sets, but
+  Panel 10's sky read as dusk, Panel 07's "Oke." sat at the far right away from Deerock, and
+  Panel 08's Aki line read "Empty state. pakai yang ini, ya."
+- `v003` — external revision. Panel 10 sky changed to daylight, "Oke." moved next to Deerock,
+  Panel 08 gained "-nya". Regression: Panel 07 lost Aki's opening line "Pagi, Rock."
+- `v004` — external revision restored "Pagi, Rock." in Panel 07. A stray full stop after
+  "state-nya" in Panel 08 was then removed by a direct pixel edit: 30 pixels inside a 4 x 8 box at
+  (166, 1012), filled from the bubble background 6 px to the right. No other pixel changed.
+
+**Accepted deviation in v004:**
+- Panel 07, Kai's line reads "API auth udah siap." instead of the specified
+  "Pagi. API auth udah siap." Aki greets Deerock first, so the exchange still reads naturally.
+  Left as is; adding the word would mean retypesetting the bubble.
 
 ## Not for production
 

@@ -61,7 +61,7 @@ There is no need for a large overarching plot.
 ## Episode format
 | Slug | Format | Status |
 | --- | --- | --- |
-| `00-trailer` | ONE vertical 9:16 page, 10 panels read top-to-bottom | drafted, artwork not approved |
+| `00-trailer` | ONE vertical 9:16 page, 10 panels read top-to-bottom | **complete** — `episodes/00-trailer/results/ep00_page01_v004.png` |
 | `01-just-one-small-change` | 3 pages, 3–4 panels per page | outline only |
 
 Changing an episode's page format is a canon change: update the episode's `README.md` and

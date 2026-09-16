@@ -72,9 +72,22 @@ in `references/off-canon/` with an explicit usage note.
 
 ---
 
-## What to do next
+## Resolved
 
-Regenerate the trailer **panel by panel** per `bible/consistency-guide.md` section 7:
-ten prompts, ten reviews, approve each one, then typeset and assemble. Reserved names are in
-`panel-specs.md`. Keep `ep00_page01_v001.png` as the tone and layout reference — it is a good
-guide to rhythm and framing — but do not treat any of its text or its panel order as canon.
+`results/ep00_page01_v004.png` is the approved final page. It came from `generation-prompt.md`
+in one shot (as `v002`), then took two typesetting revision passes. Every item above is fixed in it.
+
+Two further rounds were needed after this log was written, and both had the same shape as the
+failures above — a constraint that was never stated, rather than a generator that ignored one:
+
+- **Round two:** Kai came back looking like Deerock. The bible described both men's hair as
+  "messy", so there was nothing to tell them apart but the glasses. Hair *length* is now the lead
+  separator, and "messy" is banned for Kai.
+- **Round three:** the cast was right but the buildings were invented — the NEXA lobby had its
+  gates in front of the reception, and Deerock's house came back as a glass villa with an MPV.
+  The prompt was giving each character eight locked lines and each location one passing clause.
+  It now carries a locked `SETS` section.
+
+**The pattern across all three rounds:** the generator did not disobey a stated rule. It filled
+in whatever the prompt left unstated. Everything that was written down explicitly came back
+correct; everything assumed came back invented.
