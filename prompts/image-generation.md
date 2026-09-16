@@ -99,8 +99,8 @@ Everything not named under CHANGE ONLY must be pixel-for-pixel equivalent in int
 
 ## Notes that matter in practice
 
-- **One panel at a time.** Generating a full page in one shot has been tried here and it broke
-  nine rules at once — see `episodes/00-trailer/drift-log.md`.
+- **This template is the panel-by-panel route.** For a whole page in one shot, see
+  `episodes/00-trailer/generation-prompt.md` instead — same locks, one prompt.
 - **Prefer generating art without long dialogue baked in** if your generator's text rendering is
   unreliable, then typeset in the assembly step. Identity and environment continuity come first.
 - **Do not paraphrase the blocks.** Paste them. Every rewrite loses a locked trait.

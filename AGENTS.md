@@ -60,8 +60,10 @@ reference images + full character blocks + separation clause + location block
 - Paste the character blocks from `prompts/character-blocks.md` **verbatim**. Do not paraphrase
   or shorten them — that is where identity drift starts.
 - Paste the `NEGATIVE` block from `prompts/negative-prompts.md` into every prompt.
-- **One panel per generation.** Never generate a whole page in one shot when consistency
-  matters; the evidence for why is in `episodes/00-trailer/drift-log.md`.
+- **Pick a route and say which.** Route A generates the whole page in one shot — the default
+  for social posts, and the trailer's chosen method. Route B generates one panel at a time and
+  composites. Both are defined in `bible/consistency-guide.md` section 7. Route A cannot be
+  fixed panel by panel, so re-roll the page with one corrective line at a time.
 - Review every output against the pre-flight checklist in `bible/consistency-guide.md`
   section 10 before accepting it. If it drifted, regenerate from the reference — do not accept
   the drift and do not redesign the character to match it.

@@ -48,7 +48,7 @@ for (const file of walk(root)) {
   text.split("\n").forEach((line, i) => {
     for (const [, cited] of line.matchAll(ASSET_RE)) {
       // Template placeholders and output-name patterns are not real paths.
-      if (cited.includes("<") || /^ep\d/.test(cited)) continue;
+      if (cited.includes("<") || /^ep\d/.test(cited.split("/").pop())) continue;
       if (RETIRED.has(cited)) continue;
       // A bare filename with no directory is prose ("the episode's `storyboard.md`"),
       // not a path an agent could attach. Every attachable path in this repo has a folder.

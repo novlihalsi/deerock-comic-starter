@@ -48,7 +48,8 @@ tools/check-refs.mjs     validates that every cited path exists
 1. The approved **reference sheet is the visual source of truth.** If the prose in a bible
    disagrees with the sheet, the sheet wins — then fix the prose.
 2. Do not invent or alter a canonical trait without updating the owning bible file first.
-3. **One panel per generation.** Never generate a whole page in one shot when consistency matters.
+3. **Pick a generation route and write it down** — one-shot page, or panel by panel and composite.
+   See `bible/consistency-guide.md` section 7.
 4. Never overwrite an approved image. Bump the version.
 5. Only specified dialogue, real signage/UI, specified SFX and the title block may appear as
    text in a panel. Never transcribe the slogans printed on the reference sheets.

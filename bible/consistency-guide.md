@@ -105,21 +105,44 @@ pose and expression · props · what must match the previous and next panel.
 
 ## 7. Generation workflow
 
+Two routes. Pick per deliverable, and write down which one the episode uses.
+
+### Route A — one-shot page (default for social posts)
+
 ```
-A. Confirm the reference sheet exists and is approved.
-B. Write the panel spec (see section 6).
-C. Build the prompt from prompts/image-generation.md — references + IDs + spec + negatives.
-D. Generate ONE panel.
-E. Review against the reference and the pre-flight checklist (section 10).
-F. Drift? Fix and regenerate from the reference. Do not proceed with a drifted panel.
-G. Approve: bump the version, record it in assets/approved/manifest.md.
-H. Only after every panel is approved: typeset dialogue and assemble the page.
+A. Confirm the reference sheets exist and are approved.
+B. Build one prompt covering the whole page: cast locks, separation clauses, layout,
+   every panel, the text policy, the NEGATIVE block.
+C. Generate the page.
+D. Review against the pre-flight checklist (section 10).
+E. Miss? Add ONE corrective line and re-roll the page. Bump the version every time.
+F. Approve: record it in assets/approved/manifest.md.
 ```
 
-**Do not generate a whole page in one shot when consistency matters.** The existing trailer
-attempt at `episodes/00-trailer/results/ep00_page01_v001.png` was produced that way and broke
-nine separate rules — the evidence is in `episodes/00-trailer/drift-log.md`. Panel-level
-generation plus assembly is slower and is the only thing that has worked.
+Fast, and the page rhythm and lighting stay coherent because it is one render. The cost is that
+a re-roll changes all ten panels — you cannot fix one in place. `episodes/00-trailer/generation-prompt.md`
+is the worked example, with a troubleshooting table for targeted re-rolls.
+
+### Route B — panel by panel (when a panel will not behave)
+
+```
+A. Write the panel spec (see section 6).
+B. Build the prompt from prompts/image-generation.md — references + IDs + spec + negatives.
+C. Generate ONE panel. Feed the previous approved panel as a style anchor.
+D. Review, fix, approve, version.
+E. Typeset dialogue and assemble the page.
+```
+
+Slower, and it needs an assembly step, but every panel is independently fixable and rendered at
+much higher resolution. Use it for print, for a page that keeps failing as a whole, or to
+replace a single stubborn panel on an otherwise good one-shot page.
+`tools/assemble.html` plus `episodes/00-trailer/layout.js` do the compositing and typesetting.
+
+**Whichever route:** the failure mode is the same. The trailer attempt at
+`episodes/00-trailer/results/ep00_page01_v001.png` broke nine rules — slogans copied off the
+reference sheets, invented name tags, a broken facial-hair lock. None of those are caused by
+one-shot generation as such; they are caused by not stating the constraints. See
+`episodes/00-trailer/drift-log.md`.
 
 ---
 

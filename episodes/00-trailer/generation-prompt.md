@@ -1,0 +1,212 @@
+# Trailer — One-Shot Generation Prompt
+
+One prompt, one image: the whole 10-panel 9:16 page. This is the chosen production method for
+the trailer — it is a social-media teaser, not print, so a single good render beats a ten-step
+pipeline.
+
+## Before you paste
+
+**Attach these reference images** (paths from `references/registry.md`):
+
+```
+characters/deerock.png      characters/aki.png      characters/kai.png
+characters/rin.png          characters/mika.png
+locations/home.png          locations/krl-station.png    locations/krl-interior.png
+locations/office.png        props/motorcycle-vario150.jpg
+```
+
+Ten attachments is a lot for some tools. If yours caps out, drop in this order:
+`krl-station.png` → `motorcycle-vario150.jpg` → `krl-interior.png`. Never drop a character sheet.
+
+**Do not attach** `references/off-canon/deerock-virelux-cover.png` — it contains a katana and a
+tactical harness, and it will leak into the render.
+
+Output at **9:16**. Export 1080×1920 for a story, or keep the largest the generator gives you.
+
+---
+
+## The prompt
+
+```
+A single vertical 9:16 comic page, 10 panels, read top to bottom.
+Contemporary slice-of-life manga/anime: clean linework, restrained cel shading, subtle halftone
+texture, soft cinematic lighting, realistic modern Indonesian environments, natural expressions.
+Muted cool palette with subtle purple and blue accents. Thin dark panel borders, thin white
+gutters, white page background. Consistent line weight, eye size and face proportion across
+every character on the page.
+
+=== CAST — match the attached character sheets exactly ===
+
+DEEROCK — 25, male, frontend developer, 172 cm, slim. Dark PURPLE-black hair, medium length,
+layered, slightly messy — it must read purple, not black. ALWAYS wears thin dark rectangular
+glasses. Youthful slim face. CLEAN CHIN — no beard, no moustache, no stubble, no jaw shadow;
+the only facial hair is a very thin, tiny, sparse patch directly beneath the lower lip.
+Wears a dark hoodie or dark overshirt over a plain dark tee, dark jeans, dark sneakers, with
+one small orange accent. No harness, no straps, no pouches.
+Expression register: small and contained — slight frown, small smile, flat stare. Never broad.
+
+AKI — 24, female, UI/UX designer, 160 cm, petite. Warm brown hair worn UP in a loose messy BUN
+with soft face-framing strands. No glasses. Cream loose sweater, black wide cargo trousers,
+suspender straps, lanyard. Open, expressive, smiles big.
+
+KAI — 28, male, backend developer, 178 cm, tallest and broadest of the team. PURE BLACK hair,
+short-to-medium, thick, spiky and messy with a heavy fringe. NEVER wears glasses. Dark hoodie
+under an open dark jacket, olive cargo trousers. Over-ear headphones AROUND HIS NECK.
+Relaxed posture, open grin.
+
+RIN — 24, female, QA engineer, 162 cm, slim. Very dark straight hair, LONG — past the shoulders
+down to mid-back — with a full blunt fringe. No glasses. Black oversized hoodie over a light
+tee, dark grey cargo trousers, lanyard. Calm, still, deadpan.
+
+MIKA — 26, female, project manager, 165 cm. Light warm brown hair, LONG, loosely wavy, worn
+DOWN past the shoulder blades — the lightest hair on the page. No glasses. Cream blouse with
+rolled sleeves, black plain wide trousers, suspender straps, lanyard, structured shoulder bag.
+Warm and composed.
+
+SEPARATION — these two pairs must never blur together:
+Deerock has purple-black hair AND glasses; Kai has pure black hair and NO glasses, and is
+taller and broader with headphones around his neck.
+Aki's hair is UP in a bun and she wears cargo trousers; Mika's hair is DOWN, long, wavy and
+lighter, and she wears plain wide trousers. They must not wear the same colour top.
+
+Everyone wears the same outfit in every panel — this is one single workday.
+
+=== PAGE LAYOUT ===
+
+Row 1 — three panels side by side: Panel 1, Panel 2, Panel 3.
+Row 2 — two panels: Panel 4 (wide, about two thirds) and Panel 5 (narrower).
+Row 3 — Panel 6, full width, short and letterboxed.
+Row 4 — Panel 7, full width.
+Row 5 — Panel 8, full width, the tallest panel on the page.
+Row 6 — Panel 9, full width.
+Row 7 — Panel 10, full width, the bottom title band.
+
+=== PANELS ===
+
+PANEL 1 — 06:45. Deerock's bedroom (see home sheet, Bedroom 1: dual-monitor desk, window
+blinds, plants, dark bed). High three-quarter angle from the doorway. Deerock lies awake in bed
+reaching out to silence his phone alarm, sleepy but not distressed. His glasses sit on the
+bedside surface, NOT worn. Soft warm morning light through half-open blinds.
+Sound effect near the phone: BEEP BEEP
+
+PANEL 2 — 07:02. The kitchen and dining area of the same house. Waist-level side medium shot.
+Deerock, glasses on now, pours coffee into a plain mug while glancing at his phone. Calm and
+routine. His packed backpack leans against a dining chair. Warm kitchen light.
+Thought bubble: Masih sempat.
+Sound effect: TUANG
+
+PANEL 3 — 07:12. The front yard and carport of the house. Rear three-quarter wide shot from
+inside the yard. Deerock, backpack on both shoulders and a black tumbler in one hand, has just
+closed the front gate and walks out toward the street. In the carport behind him: a grey Honda
+car and a matte dark grey/black HONDA VARIO 150 scooter WITH GOLD WHEELS. The gate post reads
+C12. Clear warm morning daylight.
+Sound effect at the gate latch: KLIK
+
+PANEL 4 — 07:35. Sentra Lintas Station, Platform 1 — elevated KRL station, steel and concrete
+structure, tactile paving, yellow safety line, city skyline behind. Platform-level wide shot
+looking down the tracks. Deerock waits safely behind the line, neutral and prepared, among an
+ordinary weekday crowd. A red and white commuter train approaches in the background.
+A blue platform sign above reads: 1
+Sound effect: KRRRSH
+
+PANEL 5 — 07:48. Inside the KRL carriage: blue patterned seats, silver poles, yellow triangular
+hanging straps, believable weekday crowd. Over-the-shoulder medium close-up from behind
+Deerock's right side. One hand on a pole, the other holding his phone, reading a chat message.
+Barely perceptible eyebrow raise.
+Phone screen shows one short chat line: Mika — Stand-up 09.30
+Thought bubble: Belum sampai kantor.
+Sound effect: TING
+
+PANEL 6 — 08:45. NEXA Workspace lobby and reception: reception wall with the NEXA mark, plants,
+access gates, glass façade daylight. Wide letterboxed rear three-quarter shot at gate height.
+Deerock taps his access card on the gate reader and looks through toward the workspace. Calm,
+more alert than on the commute.
+Sound effect: BIP
+
+PANEL 7 — 08:50. NEXA open workspace: full-height window wall, warm wood desks, dual monitors,
+plants. Eye-level wide conversational shot down the desk aisle. Deerock in the foreground left,
+setting his backpack down. Aki turns from her Figma screen. Kai swivels in his chair, headphones
+around his neck. Rin looks up from a checklist. Mika walks in with a tablet. Everyone is mid-work,
+not posed for the camera. Leave clear space above the characters for speech bubbles.
+Speech bubbles, short, in this order left to right:
+  Aki: Pagi, Rock.
+  Kai: API auth udah siap.
+  Rin: Aku mulai regression.
+  Mika: Stand-up sepuluh menit lagi.
+  Deerock: Oke.
+
+PANEL 8 — 09:05. The same open workspace, slightly elevated wide shot across four desk zones.
+Read left to right: Aki points at a Figma screen, Deerock types code, Kai checks an API response,
+Rin writes a test step. Mika stands in the aisle making a note. Collaborative and attentive;
+nobody is overwhelmed and nobody is the villain. Screens show only simple schematic UI, code and
+charts — no readable body text. Leave clear space above for speech bubbles.
+Speech bubbles:
+  Aki: Empty state pakai yang ini, ya.
+  Deerock: Siap, aku sambung ke endpoint baru.
+  Kai: Response-nya sudah ada.
+  Rin: Nanti aku cek kondisi kosongnya.
+  Mika: Aku catat buat stand-up.
+
+PANEL 9 — 09:10. Deerock's desk: dual monitors, black tumbler, headphones, a small plant.
+Shot over Mika's shoulder at seated eye level. Deerock pauses at the keyboard and looks up.
+Mika delivers the update with a measured, slightly apologetic half-smile. Deerock gives a small
+blank-stare beat — restrained, no cartoon shock lines, no sweat drop.
+Speech bubbles:
+  Mika: Oh iya, ada satu perubahan kecil lagi...
+  Deerock: Yang bagian mana?
+
+PANEL 10 — 09:10. Bottom title band. Deerock seen from behind at his desk, soft and partly
+defocused, monitors glowing quietly. Same neutral office light, subtly softened. Keep the left
+half visually quiet for the title typography.
+Title text, exactly these three lines and nothing else:
+  EPISODE 01
+  JUST ONE SMALL CHANGE
+  COMING SOON
+
+=== TEXT POLICY ===
+The ONLY text anywhere on this page is: the speech and thought bubbles listed above, the sound
+effects listed above, the three title lines in Panel 10, the platform sign "1", the short chat
+line in Panel 5, and the "NEXA" mark and "C12" gate marker where they naturally appear on the
+set. Spell every line exactly as written. Nothing else is written anywhere.
+
+=== NEGATIVE ===
+No katana, no sword, no ninja, no samurai, no fantasy armour, no tactical harness, no chest rig,
+no utility straps or buckle pouches, no supernatural effects, no action aura, no glowing weapon,
+no cyberpunk elements, no magazine-cover layout, no lens flare, no dramatic hero angles,
+no photorealism, no chibi, no 3D render.
+Deerock is never without glasses; his hair is never plain black; his chin is always clean —
+no beard, no moustache, no stubble.
+Kai never wears glasses and never has purple hair.
+No captions, no slogans, no taglines, no motivational copy, no character name tags, no role
+labels under characters, no series title, no subtitle, no watermark, no branding, no invented
+screen text, no katakana or Japanese decoration on clothing, no magazine headline typography.
+Do not copy any decorative text printed on the reference sheets.
+```
+
+---
+
+## If the render misses
+
+Re-roll the whole page with one line added at the very top of the prompt. One fix at a time —
+stacking them tends to make the model over-correct.
+
+| What went wrong | Line to add |
+| --- | --- |
+| Slogans or captions appeared | `Absolutely no text on this page except the speech bubbles, sound effects and the three title lines. No captions anywhere.` |
+| Name tags under characters | `Do not label or name any character. No name tags, no role labels.` |
+| Deerock grew stubble or a beard | `Deerock's chin is completely clean-shaven and smooth in every panel.` |
+| Deerock and Kai look alike | `Deerock and Kai must look like two clearly different people: Deerock purple hair and glasses, Kai black hair and no glasses.` |
+| Aki and Mika look alike | `Aki's hair is tied up in a bun; Mika's hair is long, loose and wavy. Different hairstyles, different coloured tops.` |
+| Panels merged or reordered | `Exactly 10 panels in the layout described, in order, none merged, none added.` |
+| Dialogue garbled | Drop the dialogue: replace every bubble with `empty white speech bubble` and add the text afterwards in any editor. |
+| Page feels cramped | `Fewer background characters. More breathing room inside each panel.` |
+
+Save each attempt as `results/ep00_page01_v002.png`, `v003`, and so on — never overwrite. When
+one is good, mark it approved in `assets/approved/manifest.md`.
+
+## Known trade-off
+
+A one-shot page cannot be fixed panel by panel: a re-roll changes all ten. If one specific panel
+keeps failing after three or four attempts, generate just that panel separately and paste it
+over the page in any image editor. `tools/assemble.html` and `layout.js` are set up for that if
+you ever want the full panel-by-panel route, but for a social post this prompt is the fast path.

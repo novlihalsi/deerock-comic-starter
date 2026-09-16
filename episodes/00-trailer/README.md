@@ -28,8 +28,12 @@ lock among them. The full comparison is in [`drift-log.md`](drift-log.md).
 
 Keep it as a tone, rhythm and layout reference. Do not treat its text or its panel order as canon.
 
-**Next step:** regenerate panel by panel following `bible/consistency-guide.md` section 7.
-Reserved output names are in `panel-specs.md` (`ep00_panel01_v001.png` … `ep00_panel10_v001.png`).
+**Next step:** re-roll the page with [`generation-prompt.md`](generation-prompt.md) — one prompt,
+the whole 10-panel page, with every lock and the banned-text policy stated explicitly. Save each
+attempt as `results/ep00_page01_v002.png`, `v003`, and so on.
+
+If a single panel keeps failing, generate just that panel and paste it over the page;
+`tools/assemble.html` with [`layout.js`](layout.js) does the compositing and typesetting.
 
 ## Character continuity — Deerock
 
