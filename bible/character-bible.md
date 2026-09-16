@@ -23,8 +23,10 @@ Reference: `characters/deerock.png`
 | Likes | Coffee, clean UI, music, solitude |
 | Dislikes | Unnecessary meetings, vague requirements, last-minute changes |
 
-- **Hair:** dark purple-black, medium length, layered and slightly messy. The purple is the
-  single strongest identity cue in the cast — it must read as purple-black, not plain black.
+- **Hair:** dark purple-black, **medium length and layered** — soft strands falling over the
+  forehead, covering the ears, reaching the nape. The purple is the single strongest identity cue
+  in the cast; it must read as purple-black, not plain black. Length *and* colour together are
+  what separate him from Kai.
 - **Face:** youthful, slim, gentle features. **Locked:** facial hair is only a very thin, tiny,
   sparse patch directly beneath the lower lip, stopping well before the chin. Clean chin.
   No beard, no moustache, no stubble, no jaw shadow.
@@ -88,17 +90,19 @@ Reference: `characters/kai.png`
 | Likes | Good food, music, gaming, tech, coffee, sports, travel |
 | Dislikes | Complicated people, repetitive work, overthinking |
 
-- **Hair:** **black**, short-to-medium, thick, spiky and messy with a heavy fringe. It is *not*
-  a neat side part, and it is messy like Deerock's — so hair texture alone does not separate
-  them. See the separation matrix below.
+- **Hair:** jet **black** and **short** — cropped short at the sides and back, ears and nape
+  fully exposed, short spiky tousled top, short fringe off the forehead. Clearly shorter than
+  Deerock's: no layered strands, nothing covering the ears, nothing reaching the collar.
+  **Never prompt Kai's hair as "messy."** That one word is what pulls him into Deerock's
+  silhouette — say "short, spiky, cropped" instead.
 - **Glasses:** never.
 - **Build:** tallest of the cast, athletic, broader shoulders than Deerock.
 - **Palette:** warm charcoal, brown-grey, taupe, dusty blue.
 - **Personal props:** over-ear headphones **worn around the neck** (his strongest silhouette
   cue), MacBook, mechanical keyboard, black tumbler, cap, backpack, chibi mascot keychain.
 - **Behaviour:** loud open laughs, relaxed posture, leans back in his chair, talks with his hands.
-- **Wardrobe `K-W01`:** dark hoodie under an open dark jacket, olive/brown cargo trousers,
-  headphones around the neck, sneakers.
+- **Wardrobe `K-W01`:** dark hoodie under an open dark jacket, **olive-brown** cargo trousers
+  (clearly lighter and warmer than Deerock's near-black jeans), headphones around the neck, sneakers.
 
 ---
 
@@ -157,19 +161,24 @@ Reference: `characters/mika.png`
 Two pairs in this cast collapse into each other if a prompt is lazy. Every multi-character
 panel prompt must carry the relevant row.
 
-### Deerock vs Kai — both male, both messy hair, both dark hoodies
+### Deerock vs Kai — both male, both dark-haired, both in dark hoodies
+
+**This is the pair that actually collapses.** It has happened in generation: Kai came out looking
+like Deerock. Hair *length* does the most work — lead with it, then carry the rest anyway.
 
 | | Deerock | Kai |
 | --- | --- | --- |
-| Hair colour | dark **purple**-black | pure **black** |
+| Hair length | **medium**, layered, covers the ears, reaches the nape | **short**, cropped at the sides and back, ears and nape exposed |
+| Hair colour | dark **purple**-black | jet **black** |
 | Glasses | **always** | **never** |
 | Height / build | 172 cm, slim | 178 cm, athletic, broader |
-| Headphones | over-ear, on the desk or on the head | **around the neck**, almost always |
-| Default expression | small, closed-mouth, calm | open-mouth grin, eyes crinkled |
+| Headphones | over-ear, on the desk or on his head | **around the neck**, almost always |
+| Trousers | near-black jeans/chinos | **olive-brown** cargo — lighter and warmer |
+| Default expression | small, closed-mouth, calm | open grin, teeth showing, eyes crinkled |
 | Posture | upright, contained | leaning, sprawling, gesturing |
 
-Never give Kai glasses. Never give Kai purple hair. Never give Deerock a wide open laugh in a
-neutral scene.
+Never give Kai glasses. Never give Kai purple hair. **Never call Kai's hair "messy"** — use
+"short, spiky, cropped". Never give Deerock a wide open laugh in a neutral scene.
 
 ### Aki vs Mika — both brown hair, both cream top + black wide trousers + suspenders + lanyard
 

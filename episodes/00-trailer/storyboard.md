@@ -94,7 +94,7 @@
 - **Characters:** CHAR-DEEROCK (D-W01, backpack worn); background workers optional and non-prominent.
 - **Action/expression:** Deerock taps his access card and looks toward the workspace; calm and more alert.
 - **Camera:** Low-to-mid rear three-quarter at gate height.
-- **Composition:** Reader/gate foreground; Deerock centre; NEXA wall and workspace beyond.
+- **Composition:** Gate reader foreground; Deerock centre; reception desk and marble NEXA wall behind him; lift doors ahead. The open workspace is not visible from the lobby.
 - **Dialogue:** None.
 - **SFX:** `BIP`.
 - **Lighting/time:** 08:45; neutral lobby lighting plus glass-façade daylight.
@@ -111,7 +111,7 @@
 - **Composition:** Deerock foreground-left; Aki/Kai middle; Rin/Mika complete depth. Keep all defining silhouettes readable and speech bubbles unambiguous.
 - **Dialogue:** Aki: “Pagi, Rock.” Kai: “Pagi. API auth udah siap.” Rin: “Aku mulai regression.” Mika: “Stand-up sepuluh menit lagi.” Deerock: “Oke.”
 - **Lighting/time:** 08:50; soft window daylight and restrained office practical light.
-- **Continuity:** Strict character separation. Deerock: glasses, medium messy dark **purple**-black hair, slim youthful face, clean chin with only the tiny sparse under-lower-lip patch, 172 cm. Kai: **no glasses**, pure black spiky messy hair, 178 cm, broader, headphones around the neck. Aki: bun. Mika: long wavy hair worn down. Wardrobe codes unchanged.
+- **Continuity:** Strict character separation. Deerock: glasses, medium messy dark **purple**-black hair, slim youthful face, clean chin with only the tiny sparse under-lower-lip patch, 172 cm. Kai: **no glasses**, jet-black **short cropped** hair with ears and nape exposed, 178 cm, broader, headphones around the neck. Aki: bun. Mika: long wavy hair worn down. Wardrobe codes unchanged.
 
 ### Panel 08 — Design to QA handoff
 

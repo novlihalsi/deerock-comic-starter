@@ -32,8 +32,8 @@ Keep it as a tone, rhythm and layout reference. Do not treat its text or its pan
 the whole 10-panel page, with every lock and the banned-text policy stated explicitly. Save each
 attempt as `results/ep00_page01_v002.png`, `v003`, and so on.
 
-If a single panel keeps failing, generate just that panel and paste it over the page;
-`tools/assemble.html` with [`layout.js`](layout.js) does the compositing and typesetting.
+If a single panel keeps failing, generate just that panel at the same aspect ratio and paste it
+over the page in an image editor.
 
 ## Character continuity — Deerock
 

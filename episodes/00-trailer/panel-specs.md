@@ -16,20 +16,20 @@
 | --- | --- | --- |
 | CHAR-DEEROCK | `characters/deerock.png` | Thin dark-frame glasses; slim/average build; medium messy layered dark purple-black hair; youthful slim/gentle face; facial hair only as a very thin, tiny, sparse patch directly beneath the lower lip, stopping well before the chin; clean chin; no beard, mustache, or stubble; calm small reactions. |
 | CHAR-AKI | `characters/aki.png` | No glasses; petite, 160 cm; warm-brown hair worn UP in a loose messy bun; cream sweater/blouse, black wide cargo trousers, suspenders, lanyard, cream tote bag; expressive natural smile. |
-| CHAR-KAI | `characters/kai.png` | No glasses; tallest of the cast, 178 cm, athletic with broader shoulders; PURE BLACK short-to-medium thick spiky messy hair with a heavy fringe (not a side part); dark hoodie under an open jacket, olive cargo trousers; over-ear headphones around the neck; relaxed posture, open grin. Never use Deerock's purple hair or glasses. |
+| CHAR-KAI | `characters/kai.png` | No glasses; tallest of the cast, 178 cm, athletic with broader shoulders; JET BLACK **short** hair — cropped at the sides and back, ears and nape fully exposed, short spiky tousled top; dark hoodie under an open jacket, olive-brown cargo trousers; over-ear headphones around the neck; relaxed posture, open grin. Never use Deerock's purple or ear-covering hair, and never his glasses. |
 | CHAR-RIN | `characters/rin.png` | No glasses; slim, 162 cm; straight very dark hair, LONG — past the shoulders to mid-back — with a full blunt fringe; black oversized hoodie/jacket, dark grey cargo trousers, lanyard; calm deadpan expression. |
 | CHAR-MIKA | `characters/mika.png` | No glasses; 165 cm; light warm-brown hair, LONG, loosely wavy, worn DOWN — lightest hair in the team; cream blouse, black plain wide trousers, suspenders, lanyard, structured shoulder bag; warm, composed posture. |
 | LOC-HOME | `locations/home.png` | Deerock's house — Pesona Ciputih, Cisauk, Type Ruby, unit C12. Bedroom 1, kitchen/dining, carport/front yard, C12 marker, established desk/bed/carport layouts. A landed house, not an apartment. |
 | LOC-STATION | `locations/krl-station.png` | Sentra Lintas Station: elevated platform architecture, platform signs, gates, train/crowd geometry, approved signage language. |
 | LOC-KRL | `locations/krl-interior.png` | Standard KRL carriage: silver poles, triangular hanging straps, blue seats, door area, route display, believable commuter density. |
-| LOC-OFFICE | `locations/office.png` | NEXA Workspace: lobby/reception, access gates, open-workspace windows, plants, desk positions, and named desk cues. |
+| LOC-OFFICE | `locations/office.png` | NEXA Workspace, two separate spaces: enclosed ground-floor lobby (reception desk in front of the marble NEXA wall **first**, access gates and lift doors further in) and the upper-floor open workspace (window wall, plants, fixed desk positions, named desk cues). The workspace is never visible from the lobby. |
 | PROP-MOTORCYCLE | `props/motorcycle-vario150.jpg` | Honda Vario 150, model year 2017, matte dark grey/black bodywork, GOLD wheels. Photo reference — copy machine geometry and colour only, render in the comic's line-and-cel style. This model/generation must not be substituted. |
 
 ## Wardrobe and cross-panel continuity
 
 - **D-W01 / CHAR-DEEROCK:** Dark hoodie or dark overshirt over a plain dark tee, dark jeans/chinos, dark sneakers, one small orange accent, thin dark glasses. **No chest harness, no utility straps, no buckle pouches.** Base layers in Panel 01; glasses worn from Panel 02 onward. Same dark practical backpack from Panels 03–07 and the same black tumbler from Panels 03–06.
 - **A-W01 / CHAR-AKI:** Cream loose sweater or blouse, black wide cargo trousers, suspender straps, NEXA lanyard, sneakers; hair UP in a messy bun in Panels 07–08.
-- **K-W01 / CHAR-KAI:** Dark hoodie under an open dark jacket, olive/brown cargo trousers, no glasses, over-ear headphones around the neck in Panels 07–08.
+- **K-W01 / CHAR-KAI:** Dark hoodie under an open dark jacket, olive-brown cargo trousers (lighter than Deerock's near-black jeans), no glasses, over-ear headphones around the neck in Panels 07–08.
 - **R-W01 / CHAR-RIN:** Black oversized hoodie or jacket over a light tee, dark grey wide cargo trousers, lanyard, no glasses, long straight hair worn down in Panels 07–08.
 - **M-W01 / CHAR-MIKA:** Cream blouse with rolled sleeves, black plain wide trousers, suspender straps, NEXA lanyard, structured bag, long wavy light hair worn down, phone/tablet in Panels 07–09.
 - **Time flow:** 06:45 → 07:02 → 07:12 → 07:35 → 07:48 → 08:45 → 08:50 → 09:05 → 09:10 → 09:10.
@@ -111,7 +111,7 @@
 - **Layout:** Tall transition panel in the single 9:16 page.
 - **Character/reference:** CHAR-DEEROCK / D-W01, glasses, backpack, tumbler; optional background workers non-prominent.
 - **Location:** LOC-OFFICE / NEXA Workspace Lobby-Reception; preserve reception wall, NEXA mark, plants, access gates, floor finish and onward path.
-- **Camera/composition:** Low-to-mid rear three-quarter at gate height; reader/gate foreground, Deerock centre, workspace beyond.
+- **Camera/composition:** Low-to-mid rear three-quarter at gate height; gate reader foreground, Deerock centre, reception desk and marble NEXA wall behind him, lift doors ahead. The open workspace is **not** visible from the lobby.
 - **Pose/action:** Taps access card and looks toward workspace.
 - **Expression:** Calm, more alert than commute.
 - **Lighting/time:** 08:45; neutral lobby light plus glass-façade daylight.
@@ -130,7 +130,7 @@
 - **Lighting/time:** 08:50; soft window daylight + restrained office practical light.
 - **Props:** Backpack, Figma-like screen, Kai headphones, QA checklist, Mika phone/tablet, monitors/plants/chairs/windows from reference.
 - **Dialogue:** Aki `Pagi, Rock.` Kai `Pagi. API auth udah siap.` Rin `Aku mulai regression.` Mika `Stand-up sepuluh menit lagi.` Deerock `Oke.`
-- **Continuity:** Strict separation. Deerock: glasses, medium messy layered dark **purple**-black hair, youthful slim face, clean chin with only the tiny sparse under-lower-lip patch, 172 cm. Kai: **no glasses**, pure black spiky messy hair, 178 cm, broader, headphones around the neck. Aki: hair UP in a bun, black cargo trousers. Mika: hair DOWN, long and wavy and lighter, plain wide trousers. Aki and Mika must not wear the same colour top. No caricature.
+- **Continuity:** Strict separation. Deerock: glasses, medium messy layered dark **purple**-black hair, youthful slim face, clean chin with only the tiny sparse under-lower-lip patch, 172 cm. Kai: **no glasses**, jet-black **short cropped** hair with ears and nape exposed, 178 cm, broader, headphones around the neck. Aki: hair UP in a bun, black cargo trousers. Mika: hair DOWN, long and wavy and lighter, plain wide trousers. Aki and Mika must not wear the same colour top. No caricature.
 
 ## Panel 08 — Design to QA handoff
 

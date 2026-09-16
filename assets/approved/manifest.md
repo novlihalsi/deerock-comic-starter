@@ -38,6 +38,24 @@ No panel-level artwork has been generated yet.
 
 ## Change log
 
+- **2026-09-16** — Sets corrected after the second render returned good characters in invented
+  buildings. The NEXA lobby had been rendered with the access gates in front of the reception and
+  the open workspace visible behind them; the sheet puts the reception desk first, the gates
+  further in by the lifts, and the workspace on a separate floor. Deerock's house had been
+  rendered as a modern two-storey glass villa with an MPV; the sheet shows a modest single-storey
+  cluster house with a steel carport canopy and a dark grey sedan. Root cause: the one-shot prompt
+  gave each character eight locked lines and each location one passing clause. The prompt now
+  carries a locked `SETS` section, and `bible/consistency-guide.md` section 5 states the rule.
+
+- **2026-09-16** — Kai's hair corrected after a generated page came back with Kai looking like
+  Deerock. The sheet shows **short** hair — cropped at the sides and back, ears and nape exposed.
+  The bible had described it as "short-to-medium, thick, spiky and messy with a heavy fringe",
+  which overlapped almost word for word with Deerock's "medium length, layered and slightly
+  messy"; "messy" was being applied to both. Length is now the lead separator in
+  `bible/character-bible.md`, `prompts/character-blocks.md`, the trailer specs and
+  `episodes/00-trailer/generation-prompt.md`. K-W01 trousers also specified as olive-brown to
+  give the two a different silhouette at a distance.
+
 - **2026-09-16** — Repo consistency pass. Renamed `locations/deerocks-home.png` → `locations/home.png`
   (every document already cited the latter), `props/deerocks-motorcycle-addtional-ref-1.jpg` →
   `props/motorcycle-vario150.jpg`, and moved `characters/deerock-additional-face-ref-1.png` to

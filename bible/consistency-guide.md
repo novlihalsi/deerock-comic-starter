@@ -89,8 +89,15 @@ dominant furniture, windows and doors, desk positions, plants, signage, lighting
 time of day and recurring props.
 
 For `LOC-OFFICE`, desk assignments are fixed: the same person sits at the same desk in every
-episode. For `LOC-KRL`, keep the carriage type, pole and strap arrangement, seat pattern and a
-believable weekday crowd density.
+episode, and the ground-floor lobby is a separate space from the upper-floor workspace — the
+reception desk comes before the access gates, and the workspace is never visible from the lobby.
+For `LOC-KRL`, keep the carriage type, pole and strap arrangement, seat pattern and a believable
+weekday crowd density.
+
+**Give a set the same descriptive weight as a character.** A prompt that spends eight locked
+lines on a face and one passing clause on the building will return a correct face in an invented
+building — that is exactly what happened on the trailer's second render. Where a space has an
+order to it (lobby to reception to gates to lifts), say the order; generators do not infer it.
 
 ---
 
@@ -134,9 +141,9 @@ E. Typeset dialogue and assemble the page.
 ```
 
 Slower, and it needs an assembly step, but every panel is independently fixable and rendered at
-much higher resolution. Use it for print, for a page that keeps failing as a whole, or to
-replace a single stubborn panel on an otherwise good one-shot page.
-`tools/assemble.html` plus `episodes/00-trailer/layout.js` do the compositing and typesetting.
+much higher resolution. Use it for print, for a page that keeps failing as a whole, or to replace
+a single stubborn panel on an otherwise good one-shot page. Compositing and typesetting happen in
+whatever image editor you prefer; nothing in this repo does it for you.
 
 **Whichever route:** the failure mode is the same. The trailer attempt at
 `episodes/00-trailer/results/ep00_page01_v001.png` broke nine rules — slogans copied off the

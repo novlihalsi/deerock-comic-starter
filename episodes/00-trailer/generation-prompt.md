@@ -37,10 +37,11 @@ every character on the page.
 
 === CAST — match the attached character sheets exactly ===
 
-DEEROCK — 25, male, frontend developer, 172 cm, slim. Dark PURPLE-black hair, medium length,
-layered, slightly messy — it must read purple, not black. ALWAYS wears thin dark rectangular
-glasses. Youthful slim face. CLEAN CHIN — no beard, no moustache, no stubble, no jaw shadow;
-the only facial hair is a very thin, tiny, sparse patch directly beneath the lower lip.
+DEEROCK — 25, male, frontend developer, 172 cm, slim. Dark PURPLE-black hair, MEDIUM length and
+layered, soft strands falling over his forehead, COVERING HIS EARS and reaching the nape — it must
+read purple, not black. ALWAYS wears thin dark rectangular glasses. Youthful slim face.
+CLEAN CHIN — no beard, no moustache, no stubble, no jaw shadow; the only facial hair is a very
+thin, tiny, sparse patch directly beneath the lower lip.
 Wears a dark hoodie or dark overshirt over a plain dark tee, dark jeans, dark sneakers, with
 one small orange accent. No harness, no straps, no pouches.
 Expression register: small and contained — slight frown, small smile, flat stare. Never broad.
@@ -49,10 +50,12 @@ AKI — 24, female, UI/UX designer, 160 cm, petite. Warm brown hair worn UP in a
 with soft face-framing strands. No glasses. Cream loose sweater, black wide cargo trousers,
 suspender straps, lanyard. Open, expressive, smiles big.
 
-KAI — 28, male, backend developer, 178 cm, tallest and broadest of the team. PURE BLACK hair,
-short-to-medium, thick, spiky and messy with a heavy fringe. NEVER wears glasses. Dark hoodie
-under an open dark jacket, olive cargo trousers. Over-ear headphones AROUND HIS NECK.
-Relaxed posture, open grin.
+KAI — 28, male, backend developer, 178 cm, tallest and broadest of the team. JET BLACK hair, and
+it is SHORT: cropped short at the sides and back, EARS AND NAPE FULLY EXPOSED, short spiky tousled
+top, short fringe off the forehead. Nothing covers his ears. Clearly shorter hair than Deerock.
+NEVER wears glasses. Dark hoodie under an open dark jacket, OLIVE-BROWN cargo trousers that are
+clearly lighter than Deerock's near-black jeans. Over-ear headphones AROUND HIS NECK.
+Relaxed posture, open grin with teeth showing.
 
 RIN — 24, female, QA engineer, 162 cm, slim. Very dark straight hair, LONG — past the shoulders
 down to mid-back — with a full blunt fringe. No glasses. Black oversized hoodie over a light
@@ -64,12 +67,58 @@ rolled sleeves, black plain wide trousers, suspender straps, lanyard, structured
 Warm and composed.
 
 SEPARATION — these two pairs must never blur together:
-Deerock has purple-black hair AND glasses; Kai has pure black hair and NO glasses, and is
-taller and broader with headphones around his neck.
+Deerock and Kai are two clearly different people and must be instantly distinguishable in
+silhouette, even in a small panel. Deerock: MEDIUM-length layered purple-black hair covering his
+ears, thin dark glasses on his face in every single panel, 172 cm, slim, near-black jeans.
+Kai: SHORT cropped jet-black hair with his ears and nape fully exposed, NO glasses at all,
+178 cm, athletic and broader, olive-brown cargo trousers, headphones around his neck.
+If you are unsure which one you are drawing: glasses and long-ish hair means Deerock, short
+cropped hair and bare ears means Kai.
 Aki's hair is UP in a bun and she wears cargo trousers; Mika's hair is DOWN, long, wavy and
 lighter, and she wears plain wide trousers. They must not wear the same colour top.
 
 Everyone wears the same outfit in every panel — this is one single workday.
+
+=== SETS — match the attached location sheets exactly. Do not redesign any building. ===
+
+DEEROCK'S HOUSE (exterior) — a small SINGLE-STOREY landed house in a modest Indonesian housing
+cluster. Cream/beige painted walls, dark brown pitched tile roof with a gable. A CARPORT CANOPY
+of dark steel framing with a flat dark roof panel projects over the driveway in front of the
+door, with a small round light underneath. Light grey paved driveway. Parked under the carport:
+a dark grey HONDA SEDAN — a low four-door saloon with a boot, number plate B 1234 DRC — and
+beside it, to its right, the motorcycle. A short grey concrete pillar at the front-left corner
+of the plot carries the marking C12, next to a low bed of shrubs and a young tree. Low plaster
+boundary wall. Identical neighbouring houses of the same type stand alongside.
+This is a modest cluster house — NOT a modern glass villa, NOT two storeys, NOT large windows.
+The car is a SEDAN, never an MPV or minivan.
+
+THE MOTORCYCLE — a Honda Vario 150, model year 2017: a compact Indonesian automatic scooter with
+a sharp angular front apron, slim pointed nose, low flat footboard, stepped single seat and a
+short upswept tail. Matte dark grey / black bodywork. GOLD-painted alloy wheels — this is its
+signature and must be clearly visible. Not a sport bike, not a naked motorcycle with a fuel tank
+between the rider's knees, not a vintage scooter, not a delivery bike.
+
+NEXA WORKSPACE LOBBY (ground floor) — an enclosed tower lobby: tall ceiling, polished pale grey
+reflective floor, dark ceiling with recessed downlights, warm accent lighting.
+The spatial order matters. You enter, and FIRST you reach the RECEPTION DESK. It stands in front
+of a large pale marble wall carrying the NEXA lettering, with a warm light strip above it, and a
+receptionist stands behind the desk. Tall dark planters with green plants flank it.
+ONLY BEYOND the reception, further in and to the right, come the glass ACCESS GATES, and past
+those, the metallic LIFT DOORS.
+The gates are NEVER in front of the reception. The lobby has no desks, no city-view windows and
+no open workspace visible — the workspace is a separate floor upstairs.
+
+NEXA OPEN WORKSPACE (upper floor) — full-height window wall with a city skyline, warm wood desks
+in rows, dual monitors, plants in low planters, exposed dark ceiling with linear lights, a glass
+meeting room off to one side. Fixed desks for Deerock, Aki, Kai, Rin and Mika.
+
+SENTRA LINTAS STATION — elevated KRL station. Steel and concrete structure, wide open platform
+under a high canopy, tactile paving, yellow safety line, blue numbered platform signs, city
+skyline beyond. Bilingual Indonesian/English signage.
+
+KRL CARRIAGE — commuter train interior: blue patterned bench seats along the walls, silver
+vertical poles, yellow and grey triangular hanging straps, overhead luggage rack, door area with
+a route map. Believable weekday commuter density.
 
 === PAGE LAYOUT ===
 
@@ -95,11 +144,11 @@ routine. His packed backpack leans against a dining chair. Warm kitchen light.
 Thought bubble: Masih sempat.
 Sound effect: TUANG
 
-PANEL 3 — 07:12. The front yard and carport of the house. Rear three-quarter wide shot from
-inside the yard. Deerock, backpack on both shoulders and a black tumbler in one hand, has just
-closed the front gate and walks out toward the street. In the carport behind him: a grey Honda
-car and a matte dark grey/black HONDA VARIO 150 scooter WITH GOLD WHEELS. The gate post reads
-C12. Clear warm morning daylight.
+PANEL 3 — 07:12. The front yard and carport of DEEROCK'S HOUSE, exactly as described in SETS —
+single storey, cream walls, dark pitched tile roof, steel carport canopy, the dark grey sedan and
+the gold-wheeled Vario parked beneath it, the C12 pillar at the front-left. Rear three-quarter
+wide shot from inside the yard. Deerock, backpack on both shoulders and a black tumbler in one
+hand, has just closed the front gate and walks out toward the street. Clear warm morning daylight.
 Sound effect at the gate latch: KLIK
 
 PANEL 4 — 07:35. Sentra Lintas Station, Platform 1 — elevated KRL station, steel and concrete
@@ -117,17 +166,19 @@ Phone screen shows one short chat line: Mika — Stand-up 09.30
 Thought bubble: Belum sampai kantor.
 Sound effect: TING
 
-PANEL 6 — 08:45. NEXA Workspace lobby and reception: reception wall with the NEXA mark, plants,
-access gates, glass façade daylight. Wide letterboxed rear three-quarter shot at gate height.
-Deerock taps his access card on the gate reader and looks through toward the workspace. Calm,
-more alert than on the commute.
+PANEL 6 — 08:45. The NEXA WORKSPACE LOBBY, exactly as described in SETS. Wide letterboxed rear
+three-quarter shot at gate height. Deerock has already walked past the reception desk and now
+stands at the ACCESS GATES further inside, tapping his card on the gate reader. Behind him, over
+his shoulder, are the reception desk and the marble NEXA wall; ahead of him are the lift doors.
+No open workspace and no city-view windows are visible from here. Calm, more alert than on the
+commute.
 Sound effect: BIP
 
 PANEL 7 — 08:50. NEXA open workspace: full-height window wall, warm wood desks, dual monitors,
 plants. Eye-level wide conversational shot down the desk aisle. Deerock in the foreground left,
-setting his backpack down. Aki turns from her Figma screen. Kai swivels in his chair, headphones
-around his neck. Rin looks up from a checklist. Mika walks in with a tablet. Everyone is mid-work,
-not posed for the camera. Leave clear space above the characters for speech bubbles.
+setting his backpack down. Aki turns from her Figma screen. Kai — short cropped black hair,
+bare ears, no glasses — swivels in his chair with headphones around his neck. Rin looks up from
+a checklist. Mika walks in with a tablet. Everyone is mid-work, not posed for the camera. Leave clear space above the characters for speech bubbles.
 Speech bubbles, short, in this order left to right:
   Aki: Pagi, Rock.
   Kai: API auth udah siap.
@@ -136,8 +187,9 @@ Speech bubbles, short, in this order left to right:
   Deerock: Oke.
 
 PANEL 8 — 09:05. The same open workspace, slightly elevated wide shot across four desk zones.
-Read left to right: Aki points at a Figma screen, Deerock types code, Kai checks an API response,
-Rin writes a test step. Mika stands in the aisle making a note. Collaborative and attentive;
+Read left to right: Aki points at a Figma screen, Deerock (glasses, medium purple-black hair)
+types code, Kai (no glasses, short cropped black hair) checks an API response, Rin writes a test
+step. Mika stands in the aisle making a note. Collaborative and attentive;
 nobody is overwhelmed and nobody is the villain. Screens show only simple schematic UI, code and
 charts — no readable body text. Leave clear space above for speech bubbles.
 Speech bubbles:
@@ -176,7 +228,11 @@ no cyberpunk elements, no magazine-cover layout, no lens flare, no dramatic hero
 no photorealism, no chibi, no 3D render.
 Deerock is never without glasses; his hair is never plain black; his chin is always clean —
 no beard, no moustache, no stubble.
-Kai never wears glasses and never has purple hair.
+Kai never wears glasses, never has purple hair, and never has long or ear-covering hair.
+Do not draw Kai as a second version of Deerock.
+Do not redesign any building or room. Deerock's house is never a modern glass villa and never two
+storeys; his car is never an MPV. In the NEXA lobby the reception always comes before the access
+gates, and the open workspace is never visible from the lobby.
 No captions, no slogans, no taglines, no motivational copy, no character name tags, no role
 labels under characters, no series title, no subtitle, no watermark, no branding, no invented
 screen text, no katakana or Japanese decoration on clothing, no magazine headline typography.
@@ -195,10 +251,13 @@ stacking them tends to make the model over-correct.
 | Slogans or captions appeared | `Absolutely no text on this page except the speech bubbles, sound effects and the three title lines. No captions anywhere.` |
 | Name tags under characters | `Do not label or name any character. No name tags, no role labels.` |
 | Deerock grew stubble or a beard | `Deerock's chin is completely clean-shaven and smooth in every panel.` |
-| Deerock and Kai look alike | `Deerock and Kai must look like two clearly different people: Deerock purple hair and glasses, Kai black hair and no glasses.` |
+| **Kai looks like Deerock** | `Kai's hair is SHORT — cropped at the sides and back, ears and nape fully exposed, nothing covering the ears. Deerock's hair is MEDIUM and covers his ears. Kai wears NO glasses in any panel.` |
 | Aki and Mika look alike | `Aki's hair is tied up in a bun; Mika's hair is long, loose and wavy. Different hairstyles, different coloured tops.` |
 | Panels merged or reordered | `Exactly 10 panels in the layout described, in order, none merged, none added.` |
 | Dialogue garbled | Drop the dialogue: replace every bubble with `empty white speech bubble` and add the text afterwards in any editor. |
+| Lobby gates in the wrong place | `In the NEXA lobby the reception desk comes FIRST, with the marble NEXA wall behind it. The access gates are further in, beyond the reception, next to the lift doors. No open workspace is visible from the lobby.` |
+| House looks too modern | `Deerock's house is a modest single-storey cluster house: cream walls, dark pitched tile roof, steel carport canopy, small windows. Not a glass villa. The car is a dark grey four-door sedan, not an MPV.` |
+| Motorcycle looks generic | `The scooter is a Honda Vario 150 (2017): compact automatic scooter, angular front apron, low flat footboard, stepped seat, GOLD alloy wheels. Not a sport bike, no fuel tank between the knees.` |
 | Page feels cramped | `Fewer background characters. More breathing room inside each panel.` |
 
 Save each attempt as `results/ep00_page01_v002.png`, `v003`, and so on — never overwrite. When
@@ -207,6 +266,6 @@ one is good, mark it approved in `assets/approved/manifest.md`.
 ## Known trade-off
 
 A one-shot page cannot be fixed panel by panel: a re-roll changes all ten. If one specific panel
-keeps failing after three or four attempts, generate just that panel separately and paste it
-over the page in any image editor. `tools/assemble.html` and `layout.js` are set up for that if
-you ever want the full panel-by-panel route, but for a social post this prompt is the fast path.
+keeps failing after three or four attempts, generate just that panel separately at the same
+aspect ratio and paste it over the page in any image editor — faster than re-rolling the whole
+page again.
