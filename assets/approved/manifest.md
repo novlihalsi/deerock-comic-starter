@@ -82,6 +82,34 @@ style reference for the new page 1, `ep01_page01_v002.png`; its story content is
 
 ## Change log
 
+- **2026-09-17** — Page 5 review: in panel 2 Deerock smiled at the back of his own phone, with the
+  screen turned to the camera, and wore his office lanyard on the train. New series rule in
+  `bible/visual-style.md`: screens face the character using them, and the camera moves over the
+  shoulder when the reader must see the screen. Applied to page 5 panel 2, and to the two existing
+  panels that already broke it — page 1 panel 1 (now over Deerock's shoulder, the reverse angle of the
+  trailer's last shot) and page 4 panel 1 (now the same framing as page 1 panel 3, so the fixed
+  button mirrors the broken one). Every page prompt's NEGATIVE block now forbids screens turned to
+  the camera. KRL etiquette recorded in `bible/story-world.md`: backpacks on the front in a crowded
+  carriage, applied to page 5 and to the trailer's carriage panel.
+
+- **2026-09-17** — Full-bleed rule added: no white margin, border or frame around a page edge
+  (`bible/visual-style.md`, pre-flight checklist, NEGATIVE block). Every page prompt had asked for a
+  "white page background", which is what produced the frames; all six prompts (Episode 01 pages 1–5
+  and the trailer) now ask for white gutters between panels only and full bleed at the edges.
+  Measured on existing files: the rejected page 1 `v002` attempt had an 11–17 px frame; the approved
+  9:16 trailer `ep00_page01_v004.png` has a thin 4–10 px frame and predates the rule; Episode 01
+  page 1 `v001`, the current style reference, has none.
+
+- **2026-09-17** — Page 1 `v002` attempt rejected, not filed: ratio 3:4 (1092×1440) instead of 4:5;
+  Deerock not smug in 1.2; Aki holding the phone out to the camera in 1.3, with a happy expression
+  and an outfit too close to Mika's; the two-line button looking neat rather than broken; Mika
+  grinning in 1.1. Fixes: 1.2 uses Deerock's sheet "Smirk" expression; 1.3 is shot from behind
+  both characters so the screen faces Deerock and the reader; the broken button is described
+  explicitly; the prompts state the 4:5 canvas outright. New wardrobe code `A-W02` — Aki's pink
+  hoodie over `A-W01`, because the office AC is cold — keeps the published trailer's continuity
+  while separating her from Mika by colour. Mika's trousers are now specified as having no cargo
+  pockets.
+
 - **2026-09-17** — Episode 01 panel 3.1 dialogue changed to Aki: "Deerock, tombolnya udah aku
   redesign. Coba di-implement, ya." and Deerock: "Siap. Aku coba dulu." The design-to-implementation
   handoff now reads as a plain request and reply. Aki's canonical quote no longer appears in the

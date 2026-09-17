@@ -71,9 +71,10 @@ both members of a pair appear.
 | --- | --- | --- |
 | `D-W01` | Deerock | dark hoodie/overshirt + dark tee, dark jeans, orange accent, no harness |
 | `A-W01` | Aki | cream knitted sweater, black cargo trousers, suspenders, lanyard |
+| `A-W02` | Aki | `A-W01` with a dusty-pink oversized hoodie over the sweater (office AC) |
 | `K-W01` | Kai | dark hoodie under open jacket, olive cargo trousers, headphones around neck |
 | `R-W01` | Rin | black oversized hoodie/jacket, dark grey cargo trousers, lanyard |
-| `M-W01` | Mika | collared cream blouse, black wide trousers, suspenders, structured bag |
+| `M-W01` | Mika | collared cream blouse, black plain wide trousers (no cargo pockets), suspenders, structured bag |
 
 Deerock's alternates (`D-W02` office casual, `D-W03` home wear) are defined in the character
 bible. An episode declares its wardrobe codes once, at the top of the storyboard.
@@ -198,6 +199,10 @@ Run before accepting any generated panel.
 - [ ] No katana, harness, tactical rig, aura, glow or magazine layout.
 - [ ] Time of day and lighting continue from the previous panel.
 - [ ] The page matches the episode's declared format — 4:5 by default, so width ÷ height = 0.8.
+- [ ] Every screen faces the character using it. Screens the reader must read are seen over a
+      shoulder, never turned toward the camera.
+- [ ] Full bleed: no white margin, border or frame around the page edge. White appears only in the
+      gutters between panels.
 - [ ] Page density is within the series limits: 2–3 panels, at most 2 bubbles per panel and 5 per
       page. The trailer is the one exception.
 - [ ] Filename follows section 8 and does not overwrite an approved asset.

@@ -46,8 +46,9 @@ episode's dialogue totals about 130 words.
 
 Same fictional workday. The published trailer ends at 09:10 with Mika's “Oh iya, ada satu
 perubahan kecil lagi…” and Deerock's “Yang bagian mana?”. Episode 1 begins at 09:11, so it must
-not recreate or contradict any trailer panel. Wardrobe carries over unchanged (`D-W01` `A-W01`
-`K-W01` `R-W01` `M-W01`).
+not recreate or contradict any trailer panel. Wardrobe carries over (`D-W01` `K-W01`
+`R-W01` `M-W01`), except that by 10:05 Aki has pulled her pink hoodie on over her sweater (`A-W02`);
+she is not seen in the episode before then.
 
 ## Key requirement
 

@@ -103,11 +103,12 @@ D-W01 — dark hoodie or dark overshirt over a plain dark tee, dark jeans/chinos
         one small orange accent. NO chest harness, NO utility straps, NO buckle pouches.
 A-W01 — cream loose knitted sweater (no collar), black wide cargo trousers, suspender straps,
         NEXA lanyard, sneakers.
+A-W02 — A-W01 with a DUSTY-PINK oversized hoodie pulled on over the sweater.
 K-W01 — dark hoodie under an open dark jacket, OLIVE-BROWN cargo trousers (lighter than
         Deerock's near-black jeans), over-ear headphones around the neck, sneakers.
 R-W01 — black oversized hoodie or jacket over a light tee, dark grey wide cargo trousers,
         lanyard, sneakers.
-M-W01 — crisp collared cream blouse with rolled sleeves, black wide trousers, suspender straps,
+M-W01 — crisp collared cream blouse with rolled sleeves, black plain wide trousers (no cargo pockets), suspender straps,
         NEXA lanyard, structured bag.
 ```
 
@@ -143,6 +144,7 @@ LOC-KRL — reference: locations/krl-interior.png
 KRL Commuter carriage, Tanah Abang–Rangkasbitung line. Blue patterned bench seats,
 silver vertical poles, yellow and grey triangular hanging straps, overhead luggage rack,
 door area with route map, ceiling info display. Believable weekday commuter density.
+In a crowded carriage commuters, Deerock included, wear their backpacks on the FRONT.
 ```
 
 ```

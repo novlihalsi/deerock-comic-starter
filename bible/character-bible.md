@@ -78,6 +78,9 @@ Reference: `characters/aki.png`
   collaborative, not scatterbrained.
 - **Wardrobe `A-W01`:** cream/off-white loose knitted sweater with no collar, black wide cargo trousers,
   suspender straps, NEXA lanyard, sneakers.
+- **Wardrobe `A-W02`:** `A-W01` with her dusty-pink oversized hoodie — the sheet's *Hoodie* variation —
+  pulled on over the sweater, because the office AC gets cold. First worn from 10:05 on the Episode 01
+  workday; in the trailer that morning she is still in `A-W01`.
 
 ---
 
@@ -153,7 +156,7 @@ Reference: `characters/mika.png`
   sticky notes, structured shoulder bag, lanyard.
 - **Behaviour:** warm and direct, keeps eye contact, delivers bad news with an apologetic
   half-smile. Organised, not bossy.
-- **Wardrobe `M-W01`:** crisp collared cream blouse with rolled sleeves, black wide trousers, suspender straps,
+- **Wardrobe `M-W01`:** crisp collared cream blouse with rolled sleeves, black plain wide trousers with no cargo pockets, suspender straps,
   NEXA lanyard, structured bag.
 
 ---
@@ -196,7 +199,8 @@ Never give Kai glasses. Never give Kai purple hair. **Never call Kai's hair "mes
 
 If both are in frame, keep Aki's bun and Mika's loose hair clearly readable. Both canonically
 wear cream tops (`A-W01`, `M-W01`), so colour cannot separate them — the garment has to: Aki's
-loose knitted sweater against Mika's collared blouse with rolled sleeves.
+loose knitted sweater against Mika's collared blouse with rolled sleeves. When Aki wears `A-W02`, the
+pink hoodie separates them by colour as well.
 
 ---
 

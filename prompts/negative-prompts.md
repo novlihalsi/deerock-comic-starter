@@ -13,6 +13,8 @@ no katana, no sword, no ninja, no samurai, no fantasy armour, no tactical harnes
 no chest rig, no utility straps or buckle pouches, no supernatural effects, no action aura,
 no glowing weapon, no cyberpunk transformation, no magazine-cover layout, no lens flare,
 no dramatic hero framing, no photorealism, no chibi, no 3D render.
+no white border, no outer margin, no frame around the page — panels run to the canvas edge.
+no phone, tablet or laptop screen turned toward the camera — screens face the character using them.
 
 NEGATIVE — identity:
 Deerock is never without glasses. Deerock's hair is never plain black — it is purple-black.

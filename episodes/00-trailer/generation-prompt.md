@@ -54,8 +54,9 @@ A single 4:5 portrait comic page (1080 x 1350), 10 panels in six rows, read left
 top to bottom.
 Contemporary slice-of-life manga/anime: clean linework, restrained cel shading, subtle halftone
 texture, soft cinematic lighting, realistic modern Indonesian environments, natural expressions.
-Muted cool palette with subtle purple and blue accents. Thin dark panel borders, thin white
-gutters, white page background. Consistent line weight, eye size and face proportion across
+Muted cool palette with subtle purple and blue accents. Thin dark panel borders, with thin white gutters
+BETWEEN panels only. FULL BLEED: the outer panels run right to the edges of the canvas — no white
+margin, border or frame around the page. Consistent line weight, eye size and face proportion across
 every character on the page.
 
 === CAST — match the attached character sheets exactly ===
@@ -142,7 +143,7 @@ skyline beyond. Bilingual Indonesian/English signage.
 
 KRL CARRIAGE — commuter train interior: blue patterned bench seats along the walls, silver
 vertical poles, yellow and grey triangular hanging straps, overhead luggage rack, door area with
-a route map. Believable weekday commuter density.
+a route map. Believable weekday commuter density. Commuters wear their backpacks on the front.
 
 === PAGE LAYOUT — 4:5 portrait, six rows ===
 
@@ -187,7 +188,8 @@ Sound effect: KRRRSH
 
 PANEL 5 — 07:48. Inside the KRL carriage: blue patterned seats, silver poles, yellow triangular
 hanging straps, believable weekday crowd. Over-the-shoulder medium close-up from behind
-Deerock's right side. One hand on a pole, the other holding his phone, reading a chat message.
+Deerock's right side. His backpack is worn on his front, as KRL etiquette asks. One hand on a pole,
+the other holding his phone, reading a chat message; the screen faces him.
 Barely perceptible eyebrow raise.
 Phone screen shows one short chat line: Mika — Stand-up 09.30
 Thought bubble: Belum sampai kantor.
@@ -252,7 +254,7 @@ set. Spell every line exactly as written. Nothing else is written anywhere.
 No katana, no sword, no ninja, no samurai, no fantasy armour, no tactical harness, no chest rig,
 no utility straps or buckle pouches, no supernatural effects, no action aura, no glowing weapon,
 no cyberpunk elements, no magazine-cover layout, no lens flare, no dramatic hero angles,
-no photorealism, no chibi, no 3D render.
+no photorealism, no chibi, no 3D render. No white border, outer margin or frame around the page. No phone, tablet or laptop screen is turned toward the camera — screens face the character using them.
 Deerock is never without glasses; his hair is never plain black; his chin is always clean —
 no beard, no moustache, no stubble.
 Kai never wears glasses, never has purple hair, and never has long or ear-covering hair.
@@ -286,6 +288,7 @@ stacking them tends to make the model over-correct.
 | Lobby gates in the wrong place | `In the NEXA lobby the reception desk comes FIRST, with the marble NEXA wall behind it. The access gates are further in, beyond the reception, next to the lift doors. No open workspace is visible from the lobby.` |
 | House looks too modern | `Deerock's house is a modest single-storey cluster house: cream walls, dark pitched tile roof, steel carport canopy, small windows. Not a glass villa. The car is a dark grey four-door sedan, not an MPV.` |
 | Motorcycle looks generic | `The scooter is a Honda Vario 150 (2017): compact automatic scooter, angular front apron, low flat footboard, stepped seat, GOLD alloy wheels. Not a sport bike, no fuel tank between the knees.` |
+| White frame around the page | `Full bleed: the outer panels touch all four edges of the canvas. No white margin, border or frame around the page.` |
 | Page feels cramped | `Fewer background characters, smaller speech bubbles, more breathing room inside each panel.` |
 
 Save each 4:5 attempt as `results/ep00_page01_v005.png`, `v006`, and so on — never overwrite.

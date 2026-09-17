@@ -95,7 +95,7 @@
 
 - **Reserved asset ID:** `ep00_panel05_v001.png`.
 - **Layout:** Row 2, right, about two fifths of the width.
-- **Character/reference:** CHAR-DEEROCK / D-W01, thin glasses, backpack worn/held close; anonymous passengers only.
+- **Character/reference:** CHAR-DEEROCK / D-W01, thin glasses, backpack worn on his front (KRL etiquette); anonymous passengers only.
 - **Location:** LOC-KRL / centre standing area near doors; retain silver poles, triangular straps, blue seats, door markings, route display.
 - **Camera/composition:** Over-the-shoulder medium close-up from behind Deerock's right side; phone lower-right; yellow hanging strap and blue-seat pattern identify carriage.
 - **Pose/action:** One hand on pole, one on phone; safe natural commuter posture.

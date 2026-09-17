@@ -20,8 +20,9 @@ way. A paraphrase loses the locks.
 **Attach only the sheets listed for that page.** An extra sheet invites extra content — attach the
 station sheet and a platform tends to appear.
 
-**Check the ratio first.** Width ÷ height must be 0.8. A 9:16 or 2:3 render means the layout is
-wrong too. Do not crop a taller render down; re-roll.
+**Check the ratio first.** Width ÷ height must be 0.8. A 9:16, 2:3 or 3:4 render means the layout
+is wrong too — one page 1 attempt came back 1092×1440 (3:4). Do not crop a taller render down;
+re-roll.
 
 **Save as** `../results/ep01_page01_v002.png`, then `ep01_page02_v001.png` …
 `ep01_page05_v001.png`. Versions only go up. Approved page 1 v001 is a preserved,
@@ -35,7 +36,7 @@ for page 1 is already inside the page 1 prompt. Get page 1 approved first. From 
 **also attach the previous approved page**, and add this line at the very top of the prompt:
 
 ```
-STYLE REFERENCE: the attached previous page is for rendering style only — match its line weight, colouring, shading and how each character's face is drawn. Do not copy its panels, its layout or any of its text.
+STYLE REFERENCE: the attached previous page is for rendering style only — match its line weight, colouring, shading and how each character's face is drawn. Do not copy its panels, its layout, its page border or any of its text.
 ```
 
 Without it, each page is rendered independently and small differences in faces, line weight and
@@ -63,4 +64,6 @@ Add **one** line at the very top of that page's prompt and re-roll. One fix at a
 | Bubbles cover faces | `Keep every bubble small and tucked against the top edge of its panel, clear of all faces.` |
 | Screen text garbled | Replace the screen-text line with `the screen shows a simple app layout with no readable text` and add the words afterwards in an image editor. |
 | Faces drift from page to page | Attach the previous approved page and add the STYLE REFERENCE line above. |
+| A screen faces the camera | `Every screen faces the character using it. To show the reader the screen, the camera looks over that character's shoulder from behind.` |
+| White frame around the page | `Full bleed: the outer panels touch all four edges of the canvas. No white margin, border or frame around the page.` Crop instead only if the frame is even on all sides, then recheck the ratio is 0.8. |
 | Sweat drops or shock lines | `Reactions are small and human. No sweat drops, no shock lines, no cartoon symbols.` |

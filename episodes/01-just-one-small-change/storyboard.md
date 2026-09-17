@@ -12,7 +12,9 @@ Each page is generated in one shot. Every page stays within the series density l
 
 ## Wardrobe
 
-`D-W01` `A-W01` `K-W01` `R-W01` `M-W01` throughout. One workday, no outfit changes.
+`D-W01` `K-W01` `R-W01` `M-W01` throughout. Aki is in `A-W02`: by 10:05 she has pulled her pink
+hoodie on over the cream sweater she wore in the trailer, because the office AC is cold. She does not
+appear in the episode before 10:05, so no panel shows the change. Otherwise, no outfit changes.
 
 ## Premise
 
@@ -50,21 +52,23 @@ dialogue across five pages.
 Tone: the exact continuation of the trailer, then the first crack.
 
 **1.1 · `LOC-OFFICE`, Deerock’s desk · 09:11 · Deerock, Mika**
-Medium two-shot from the aisle, full width — the carousel cover. Mika stands beside the desk
-holding out her tablet; Deerock, seated, turns to look at it. The tablet shows the existing
-empty-state screen, its button and a client note, large enough to read. A new reader meets both
+Over Deerock’s shoulder, full width — the carousel cover, and the reverse angle of the trailer’s
+last shot. Mika holds her tablet out to Deerock; the screen faces him, and the reader reads it over
+his shoulder: the existing empty-state screen, its button and a client note. A new reader meets both
 characters, the place and the problem in one image.
 - Tablet UI: button `Coba lagi` · client note `Ganti jadi: Muat ulang data terbaru`
 - Mika: Client minta teks tombol ini diganti. Katanya biar lebih jelas.
 
 **1.2 · Deerock’s desk · 09:15 · Deerock**
-Close on his hands and keyboard; one changed line is highlighted on screen. A small, confident look.
+Close on his hands and keyboard; one changed line is highlighted on screen. A smug little smirk —
+the “Smirk” expression from his sheet.
 - Thought — Deerock: *Gampang. Cuma ganti satu baris.*
 - SFX: `TAK`
 
 **1.3 · Deerock’s desk · 10:05 · Aki, Deerock**
-Aki holds out her phone. On its screen the new label wraps onto two lines and pushes the button out
-of shape.
+Seen from behind the two of them: Aki leans over Deerock’s shoulder and holds her phone in front of
+him, so the reader sees the screen as he does. The new label has broken onto two lines and the
+button looks cramped and broken. Aki winces apologetically.
 - Aki: Deerock… teks barunya kepanjangan. Di HP tombolnya jadi dua baris.
 
 ## Page 2 — Ternyata
@@ -109,8 +113,9 @@ them make the layout robust instead of rushing a cosmetic patch.
 Tone: quiet progress, a dry echo, then a shared small win.
 
 **4.1 · Deerock’s desk · 15:45 · Aki, Deerock**
-Aki’s phone shows the long label fitting cleanly on one line. Deerock checks the same state on his
-monitor. Aki is relieved; Deerock’s look is dry — most of the day has gone into a one-line change.
+The same framing as 1.3 — from behind them both — so the fixed button mirrors the broken one. Aki’s
+phone shows the long label fitting cleanly on one line. Aki is relieved; Deerock’s look is dry —
+most of the day has gone into a one-line change.
 - Thought — Deerock: *Niatnya satu baris, jadinya seharian…*
 
 **4.2 · Rin’s desk · 16:15 · Rin, Kai**
@@ -132,8 +137,9 @@ freezes—except Deerock, who barely looks up.
 - Deerock: Nah. Kalau ini beneran satu baris.
 
 **5.2 · `LOC-KRL` evening · 17:50 · Deerock, anonymous commuters**
-Evening carriage, orange light through the windows, a fuller crowd. Deerock holds a strap with a
-small, content smile. His phone lights up.
+Evening carriage, orange light through the windows, a fuller crowd. Seen over Deerock’s shoulder:
+he holds a strap, backpack on his front as KRL etiquette asks, and reads his phone with a small,
+content smile as it lights up.
 - Phone UI: `Mika — Oh iya, besok…`
 - Thought — Deerock: *Besok aja mikirnya.*
 - SFX: `TING`

@@ -35,8 +35,8 @@
 ### Desks and wardrobe
 
 - NEXA desk order: **Aki · Deerock · Kai · Rin**. Kai is directly beside Deerock; Rin is one desk farther along. Mika appears in the aisle.
-- All day: `D-W01` · `A-W01` · `K-W01` · `R-W01` · `M-W01`. Deerock always wears glasses; Kai’s headphones are around his neck.
-- Apply the Deerock/Kai separation clause in 2.2, the Aki/Mika clause in 3.3, and both clauses in 2.3, 4.3 and 5.1. On page 1 Aki and Mika are in separate panels, but keep bun and knitted sweater against loose hair and collared blouse unmistakable.
+- All day: `D-W01` · `A-W02` · `K-W01` · `R-W01` · `M-W01`. Aki's `A-W02` is her pink hoodie over the cream sweater she wore in the trailer; she is first seen at 10:05. Deerock always wears glasses; Kai’s headphones are around his neck.
+- Apply the Deerock/Kai separation clause in 2.2, the Aki/Mika clause in 3.3, and both clauses in 2.3, 4.3 and 5.1. On page 1 Aki and Mika are in separate panels, but keep bun and pink hoodie against loose hair and cream collared blouse unmistakable.
 - Deerock’s desk: landscape wallpaper left monitor, code right monitor, laptop, mechanical keyboard, black tumbler, headphones on desk, sticky notes, jacket on chair. Rin’s desk: pink keyboard/mat, small figurines, pink jacket.
 
 ### Button and light continuity
@@ -67,19 +67,20 @@
 ### 1.1 — The request
 
 - **Cast/location:** Deerock and Mika at Deerock’s desk, 09:11.
-- **Camera/action:** eye-level medium two-shot from the aisle, full width — the carousel cover. Deerock sits turned in his chair toward Mika; Mika stands beside the desk holding her tablet out between them, screen toward the reader and large enough to read. Mika has a direct, slightly apologetic half-smile; Deerock is calm and attentive. This is the next beat after the trailer’s closing exchange, so it must not reuse the trailer’s over-the-shoulder framing.
+- **Camera/action:** eye-level medium two-shot from the aisle, full width — the carousel cover. Deerock sits turned in his chair toward Mika; The camera is over Deerock’s right shoulder, his profile and glasses in the foreground; Mika faces him and holds her tablet out toward him, so the screen faces Deerock and the reader reads it over his shoulder. Mika has a small, slightly apologetic half-smile, not a broad grin; Deerock is calm and attentive. This is the reverse angle of the trailer’s closing over-Mika’s-shoulder shot — shot and reverse shot, not a repeat.
 - **Text:** button `Coba lagi`; client note `Ganti jadi: Muat ulang data terbaru`; Mika: `Client minta teks tombol ini diganti. Katanya biar lebih jelas.` Nothing else is readable. The new label appears only in the tablet note, never in the bubble.
 
 ### 1.2 — One line
 
 - **Cast/location:** Deerock at his desk, 09:15.
-- **Camera/action:** low close shot across keyboard; he presses Enter, with a faint confident smile and cool monitor glow on glasses.
+- **Camera/action:** close shot across keyboard; he presses Enter with a smug, self-satisfied smirk — the “Smirk” expression from his sheet: one corner of the mouth lifted, eyelids slightly lowered, chin a little up. Contained, not a grin. Cool monitor glow on glasses.
 - **Text:** Deerock thought: `Gampang. Cuma ganti satu baris.` SFX: `TAK`. The highlighted code line is schematic and unreadable.
 
 ### 1.3 — Two lines
 
 - **Cast/location:** Aki and Deerock at his desk, 10:05.
-- **Camera/action:** eye-level medium, in the narrower Row 2 slot. Aki’s phone dominates the foreground; she has an apologetic grin while Deerock turns in his chair, neutral.
+- **Camera/action:** from behind both of them, just above shoulder height. Aki stands behind Deerock’s chair on his right and leans over his shoulder, holding her phone in front of them at his eye level; the screen faces Deerock and the reader, large enough to read. Faces in three-quarter profile. Aki winces apologetically (raised eyebrows, tight awkward smile); Deerock gives it a small blank stare. Nobody presents the phone to the camera.
+- **Button:** the label breaks onto two lines with `data terbaru` jammed against and slightly overflowing the bottom edge — visibly broken, never a neat two-line button.
 - **Text:** a visibly too-tall button wraps exactly `Muat ulang` / `data terbaru`; Aki: `Deerock… teks barunya kepanjangan. Di HP tombolnya jadi dua baris.`
 
 ---
@@ -139,7 +140,7 @@
 ### 4.1 — It fits
 
 - **Cast/location:** Aki and Deerock at Deerock’s desk, 15:45.
-- **Camera/action:** eye-level medium two-shot. Aki holds her phone between them; the label now fits cleanly on one line. Deerock checks the same state on his monitor. Aki is relieved; Deerock gives the phone a small, dry sideways look.
+- **Camera/action:** same framing as 1.3, from behind both of them. Aki leans over Deerock’s shoulder holding her phone in front of them; the screen faces Deerock and the reader. The label now fits cleanly on one line. Aki is relieved; Deerock gives the phone a small, dry sideways look.
 - **Text:** button `Muat ulang data terbaru`, exactly one line; Deerock thought: `Niatnya satu baris, jadinya seharian…`
 
 ### 4.2 — Green
@@ -169,7 +170,7 @@
 ### 5.2 — Besok aja
 
 - **Cast/location:** Deerock and anonymous commuters in the KRL evening passenger setting, 17:50.
-- **Camera/action:** medium aisle shot. Deerock holds a yellow strap and phone, with fuller crowd and orange sunset window light. He is tired but content.
+- **Camera/action:** over-the-shoulder medium shot from behind Deerock’s right shoulder. He holds a yellow strap, backpack worn on his front (KRL etiquette), and reads his phone; the screen faces him and the reader sees it over his shoulder. Three-quarter profile, tired but content. Fuller crowd, orange sunset window light. No lanyard.
 - **Text:** notification sender `Mika`, message `Oh iya, besok…`; Deerock thought `Besok aja mikirnya.`; SFX `TING`.
 
 ---
@@ -177,6 +178,8 @@
 ## Pre-generation checklist
 
 - [ ] Exact 4:5 layout, panel count and listed text only.
+- [ ] Every screen faces the character using it; no device is turned toward the camera.
+- [ ] Full bleed: no white margin, border or frame around the page edge.
 - [ ] Page 1 is `ep01_page01_v002.png`; approved `v001` remains untouched.
 - [ ] Button label and wrapping follow the table.
 - [ ] Canonical quotes appear word for word inside the 3.1 and 3.2 lines: “Aku coba dulu.” and “API-nya udah ready.”

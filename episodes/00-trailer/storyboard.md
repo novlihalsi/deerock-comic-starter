@@ -77,7 +77,7 @@
 - **Panel number:** 05
 - **Page/layout:** Same page; row 2, right, about two fifths of the width.
 - **Location reference:** `locations/krl-interior.png` — centre standing area near doors; silver poles, triangular straps, blue seats, door markings, route display.
-- **Characters:** CHAR-DEEROCK (D-W01, backpack worn/held close); anonymous passengers only.
+- **Characters:** CHAR-DEEROCK (D-W01, backpack worn on his front (KRL etiquette)); anonymous passengers only.
 - **Action/expression:** Deerock stands beside a pole and reads Mika's team-chat reminder; nearly imperceptible eyebrow raise.
 - **Camera:** Over-the-shoulder medium close-up from behind Deerock's right side.
 - **Composition:** Phone lower-right; yellow hanging strap and blue seats identify carriage; commuters natural and unobtrusive.

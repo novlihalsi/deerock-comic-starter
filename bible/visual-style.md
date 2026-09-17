@@ -12,6 +12,31 @@ single panel, one rendering must win. Keep eye size, face proportion, line weigh
 density uniform across everyone in the frame, even if that means pulling an individual character
 slightly away from their own sheet.
 
+## Page edges — full bleed
+
+**No white margin, border or frame around the edge of a page.** The outer panels run right to the
+edges of the canvas; the only white on a page is the thin gutter *between* panels. A white frame
+wastes the already tight 4:5 space, and on a white Instagram feed it makes the page read as a
+screenshot of a comic rather than a comic.
+
+Prompts must not ask for a "white page background" — that phrase is what produced frames in the
+first place. If a render still comes back with a frame, re-roll. Crop only when the frame is even on
+all four sides, and then check the ratio is still exactly 0.8.
+
+## Screens face the person using them
+
+**A phone, tablet or laptop screen points at whoever is using it.** When the reader needs to see
+what is on the screen, move the camera — over the shoulder, from behind — never turn the device
+toward the camera. A device held out to the camera reads as a character showing the reader
+something, which breaks the scene; and a character smiling at the back of their own phone has
+visibly not read the message they are reacting to.
+
+When one character shows a screen to another, the screen faces the person being shown. The camera
+goes behind that person if the reader must read it.
+
+This went wrong three times on Episode 01 before it became a rule: Mika's tablet and Aki's phone on
+page 1, and Deerock's phone on page 5.
+
 ## Colour
 Muted cool neutrals as the base. Soft purple and blue accents carry Deerock's visual identity;
 a small orange accent is his secondary cue. Warm indoor practical light contrasts against the

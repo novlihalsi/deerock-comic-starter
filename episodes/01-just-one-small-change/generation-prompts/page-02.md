@@ -26,10 +26,12 @@ from the attached page 1.
 
 ```
 A single 4:5 portrait comic page (1080 x 1350) with 3 panels, read top to bottom.
+The canvas is exactly 4:5 — width to height 4 to 5. Not 3:4, not 2:3.
 Contemporary slice-of-life manga/anime: clean linework, restrained cel shading, subtle halftone
 texture, soft cinematic lighting, realistic modern Indonesian environments, natural expressions.
-Muted cool palette with subtle purple and blue accents. Thin dark panel borders, thin white
-gutters, white page background. Consistent line weight, eye size and face proportion across
+Muted cool palette with subtle purple and blue accents. Thin dark panel borders, with thin white gutters
+BETWEEN panels only. FULL BLEED: the outer panels run right to the edges of the canvas — no white
+margin, border or frame around the page. Consistent line weight, eye size and face proportion across
 every character on the page. Speech bubbles are compact and never cover a face.
 
 === CAST — match the attached character sheets exactly ===
@@ -46,8 +48,8 @@ small orange accent. No harness, no straps, no pouches.
 Expression register: small and contained — slight frown, small smile, flat stare. Never broad.
 
 AKI — 24, female, UI/UX designer, 160 cm, petite. Warm brown hair worn UP in a loose messy BUN
-with soft face-framing strands. No glasses. Loose knitted cream sweater with no collar, black
-wide cargo trousers, suspender straps, lanyard. Open, expressive, smiles big.
+with soft face-framing strands. No glasses. Dusty-pink oversized hoodie pulled on over her cream knitted
+sweater, black wide cargo trousers, suspender straps, lanyard. Open, expressive, smiles big.
 
 KAI — 28, male, backend developer, 178 cm, tallest and broadest of the team. JET BLACK hair, and
 it is SHORT: cropped short at the sides and back, EARS AND NAPE FULLY EXPOSED, short spiky tousled
@@ -62,7 +64,7 @@ tee, dark grey cargo trousers, lanyard. Calm, still, deadpan.
 
 MIKA — 26, female, project manager, 165 cm. Light warm brown hair, LONG, loosely wavy, worn
 DOWN past the shoulder blades — the lightest hair on the page. No glasses. Crisp collared cream
-blouse with rolled sleeves, black plain wide trousers, suspender straps, lanyard. Warm and composed.
+blouse with rolled sleeves, black plain wide trousers with no cargo pockets, suspender straps, lanyard. Warm and composed.
 
 SEPARATION — Deerock and Kai share Panels 2 and 3; Aki and Mika share Panel 3. Both pairs must be
 instantly distinguishable in silhouette.
@@ -71,8 +73,8 @@ slim, near-black jeans, contained expression.
 Kai: SHORT cropped jet-black hair with ears and nape fully exposed, NO glasses at all, 178 cm,
 athletic and broader, olive-brown cargo trousers, headphones around his neck, open grin.
 Glasses and hair over the ears means Deerock; short cropped hair and bare ears means Kai.
-Aki's hair is UP in a bun and she wears a loose knitted sweater; Mika's hair is DOWN, long and
-wavy and she wears a collared blouse.
+Aki's hair is UP in a bun and she wears a dusty-pink hoodie; Mika's hair is DOWN, long and
+wavy and she wears a cream collared blouse.
 
 Everyone wears the same outfit in every panel — this is one single workday.
 
@@ -126,7 +128,7 @@ Nothing else is written anywhere.
 No katana, no sword, no ninja, no samurai, no fantasy armour, no tactical harness, no chest rig,
 no utility straps or buckle pouches, no supernatural effects, no action aura, no glowing weapon,
 no cyberpunk elements, no magazine-cover layout, no lens flare, no dramatic hero angles,
-no photorealism, no chibi, no 3D render. No sweat drops, no shock lines, no cartoon symbols.
+no photorealism, no chibi, no 3D render. No white border, outer margin or frame around the page. No phone, tablet or laptop screen is turned toward the camera — screens face the character using them. No sweat drops, no shock lines, no cartoon symbols.
 Deerock is never without glasses; his hair is never plain black; his chin is always clean —
 no beard, no moustache, no stubble.
 Kai never wears glasses, never has purple hair, and never has long or ear-covering hair.
