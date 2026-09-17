@@ -10,8 +10,8 @@ characters/mika.png
 locations/office.png
 ```
 
-From page 2 onward, also attach the approved page 1 and add the STYLE REFERENCE line — see
-[`README.md`](README.md).
+**Also attach the approved page 1** — `../results/ep01_page01_v001.png` — and add the STYLE
+REFERENCE line at the top of the prompt. See [`README.md`](README.md).
 
 **Canary:** the page shows no title. If "Satu perubahan kecil" appears anywhere, this prompt did
 not run as written.

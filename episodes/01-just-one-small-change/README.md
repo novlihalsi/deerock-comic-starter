@@ -4,8 +4,8 @@
 | --- | --- |
 | Format | 5 pages at 4:5 portrait (1080 × 1350), 2–3 panels per page |
 | Panels | 14 (3 · 3 · 3 · 3 · 2) |
-| Status | **Ready to generate.** Story, panel specs and page prompts written. No artwork yet. |
-| Files | [`storyboard.md`](storyboard.md) · [`panel-specs.md`](panel-specs.md) · [`generation-prompts/`](generation-prompts/README.md) · `results/` (empty) |
+| Status | **Generating — page 1 of 5 approved.** |
+| Files | [`storyboard.md`](storyboard.md) · [`panel-specs.md`](panel-specs.md) · [`generation-prompts/`](generation-prompts/README.md) · [`results/`](results) |
 
 ## Logline
 
@@ -23,6 +23,16 @@ prompt per page.
    [`generation-prompts/README.md`](generation-prompts/README.md).
 3. Generate each page in one shot. Output names: `ep01_page01_v001.png` … `ep01_page05_v001.png`
    (see `bible/consistency-guide.md` section 8).
+
+## Pages
+
+| Page | File | Status |
+| --- | --- | --- |
+| 1 | `results/ep01_page01_v001.png` | **approved** 2026-09-17 |
+| 2 | — | next: attach page 1 as the style reference |
+| 3 | — | not generated |
+| 4 | — | not generated |
+| 5 | — | not generated |
 
 ## Page density
 

@@ -26,6 +26,7 @@ version and mark the old one `superseded`.
 
 | Asset | Episode | Status | Note |
 | --- | --- | --- | --- |
+| `episodes/01-just-one-small-change/results/ep01_page01_v001.png` | 01 | **APPROVED** — page 1 of 5 | 1122 x 1402 (ratio 0.8003, 4:5). Approved 2026-09-17. First attempt. |
 | `episodes/00-trailer/results/ep00_page01_v004.png` | 00-trailer | **APPROVED — final** | 941 x 1672 (9:16). Approved 2026-09-16. |
 | `episodes/00-trailer/results/ep00_page01_v003.png` | 00-trailer | superseded by v004 | Revision pass; lost Aki's greeting in Panel 07. |
 | `episodes/00-trailer/results/ep00_page01_v002.png` | 00-trailer | superseded by v003 | First fully correct page: cast, house and lobby all matching their sheets. |
@@ -54,6 +55,24 @@ Produced in one shot; no panel-level artwork exists.
 - Panel 07, Aki's greeting reads "Pagi, Rock." The rule that Deerock is never shortened was set on
   2026-09-17, after this page was approved. The 4:5 edition's prompt uses "Pagi, Deerock."
 
+### Episode 01 — page 1 (`ep01_page01_v001.png`)
+Generated in one shot from `episodes/01-just-one-small-change/generation-prompts/page-01.md`, first
+attempt. Pre-flight checklist passes: 4:5 ratio, no title or caption, layout as specified, all four
+bubbles and all screen text exact (`Rapihin empty state`, `Mika` / `Stand-up 09.30. Jangan lupa.`,
+`Coba lagi`), `TING` present, Deerock's glasses in every panel and clean chin, Aki's bun, knitted
+sweater and cargo trousers, kitchen, carriage and desk all matching their sheets, light following
+the time table.
+
+This page is the style reference for page 2.
+
+**Accepted deviations** — minor, not worth a re-roll that would put the rest at risk:
+- Deerock's small orange accent (`D-W01`) is not visible in any panel.
+- Deerock's hair in 1.1 is swept slightly neater than in 1.3, where the fringe falls over the
+  forehead. Clearly the same character.
+- The 1.3 action beat of setting his backpack down beside the chair is not shown.
+- The row split came out about 45 / 55 instead of the specified 55 / 45, which gives the
+  two-bubble panel more room.
+
 ## Not for production
 
 | Asset | Status |
@@ -61,6 +80,9 @@ Produced in one shot; no panel-level artwork exists.
 | `references/off-canon/deerock-virelux-cover.png` | quarantined — see `references/off-canon/README.md` |
 
 ## Change log
+
+- **2026-09-17** — Episode 01 page 1 approved as `ep01_page01_v001.png`, first attempt. Four minor
+  deviations recorded above.
 
 - **2026-09-17** — Episode 01 generation prompts written, one per page, in
   `episodes/01-just-one-small-change/generation-prompts/`. Each carries only the cast and sets on
