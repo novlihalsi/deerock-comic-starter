@@ -4,13 +4,13 @@
 | --- | --- |
 | Format | 5 pages at 4:5 portrait (1080 × 1350), 2–3 panels per page |
 | Panels | 14 (3 · 3 · 3 · 3 · 2) |
-| Status | **Generating — page 1 of 5 approved.** |
+| Status | **Revised after trailer publication — replacement page 1 v002 pending.** |
 | Files | [`storyboard.md`](storyboard.md) · [`panel-specs.md`](panel-specs.md) · [`generation-prompts/`](generation-prompts/README.md) · [`results/`](results) |
 
 ## Logline
 
 One label on one button. One line of code. By mid-morning it has broken the mobile layout and the
-whole regression suite — and at five o'clock the client wants the old label back.
+empty-state regression checks — and at five o'clock the client wants the old label back.
 
 ## Before generating anything
 
@@ -21,15 +21,16 @@ prompt per page.
 1. ~~Expand the storyboard into `panel-specs.md`.~~ Done.
 2. ~~Write one generation prompt per page.~~ Done — start with
    [`generation-prompts/README.md`](generation-prompts/README.md).
-3. Generate each page in one shot. Output names: `ep01_page01_v001.png` … `ep01_page05_v001.png`
-   (see `bible/consistency-guide.md` section 8).
+3. Generate each page in one shot. Page 1 now starts at `ep01_page01_v002.png`; pages 2–5 start at
+   `ep01_page02_v001.png` … `ep01_page05_v001.png` (see `bible/consistency-guide.md` section 8).
 
 ## Pages
 
 | Page | File | Status |
 | --- | --- | --- |
-| 1 | `results/ep01_page01_v001.png` | **approved** 2026-09-17 |
-| 2 | — | next: attach page 1 as the style reference |
+| 1 | `results/ep01_page01_v001.png` | superseded pre-publication story draft — kept; used only as the style reference for v002 |
+| 1 | `results/ep01_page01_v002.png` | next: revised continuation from the published trailer |
+| 2 | — | generate after page 1 v002 is approved; attach v002 as the style reference |
 | 3 | — | not generated |
 | 4 | — | not generated |
 | 5 | — | not generated |
@@ -40,11 +41,12 @@ Every page stays within the series limits: 2–3 panels, at most 2 bubbles per p
 page. All of the trailer's text errors landed in its two five-bubble panels; these limits exist so
 that does not happen again.
 
-## Continuity with the trailer
+## Continuity with the published trailer
 
-Same fictional workday. Page 1 and panel 2.1 overlap the trailer's morning on purpose, and every
-line the two share must match word for word — above all Mika's "Oh iya, ada satu perubahan kecil
-lagi…". Wardrobe carries over unchanged (`D-W01` `A-W01` `K-W01` `R-W01` `M-W01`).
+Same fictional workday. The published trailer ends at 09:10 with Mika's “Oh iya, ada satu
+perubahan kecil lagi…” and Deerock's “Yang bagian mana?”. Episode 1 begins at 09:11, so it must
+not recreate or contradict any trailer panel. Wardrobe carries over unchanged (`D-W01` `A-W01`
+`K-W01` `R-W01` `M-W01`).
 
 ## Key requirement
 

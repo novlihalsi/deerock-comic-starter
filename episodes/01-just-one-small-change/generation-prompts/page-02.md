@@ -1,4 +1,6 @@
-# Episode 01 · Page 2 — Satu perubahan kecil
+# Episode 01 · Page 2 — Ternyata
+
+<!-- Revised continuation after the published trailer. -->
 
 **Save as:** `../results/ep01_page02_v001.png` · **Panels:** 3 · **Bubbles:** 4
 
@@ -6,29 +8,33 @@
 
 ```
 characters/deerock.png
+characters/aki.png
+characters/kai.png
+characters/rin.png
 characters/mika.png
 locations/office.png
 ```
 
-**Also attach the approved page 1** — `../results/ep01_page01_v001.png` — and add the STYLE
-REFERENCE line at the top of the prompt. See [`README.md`](README.md).
+Also attach approved `../results/ep01_page01_v002.png` and add the STYLE REFERENCE line — see [`README.md`](README.md).
 
-**Canary:** the page shows no title. If "Satu perubahan kecil" appears anywhere, this prompt did
-not run as written.
+**Canary:** the page shows no title. If "Ternyata" appears anywhere, this prompt did not run as
+written. Check Panel 3 first — five characters in one frame is where Deerock/Kai and Aki/Mika are
+most likely to blur. No button label appears on this page; if one does, the generator copied it
+from the attached page 1.
 
 ---
 
 ```
-A single 4:5 portrait comic page (1080 x 1350) with 3 panels, read left to right and top to bottom.
+A single 4:5 portrait comic page (1080 x 1350) with 3 panels, read top to bottom.
 Contemporary slice-of-life manga/anime: clean linework, restrained cel shading, subtle halftone
 texture, soft cinematic lighting, realistic modern Indonesian environments, natural expressions.
 Muted cool palette with subtle purple and blue accents. Thin dark panel borders, thin white
 gutters, white page background. Consistent line weight, eye size and face proportion across
-every character on the page. Speech and thought bubbles are compact and never cover a face.
+every character on the page. Speech bubbles are compact and never cover a face.
 
 === CAST — match the attached character sheets exactly ===
 
-Only two named characters appear on this page: Deerock and Mika.
+All five named characters appear on this page.
 
 DEEROCK — 25, male, frontend developer, 172 cm, slim. Dark PURPLE-black hair, MEDIUM length and
 layered, soft strands falling over his forehead, COVERING HIS EARS and reaching the nape — it must
@@ -39,10 +45,34 @@ Wears a dark hoodie or dark overshirt over a plain dark tee, dark jeans, dark sn
 small orange accent. No harness, no straps, no pouches.
 Expression register: small and contained — slight frown, small smile, flat stare. Never broad.
 
+AKI — 24, female, UI/UX designer, 160 cm, petite. Warm brown hair worn UP in a loose messy BUN
+with soft face-framing strands. No glasses. Loose knitted cream sweater with no collar, black
+wide cargo trousers, suspender straps, lanyard. Open, expressive, smiles big.
+
+KAI — 28, male, backend developer, 178 cm, tallest and broadest of the team. JET BLACK hair, and
+it is SHORT: cropped short at the sides and back, EARS AND NAPE FULLY EXPOSED, short spiky tousled
+top, short fringe off the forehead. Nothing covers his ears. Clearly shorter hair than Deerock.
+NEVER wears glasses. Dark hoodie under an open dark jacket, OLIVE-BROWN cargo trousers that are
+clearly lighter than Deerock's near-black jeans. Over-ear headphones AROUND HIS NECK.
+Relaxed posture, open grin with teeth showing.
+
+RIN — 24, female, QA engineer, 162 cm, slim. Very dark straight hair, LONG — past the shoulders
+down to mid-back — with a full blunt fringe. No glasses. Black oversized hoodie over a light
+tee, dark grey cargo trousers, lanyard. Calm, still, deadpan.
+
 MIKA — 26, female, project manager, 165 cm. Light warm brown hair, LONG, loosely wavy, worn
-DOWN past the shoulder blades. No glasses. Crisp collared cream blouse with rolled sleeves, black
-plain wide trousers, suspender straps, lanyard. Warm and composed; delivers awkward news with an
-apologetic half-smile.
+DOWN past the shoulder blades — the lightest hair on the page. No glasses. Crisp collared cream
+blouse with rolled sleeves, black plain wide trousers, suspender straps, lanyard. Warm and composed.
+
+SEPARATION — Deerock and Kai share Panels 2 and 3; Aki and Mika share Panel 3. Both pairs must be
+instantly distinguishable in silhouette.
+Deerock: MEDIUM-length layered purple-black hair covering his ears, thin dark glasses, 172 cm,
+slim, near-black jeans, contained expression.
+Kai: SHORT cropped jet-black hair with ears and nape fully exposed, NO glasses at all, 178 cm,
+athletic and broader, olive-brown cargo trousers, headphones around his neck, open grin.
+Glasses and hair over the ears means Deerock; short cropped hair and bare ears means Kai.
+Aki's hair is UP in a bun and she wears a loose knitted sweater; Mika's hair is DOWN, long and
+wavy and she wears a collared blouse.
 
 Everyone wears the same outfit in every panel — this is one single workday.
 
@@ -50,48 +80,47 @@ Everyone wears the same outfit in every panel — this is one single workday.
 
 NEXA OPEN WORKSPACE (upper floor) — full-height window wall with a city skyline, warm wood desks
 in rows separated by low partitions, dual monitors, plants in low planters, exposed dark ceiling
-with linear lights.
+with linear lights. The named desks sit side by side along one row, in this order: Aki, Deerock,
+Kai, Rin. Kai's desk is directly beside Deerock's.
 DEEROCK'S DESK: two monitors (a landscape wallpaper on the left, code on the right), an open
 laptop, a mechanical keyboard, a black tumbler, over-ear headphones lying on the desk, sticky
-notes on the low partition, a dark jacket over the chair back. Any desk nameplate is out of focus
-and unreadable.
+notes on the low partition, a dark jacket over the chair back.
+RIN'S DESK: a pink keyboard and mouse pad, small figurines, a pink jacket over the chair back.
+Any desk nameplate is out of focus and unreadable.
 
-=== PAGE LAYOUT — 4:5 portrait, three panels in two rows ===
+=== PAGE LAYOUT — 4:5 portrait, three full-width rows ===
 
-Row 1, half the page height — Panel 1, full width.
-Row 2, the other half — two panels side by side: Panel 2 left, Panel 3 right.
+Row 1, about 30% of the page height — Panel 1.
+Row 2, about 30% — Panel 2.
+Row 3, about 40%, the largest — Panel 3.
 
 === PANELS ===
 
-PANEL 1 — 09:10. DEEROCK'S DESK. Shot over Mika's shoulder at seated eye level. Mika's long wavy
-light-brown hair and shoulder fill the left third of the panel; she holds her tablet against her
-chest. Deerock, seated, is the focal point right of centre: he has paused mid-typing and looks up
-at her with a small blank stare, glasses catching a little monitor light, his code screen behind
-him. No shock lines, no sweat drop. Neutral office daylight.
-Speech bubbles — Mika's sits higher and further left, so it reads first:
-  Mika: Oh iya, ada satu perubahan kecil lagi…
-  Deerock: Yang bagian mana?
+PANEL 1 — 10:07. RIN'S DESK. Side-on medium shot at desk height. Rin sits at right in three-quarter
+profile, very still, one hand resting on the mouse, giving the screen a flat deadpan look. Her
+monitor at left fills about a third of the panel: a test runner with red ✗ icons and red status
+bars, no readable text. A faint red glow falls on her face.
+Two speech bubbles, both from Rin, stacked:
+  Rin: Regression empty state-ku merah.
+  Rin: Selector-nya masih ngandelin teks tombol.
 
-PANEL 2 — 09:11. Close-up over Deerock's shoulder — the edge of his shoulder and glasses frame at
-the right edge — onto Mika's tablet, which fills most of the panel. Mika's finger taps the button
-on the screen. The background is soft. Neutral daylight.
-The tablet shows a simple empty-state screen: a small illustration and one button labelled exactly
-"Coba lagi". Beside it, a design-tool comment reads exactly: Ganti jadi: Muat ulang data terbaru
-Speech bubble, its tail pointing off-panel to the left, where Mika stands:
-  Mika: Cuma teks tombolnya, kok.
+PANEL 2 — 10:08. DEEROCK'S DESK. Eye-level medium two-shot. Deerock sits left of centre, staring
+blankly at his monitor, mouth a flat line. Kai rolls in from his directly neighbouring desk at
+right, with a wide grin and headphones around his neck, holding out a takeaway coffee cup.
+Speech bubble:
+  Kai: Kecil, katanya.
 
-PANEL 3 — 09:15. Low close shot across Deerock's keyboard: his hands in the foreground pressing
-Enter, his face above them with the faintest confident smile, cool monitor glow on his glasses.
-On the monitor, a single highlighted line in a schematic code editor — no readable code. Neutral
-daylight.
-Thought bubble, Deerock: Satu baris.
-Small sound effect near the Enter key: TAK
+PANEL 3 — 10:12. NEXA OPEN WORKSPACE around DEEROCK'S DESK, the largest panel. Eye-level
+conversational wide shot from the aisle. Aki holds her phone, Rin her laptop, Kai leans on the
+partition, Deerock listens, and Mika stands beside the group with her phone ready. This is a
+focused mini-huddle, not a crisis meeting. Bright mid-morning daylight.
+Speech bubble:
+  Mika: Kita benerin akar masalahnya, ya.
 
 === TEXT POLICY ===
-The ONLY text anywhere on this page is: the button label "Coba lagi" and the comment
-"Ganti jadi: Muat ulang data terbaru" on the tablet in Panel 2; the three speech bubbles and one
-thought bubble listed above; and the sound effect "TAK". Spell every line exactly as written. Code
-and other screens are unreadable. Nothing else is written anywhere.
+The ONLY text anywhere on this page is the four speech bubbles listed above. Write "Deerock" in
+full. Spell every line exactly as written. The test runner, code and other screens are unreadable.
+Nothing else is written anywhere.
 
 === NEGATIVE ===
 No katana, no sword, no ninja, no samurai, no fantasy armour, no tactical harness, no chest rig,
@@ -100,6 +129,9 @@ no cyberpunk elements, no magazine-cover layout, no lens flare, no dramatic hero
 no photorealism, no chibi, no 3D render. No sweat drops, no shock lines, no cartoon symbols.
 Deerock is never without glasses; his hair is never plain black; his chin is always clean —
 no beard, no moustache, no stubble.
+Kai never wears glasses, never has purple hair, and never has long or ear-covering hair.
+Do not draw Kai as a second version of Deerock.
+Aki and Mika never share the same hairstyle or the same kind of top.
 Do not redesign any room.
 No page title, no chapter heading, no page number, no episode title, no captions, no narration
 boxes, no slogans, no taglines, no character name tags, no role labels, no watermark, no

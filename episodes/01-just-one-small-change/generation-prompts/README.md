@@ -6,9 +6,9 @@ panels, text policy and negatives for that page only.
 
 | Page | Prompt | Panels | Attach |
 | --- | --- | --- | --- |
-| 1 | [`page-01.md`](page-01.md) | 3 | deerock · aki · home · krl-interior · office |
-| 2 | [`page-02.md`](page-02.md) | 3 | deerock · mika · office |
-| 3 | [`page-03.md`](page-03.md) | 3 | deerock · aki · kai · rin · office |
+| 1 | [`page-01.md`](page-01.md) | 3 | deerock · aki · mika · office |
+| 2 | [`page-02.md`](page-02.md) | 3 | all five characters · office |
+| 3 | [`page-03.md`](page-03.md) | 3 | all five characters · office |
 | 4 | [`page-04.md`](page-04.md) | 3 | all five characters · office |
 | 5 | [`page-05.md`](page-05.md) | 2 | all five characters · office · krl-interior |
 
@@ -23,13 +23,16 @@ station sheet and a platform tends to appear.
 **Check the ratio first.** Width ÷ height must be 0.8. A 9:16 or 2:3 render means the layout is
 wrong too. Do not crop a taller render down; re-roll.
 
-**Save as** `../results/ep01_page01_v001.png` … `ep01_page05_v001.png`. Versions only go up.
-Approvals go in `assets/approved/manifest.md`.
+**Save as** `../results/ep01_page01_v002.png`, then `ep01_page02_v001.png` …
+`ep01_page05_v001.png`. Versions only go up. Approved page 1 v001 is a preserved,
+pre-publication story draft and must not be overwritten. Approvals go in `assets/approved/manifest.md`.
 
 ## Keeping five pages looking like one comic
 
-Generate page 1 first and get it approved. From page 2 onward, **also attach the previous
-approved page**, and add this line at the very top of the prompt:
+Page 1 (`v002`) attaches the approved pre-publication draft page, `../results/ep01_page01_v001.png`,
+as its style reference — its story is no longer used, but its faces are. The STYLE REFERENCE line
+for page 1 is already inside the page 1 prompt. Get page 1 approved first. From page 2 onward,
+**also attach the previous approved page**, and add this line at the very top of the prompt:
 
 ```
 STYLE REFERENCE: the attached previous page is for rendering style only — match its line weight, colouring, shading and how each character's face is drawn. Do not copy its panels, its layout or any of its text.
@@ -42,7 +45,7 @@ full of speech bubbles, and a generator will happily reuse them.
 ## Canary
 
 Every prompt forbids titles and captions. If a finished page shows any of the storyboard's
-page titles — **Hari yang tenang**, **Satu perubahan kecil**, **Ternyata**, **Dibenerin bareng**,
+page titles — **Satu perubahan kecil**, **Ternyata**, **Dibenerin bareng**, **Lega dulu**,
 **Satu perubahan kecil lagi** — or a page number, an episode title or a narration box, the prompt
 was rewritten on the way or ignored. Re-paste it verbatim.
 

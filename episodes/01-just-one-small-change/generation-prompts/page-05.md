@@ -105,7 +105,7 @@ through slinging his backpack onto one shoulder, Rin lifting her backpack — ea
 pause, a small human beat, not a cartoon shock. Deerock sits at right, still at his keyboard,
 barely looking up, calm and unbothered. Golden late-afternoon light.
 Speech bubbles — Mika's first, higher and further left:
-  Mika: Client minta balikin ke "Coba lagi"…
+  Mika: Client minta balik ke "Coba lagi"…
   Deerock: Sekarang beneran satu baris.
 
 PANEL 2 — 17:50. KRL CARRIAGE, EVENING. Medium shot from the aisle. Deerock stands with his

@@ -1,6 +1,6 @@
-# Episode 01 · Page 4 — Dibenerin bareng
+# Episode 01 · Page 4 — Lega dulu
 
-**Save as:** `../results/ep01_page04_v001.png` · **Panels:** 3 · **Bubbles:** 5
+**Save as:** `../results/ep01_page04_v001.png` · **Panels:** 3 · **Bubbles:** 3
 
 **Attach:**
 
@@ -13,11 +13,12 @@ characters/mika.png
 locations/office.png
 ```
 
-Also attach the approved page 3 and add the STYLE REFERENCE line — see [`README.md`](README.md).
+Also attach approved `../results/ep01_page03_v001.png` and add the STYLE REFERENCE line — see
+[`README.md`](README.md).
 
-**Canary:** the page shows no title. If "Dibenerin bareng" appears anywhere, this prompt did not
-run as written. This is the densest page of the episode (5 bubbles) — check Kai's line in Panel 2
-first.
+**Canary:** the page shows no title. If "Lega dulu" appears anywhere, this prompt did not run as
+written. Check Panel 1 first: the button label must sit on ONE line — it wrapped on page 1, and a
+generator that saw that page may wrap it again.
 
 ---
 
@@ -27,7 +28,7 @@ Contemporary slice-of-life manga/anime: clean linework, restrained cel shading, 
 texture, soft cinematic lighting, realistic modern Indonesian environments, natural expressions.
 Muted cool palette with subtle purple and blue accents. Thin dark panel borders, thin white
 gutters, white page background. Consistent line weight, eye size and face proportion across
-every character on the page. Speech bubbles are compact and never cover a face.
+every character on the page. Speech and thought bubbles are compact and never cover a face.
 
 === CAST — match the attached character sheets exactly ===
 
@@ -61,12 +62,12 @@ MIKA — 26, female, project manager, 165 cm. Light warm brown hair, LONG, loose
 DOWN past the shoulder blades — the lightest hair on the page. No glasses. Crisp collared cream
 blouse with rolled sleeves, black plain wide trousers, suspender straps, lanyard. Warm and composed.
 
-SEPARATION — these two pairs must never blur together.
-Deerock and Kai must be instantly distinguishable in silhouette. Deerock: MEDIUM-length layered
-purple-black hair covering his ears, thin dark glasses, 172 cm, slim, near-black jeans. Kai: SHORT
-cropped jet-black hair with ears and nape fully exposed, NO glasses at all, 178 cm, athletic and
-broader, olive-brown cargo trousers, headphones around his neck. Glasses and hair over the ears
-means Deerock; short cropped hair and bare ears means Kai.
+SEPARATION — all five share Panel 3, so both pairs must be instantly distinguishable in silhouette.
+Deerock: MEDIUM-length layered purple-black hair covering his ears, thin dark glasses, 172 cm,
+slim, near-black jeans, contained expression.
+Kai: SHORT cropped jet-black hair with ears and nape fully exposed, NO glasses at all, 178 cm,
+athletic and broader, olive-brown cargo trousers, headphones around his neck, open grin.
+Glasses and hair over the ears means Deerock; short cropped hair and bare ears means Kai.
 Aki and Mika both wear cream tops, so the garment and hair separate them: Aki's hair is UP in a
 bun and she wears a loose knitted sweater with no collar and cargo trousers; Mika's hair is DOWN,
 long, wavy and lighter, and she wears a crisp collared blouse with rolled sleeves and plain wide
@@ -89,42 +90,40 @@ Any desk nameplate is out of focus and unreadable.
 === PAGE LAYOUT — 4:5 portrait, three panels in two rows ===
 
 Row 1, a little under half the page height — two panels side by side: Panel 1 left, Panel 2 right.
-These two fixes happen at the same time.
 Row 2, the rest of the page — Panel 3, full width.
 
 === PANELS ===
 
-PANEL 1 — 14:00. DEEROCK'S DESK. Medium two-shot from slightly behind and between them, so Aki's
-iPad and Deerock's monitor are both visible. Aki, in a chair pulled up beside him, sketches a tidy
-single button with her Apple Pencil, pencil near her lips, focused. Deerock types, quietly engaged.
-Afternoon daylight, slightly warm. The iPad shows a simple button sketch and the monitor shows
-schematic code — no readable text.
-Speech bubbles, Aki's first:
-  Aki: Bisa dibuat lebih clean?
-  Deerock: Aku coba dulu.
+PANEL 1 — 15:45. DEEROCK'S DESK. Eye-level medium two-shot. Aki holds her phone out between
+herself and Deerock, its screen facing the reader, LARGE ENOUGH TO READ. Deerock checks the same
+screen on his monitor. Aki has a relieved smile. Deerock gives the phone a small, dry sideways
+look — most of the day has gone into a one-line change. Warm afternoon daylight.
+The phone screen shows one button whose label reads exactly, on a SINGLE line, fitting cleanly:
+Muat ulang data terbaru
+Thought bubble, Deerock: Satu baris, katanya.
 
-PANEL 2 — 14:30. RIN'S DESK. Medium two-shot. Rin sits at her laptop typing, calm and focused. Kai
-stands behind the low partition with his forearms resting on it, leaning in — then pausing with one
-finger raised as he catches himself, his grin turning into a sheepish laugh. Afternoon daylight.
-The laptop shows schematic code — no readable text.
-Speech bubbles, Rin's first. Kai's is the longest line on the page: keep his bubble compact,
-wrapped over three short lines, clear of both faces.
-  Rin: Pakai test-id aja. Biar nggak kejadian lagi.
-  Kai: API-nya udah ready. …Eh, nggak ada API-nya, ya.
+PANEL 2 — 16:15. RIN'S DESK. Side-on medium shot at desk height. Rin sits at right, calm and
+quietly satisfied. Her monitor at left fills about a third of the panel with green ✓ rows and green
+status bars, no readable text. Kai leans over the low partition with a small thumbs-up, headphones
+around his neck. Warm afternoon daylight.
+Speech bubble:
+  Rin: Regression empty state aman.
 
 PANEL 3 — 16:30. NEXA OPEN WORKSPACE around DEEROCK'S DESK, window wall behind. Slightly elevated
-wide shot. Deerock sits at centre with a small smile. Aki stands beside him holding up her phone.
-Kai leans back in his chair with his hands behind his head. Rin, at right, turns her laptop toward
-the group, green ✓ rows on its screen. Mika stands in the aisle at the far right, giving a thumbs
-up with her phone in her other hand. A relieved, warm mood. Warm late-afternoon sun low through
-the window wall, long soft shadows.
+wide shot. Deerock sits at centre with a small smile. Aki stands beside him holding her phone. Kai
+leans back in his chair with his hands behind his head. Rin, at right, turns her laptop toward the
+group, green ✓ rows on its screen. Mika stands in the aisle at the far right, giving a thumbs up
+with her phone in her other hand. Warm late-afternoon sun low through the window wall, long soft
+shadows.
 Speech bubble:
   Mika: Aku kabarin client, ya.
 
 === TEXT POLICY ===
-The ONLY text anywhere on this page is the five speech bubbles listed above. Spell every line
-exactly as written. The iPad sketch, code, green ticks and every other screen are unreadable.
-Nothing else is written anywhere.
+The ONLY text anywhere on this page is: the one-line button label "Muat ulang data terbaru" on
+Aki's phone in Panel 1; Deerock's thought bubble in Panel 1; Rin's speech bubble in Panel 2; and
+Mika's speech bubble in Panel 3. Spell every line exactly as written. Code, test runners, Aki's
+phone in Panel 3, Mika's phone and every other screen are unreadable. Nothing else is written
+anywhere.
 
 === NEGATIVE ===
 No katana, no sword, no ninja, no samurai, no fantasy armour, no tactical harness, no chest rig,

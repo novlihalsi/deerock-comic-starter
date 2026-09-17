@@ -26,7 +26,7 @@ version and mark the old one `superseded`.
 
 | Asset | Episode | Status | Note |
 | --- | --- | --- | --- |
-| `episodes/01-just-one-small-change/results/ep01_page01_v001.png` | 01 | **APPROVED** — page 1 of 5 | 1122 x 1402 (ratio 0.8003, 4:5). Approved 2026-09-17. First attempt. |
+| `episodes/01-just-one-small-change/results/ep01_page01_v001.png` | 01 | superseded — pre-publication story draft, kept | 1122 x 1402 (ratio 0.8003, 4:5). Approved 2026-09-17 for the draft story; superseded when the episode was revised after the trailer's publication. Style reference for page 1 `v002`. |
 | `episodes/00-trailer/results/ep00_page01_v004.png` | 00-trailer | **APPROVED — final** | 941 x 1672 (9:16). Approved 2026-09-16. |
 | `episodes/00-trailer/results/ep00_page01_v003.png` | 00-trailer | superseded by v004 | Revision pass; lost Aki's greeting in Panel 07. |
 | `episodes/00-trailer/results/ep00_page01_v002.png` | 00-trailer | superseded by v003 | First fully correct page: cast, house and lobby all matching their sheets. |
@@ -55,7 +55,7 @@ Produced in one shot; no panel-level artwork exists.
 - Panel 07, Aki's greeting reads "Pagi, Rock." The rule that Deerock is never shortened was set on
   2026-09-17, after this page was approved. The 4:5 edition's prompt uses "Pagi, Deerock."
 
-### Episode 01 — page 1 (`ep01_page01_v001.png`)
+### Episode 01 — page 1 v001, pre-publication draft (`ep01_page01_v001.png`)
 Generated in one shot from `episodes/01-just-one-small-change/generation-prompts/page-01.md`, first
 attempt. Pre-flight checklist passes: 4:5 ratio, no title or caption, layout as specified, all four
 bubbles and all screen text exact (`Rapihin empty state`, `Mika` / `Stand-up 09.30. Jangan lupa.`,
@@ -63,7 +63,8 @@ bubbles and all screen text exact (`Rapihin empty state`, `Mika` / `Stand-up 09.
 sweater and cargo trousers, kitchen, carriage and desk all matching their sheets, light following
 the time table.
 
-This page is the style reference for page 2.
+This page was to be the style reference for page 2 of the draft story. Since the revision it is the
+style reference for the new page 1, `ep01_page01_v002.png`; its story content is not used.
 
 **Accepted deviations** — minor, not worth a re-roll that would put the rest at risk:
 - Deerock's small orange accent (`D-W01`) is not visible in any panel.
@@ -80,6 +81,21 @@ This page is the style reference for page 2.
 | `references/off-canon/deerock-virelux-cover.png` | quarantined — see `references/off-canon/README.md` |
 
 ## Change log
+
+- **2026-09-17** — Episode 01 revision review applied. Page 1 panel 1.1 is now a full-width medium
+  two-shot that works as the carousel cover, and page 1's layout changed to match; Mika's line is
+  "Client pengin lebih jelas. Cuma teks tombolnya, kok." (no em dash, "kok" restored). Page 4.1
+  replaces Aki's "Nah, ini baru lega." with Deerock's thought "Satu baris, katanya.", completing a
+  rule of three with 1.2 and 5.1. The page 4 prompt was rebuilt with the full, verbatim cast and
+  separation blocks and a consistent text policy; the page 2 canary and page 1 prompt were
+  corrected; page 1 `v002` now uses `v001` as its style reference. `v001`'s row above is marked
+  superseded rather than left as page 1 of 5.
+
+- **2026-09-17** — Episode 01 was revised after the trailer was published. The episode now starts
+  at 09:11, immediately after the trailer’s closing exchange, rather than replaying trailer
+  moments. `ep01_page01_v001.png` remains approved and preserved as the pre-publication story
+  draft, but it is no longer the style reference or production Page 1 for this revised sequence.
+  Generate `ep01_page01_v002.png` next; do not alter the existing approved row or image.
 
 - **2026-09-17** — Episode 01 page 1 approved as `ep01_page01_v001.png`, first attempt. Four minor
   deviations recorded above.
