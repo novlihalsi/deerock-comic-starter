@@ -1,8 +1,8 @@
 # Episode 01 — Just One Small Change
 
 **Status: story locked, panel specs written.** Beats, locations and dialogue are final; camera,
-composition, light and continuity are in [`panel-specs.md`](panel-specs.md). Page generation
-prompts are not written yet — see [`README.md`](README.md).
+composition, light and continuity are in [`panel-specs.md`](panel-specs.md), and the page
+prompts are in [`generation-prompts/`](generation-prompts/README.md).
 
 ## Format
 5 pages at 4:5 portrait (1080 × 1350). 14 panels: 3 · 3 · 3 · 3 · 2.
@@ -133,6 +133,6 @@ passenger example. Deerock holds a strap with a small, content smile. His phone 
   to 4.3. It wraps onto two lines only in 3.1.
 - No new locations. The evening carriage uses the existing `LOC-KRL` sheet.
 
-## Still to write
-One generation prompt per page, built from [`panel-specs.md`](panel-specs.md) in the format of
-`episodes/00-trailer/generation-prompt.md`.
+## Next
+Generate the pages, starting with page 1 — see
+[`generation-prompts/README.md`](generation-prompts/README.md).

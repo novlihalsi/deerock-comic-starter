@@ -62,6 +62,12 @@ Produced in one shot; no panel-level artwork exists.
 
 ## Change log
 
+- **2026-09-17** — Episode 01 generation prompts written, one per page, in
+  `episodes/01-just-one-small-change/generation-prompts/`. Each carries only the cast and sets on
+  its page. Every dialogue line, thought, SFX and screen string was checked programmatically
+  against `panel-specs.md` and matches exactly. From page 2 onward the previous approved page is
+  attached as a style reference to keep the carousel consistent.
+
 - **2026-09-17** — Episode 01 panel specs written
   (`episodes/01-just-one-small-change/panel-specs.md`). Two corrections made along the way:
   - Panel 5.2 moved from 18:40 to 17:50. Sunset in Jakarta in mid-September is around 17:50; the

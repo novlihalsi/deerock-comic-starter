@@ -73,7 +73,7 @@ panels.
 | Slug | Format | Status |
 | --- | --- | --- |
 | `00-trailer` | ONE 4:5 portrait page, 10 panels in six rows | 4:5 edition not yet generated · 9:16 edition approved: `episodes/00-trailer/results/ep00_page01_v004.png` |
-| `01-just-one-small-change` | 5 pages at 4:5, 2–3 panels per page (14 panels) | panel specs written · page prompts not written |
+| `01-just-one-small-change` | 5 pages at 4:5, 2–3 panels per page (14 panels) | ready to generate · no artwork yet |
 
 Changing an episode's page format is a canon change: update the episode's `README.md` and
 `storyboard.md` together, and never leave two documents describing different formats.

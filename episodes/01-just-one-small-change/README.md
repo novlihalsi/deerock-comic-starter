@@ -4,8 +4,8 @@
 | --- | --- |
 | Format | 5 pages at 4:5 portrait (1080 × 1350), 2–3 panels per page |
 | Panels | 14 (3 · 3 · 3 · 3 · 2) |
-| Status | **Story locked, panel specs written.** Page generation prompts not written. No artwork. |
-| Files | [`storyboard.md`](storyboard.md) · [`panel-specs.md`](panel-specs.md) · `results/` (empty) |
+| Status | **Ready to generate.** Story, panel specs and page prompts written. No artwork yet. |
+| Files | [`storyboard.md`](storyboard.md) · [`panel-specs.md`](panel-specs.md) · [`generation-prompts/`](generation-prompts/README.md) · `results/` (empty) |
 
 ## Logline
 
@@ -15,11 +15,12 @@ whole regression suite — and at five o'clock the client wants the old label ba
 ## Before generating anything
 
 `storyboard.md` fixes what happens and what is said. `panel-specs.md` fixes camera, composition,
-poses, props, light and continuity for all 14 panels. One step remains before generation.
+poses, props, light and continuity for all 14 panels. `generation-prompts/` holds one ready-to-paste
+prompt per page.
 
 1. ~~Expand the storyboard into `panel-specs.md`.~~ Done.
-2. Write one generation prompt per page, using `episodes/00-trailer/generation-prompt.md` as the
-   template: CAST, SETS, layout, panels, text policy, NEGATIVE.
+2. ~~Write one generation prompt per page.~~ Done — start with
+   [`generation-prompts/README.md`](generation-prompts/README.md).
 3. Generate each page in one shot. Output names: `ep01_page01_v001.png` … `ep01_page05_v001.png`
    (see `bible/consistency-guide.md` section 8).
 
