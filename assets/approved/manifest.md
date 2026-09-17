@@ -62,6 +62,16 @@ Produced in one shot; no panel-level artwork exists.
 
 ## Change log
 
+- **2026-09-17** — Episode 01 panel specs written
+  (`episodes/01-just-one-small-change/panel-specs.md`). Two corrections made along the way:
+  - Panel 5.2 moved from 18:40 to 17:50. Sunset in Jakarta in mid-September is around 17:50; the
+    panel's orange light, taken from the KRL sheet's evening example, only works before it.
+  - The Aki/Mika separation rule no longer asks for different-coloured tops. Both reference
+    sheets put them in cream (`A-W01`, `M-W01`), so the rule contradicted canon — and the approved
+    trailer already shows both in cream. They are now separated by garment: Aki's loose knitted
+    sweater against Mika's collared blouse with rolled sleeves. `A-W01` no longer allows a blouse.
+    Updated in the character bible, prompt blocks, consistency guide and trailer prompt and specs.
+
 - **2026-09-17** — Deerock is now always called **Deerock** in full, never "Rock" or any other short
   form. Rule added to `bible/character-bible.md` and `AGENTS.md`. Aki's lines changed to match:
   `Pagi, Deerock.` in the trailer storyboard, panel specs and generation prompt, and

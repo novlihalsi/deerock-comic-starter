@@ -19,7 +19,7 @@ Deerock is never without glasses. Deerock's hair is never plain black — it is 
 Deerock has no beard, no moustache, no stubble and no jaw shadow; only a very thin, tiny,
 sparse patch directly beneath the lower lip, stopping well before the chin.
 Kai never wears glasses and never has purple hair.
-Aki and Mika never share the same hairstyle or the same colour top in one panel.
+Aki and Mika never share the same hairstyle or the same kind of top in one panel.
 
 NEGATIVE — text:
 no captions, no slogans, no taglines, no motivational copy, no character name tags,

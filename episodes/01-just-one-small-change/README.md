@@ -4,8 +4,8 @@
 | --- | --- |
 | Format | 5 pages at 4:5 portrait (1080 × 1350), 2–3 panels per page |
 | Panels | 14 (3 · 3 · 3 · 3 · 2) |
-| Status | **Story locked.** Beats, locations and dialogue final. Panel specs not written. No artwork. |
-| Files | [`storyboard.md`](storyboard.md) · `panel-specs.md` (not written yet) · `results/` (empty) |
+| Status | **Story locked, panel specs written.** Page generation prompts not written. No artwork. |
+| Files | [`storyboard.md`](storyboard.md) · [`panel-specs.md`](panel-specs.md) · `results/` (empty) |
 
 ## Logline
 
@@ -14,12 +14,10 @@ whole regression suite — and at five o'clock the client wants the old label ba
 
 ## Before generating anything
 
-The storyboard fixes *what happens and what is said*. It does not yet fix camera, composition,
-poses, props or per-panel continuity. Generating from it now would mean the model invents all of
-that, which is exactly how the trailer drifted.
+`storyboard.md` fixes what happens and what is said. `panel-specs.md` fixes camera, composition,
+poses, props, light and continuity for all 14 panels. One step remains before generation.
 
-1. Expand `storyboard.md` into `panel-specs.md`, using `episodes/00-trailer/panel-specs.md` as the
-   format.
+1. ~~Expand the storyboard into `panel-specs.md`.~~ Done.
 2. Write one generation prompt per page, using `episodes/00-trailer/generation-prompt.md` as the
    template: CAST, SETS, layout, panels, text policy, NEGATIVE.
 3. Generate each page in one shot. Output names: `ep01_page01_v001.png` … `ep01_page05_v001.png`

@@ -76,7 +76,7 @@ Reference: `characters/aki.png`
   lanyard with a rabbit card holder, compact camera, sticky notes, rabbit keychain.
 - **Behaviour:** expressive, big open smiles, gestures while explaining. Detail-oriented and
   collaborative, not scatterbrained.
-- **Wardrobe `A-W01`:** cream/off-white loose sweater or blouse, black wide cargo trousers,
+- **Wardrobe `A-W01`:** cream/off-white loose knitted sweater with no collar, black wide cargo trousers,
   suspender straps, NEXA lanyard, sneakers.
 
 ---
@@ -153,7 +153,7 @@ Reference: `characters/mika.png`
   sticky notes, structured shoulder bag, lanyard.
 - **Behaviour:** warm and direct, keeps eye contact, delivers bad news with an apologetic
   half-smile. Organised, not bossy.
-- **Wardrobe `M-W01`:** cream blouse with rolled sleeves, black wide trousers, suspender straps,
+- **Wardrobe `M-W01`:** crisp collared cream blouse with rolled sleeves, black wide trousers, suspender straps,
   NEXA lanyard, structured bag.
 
 ---
@@ -189,12 +189,14 @@ Never give Kai glasses. Never give Kai purple hair. **Never call Kai's hair "mes
 | Hair | medium-long, **tied up in a messy bun** | long, **down and wavy** |
 | Hair tone | mid warm brown | lighter, more golden brown |
 | Height | 160 cm, petite | 165 cm, average |
+| Top | loose **knitted sweater**, no collar | crisp **collared blouse**, sleeves rolled |
 | Trousers | black **cargo** with pockets | black **plain wide** trousers |
 | Signature carry | cream tote bag, iPad + Apple Pencil | structured shoulder bag, planning notebook |
 | Register | playful, wink, peace sign | composed, professional warmth |
 
-If both are in frame, keep Aki's bun and Mika's loose hair clearly readable, and do not put
-them in the same colour top.
+If both are in frame, keep Aki's bun and Mika's loose hair clearly readable. Both canonically
+wear cream tops (`A-W01`, `M-W01`), so colour cannot separate them — the garment has to: Aki's
+loose knitted sweater against Mika's collared blouse with rolled sleeves.
 
 ---
 

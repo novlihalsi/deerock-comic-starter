@@ -70,7 +70,7 @@ one small orange accent. No harness, no straps, no pouches.
 Expression register: small and contained — slight frown, small smile, flat stare. Never broad.
 
 AKI — 24, female, UI/UX designer, 160 cm, petite. Warm brown hair worn UP in a loose messy BUN
-with soft face-framing strands. No glasses. Cream loose sweater, black wide cargo trousers,
+with soft face-framing strands. No glasses. Loose knitted cream sweater, black wide cargo trousers,
 suspender straps, lanyard. Open, expressive, smiles big.
 
 KAI — 28, male, backend developer, 178 cm, tallest and broadest of the team. JET BLACK hair, and
@@ -85,7 +85,7 @@ down to mid-back — with a full blunt fringe. No glasses. Black oversized hoodi
 tee, dark grey cargo trousers, lanyard. Calm, still, deadpan.
 
 MIKA — 26, female, project manager, 165 cm. Light warm brown hair, LONG, loosely wavy, worn
-DOWN past the shoulder blades — the lightest hair on the page. No glasses. Cream blouse with
+DOWN past the shoulder blades — the lightest hair on the page. No glasses. Collared cream blouse with
 rolled sleeves, black plain wide trousers, suspender straps, lanyard, structured shoulder bag.
 Warm and composed.
 
@@ -98,7 +98,8 @@ Kai: SHORT cropped jet-black hair with his ears and nape fully exposed, NO glass
 If you are unsure which one you are drawing: glasses and long-ish hair means Deerock, short
 cropped hair and bare ears means Kai.
 Aki's hair is UP in a bun and she wears cargo trousers; Mika's hair is DOWN, long, wavy and
-lighter, and she wears plain wide trousers. They must not wear the same colour top.
+lighter, and she wears plain wide trousers. Both wear cream tops, so the garment must differ:
+Aki a loose knitted sweater with no collar, Mika a crisp collared blouse with rolled sleeves.
 
 Everyone wears the same outfit in every panel — this is one single workday.
 
@@ -278,7 +279,7 @@ stacking them tends to make the model over-correct.
 | Name tags under characters | `Do not label or name any character. No name tags, no role labels.` |
 | Deerock grew stubble or a beard | `Deerock's chin is completely clean-shaven and smooth in every panel.` |
 | **Kai looks like Deerock** | `Kai's hair is SHORT — cropped at the sides and back, ears and nape fully exposed, nothing covering the ears. Deerock's hair is MEDIUM and covers his ears. Kai wears NO glasses in any panel.` |
-| Aki and Mika look alike | `Aki's hair is tied up in a bun; Mika's hair is long, loose and wavy. Different hairstyles, different coloured tops.` |
+| Aki and Mika look alike | `Aki's hair is tied up in a bun; Mika's hair is long, loose and wavy. Different hairstyles; Aki in a loose knitted sweater, Mika in a collared blouse.` |
 | Page came back 9:16 or 2:3 | `The page is 4:5 portrait — only slightly taller than it is wide. Six rows of panels, not seven.` |
 | Panels merged or reordered | `Exactly 10 panels in six rows, in the layout described, in order, none merged, none added.` |
 | Dialogue garbled | Drop the dialogue: replace every bubble with `empty white speech bubble` and add the text afterwards in any editor. |

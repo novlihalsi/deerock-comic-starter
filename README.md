@@ -37,7 +37,7 @@ prompts/
   negative-prompts.md      the NEGATIVE block + banned on-panel strings
 episodes/
   00-trailer/              storyboard, panel specs, drift log, results
-  01-just-one-small-change/ story locked, panel specs next
+  01-just-one-small-change/ panel specs written, page prompts next
 assets/approved/
   manifest.md              ★ what is actually approved. Everything else is a draft.
 tools/check-refs.mjs     validates that every cited path exists

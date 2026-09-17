@@ -90,7 +90,8 @@ Two clearly different people, instantly distinguishable in silhouette. Do not ca
 SEPARATION — Aki vs Mika:
 Aki's hair is UP in a bun; Mika's hair is DOWN, long and wavy and lighter.
 Aki wears black cargo trousers and carries a cream tote; Mika wears plain black wide trousers
-and carries a structured shoulder bag. They must not wear the same colour top in one panel.
+and carries a structured shoulder bag. Both wear cream tops, so the GARMENT separates them:
+Aki's is a loose knitted sweater with no collar, Mika's a crisp collared blouse with rolled sleeves.
 ```
 
 ---
@@ -100,13 +101,13 @@ and carries a structured shoulder bag. They must not wear the same colour top in
 ```
 D-W01 — dark hoodie or dark overshirt over a plain dark tee, dark jeans/chinos, dark sneakers,
         one small orange accent. NO chest harness, NO utility straps, NO buckle pouches.
-A-W01 — cream loose sweater or blouse, black wide cargo trousers, suspender straps,
+A-W01 — cream loose knitted sweater (no collar), black wide cargo trousers, suspender straps,
         NEXA lanyard, sneakers.
 K-W01 — dark hoodie under an open dark jacket, OLIVE-BROWN cargo trousers (lighter than
         Deerock's near-black jeans), over-ear headphones around the neck, sneakers.
 R-W01 — black oversized hoodie or jacket over a light tee, dark grey wide cargo trousers,
         lanyard, sneakers.
-M-W01 — cream blouse with rolled sleeves, black wide trousers, suspender straps,
+M-W01 — crisp collared cream blouse with rolled sleeves, black wide trousers, suspender straps,
         NEXA lanyard, structured bag.
 ```
 

@@ -1,8 +1,8 @@
 # Episode 01 — Just One Small Change
 
-**Status: story locked, panel specs not written.** Beats, locations and dialogue are final.
-Camera, composition, poses and per-panel continuity still need expanding into `panel-specs.md`
-before generation — see [`README.md`](README.md).
+**Status: story locked, panel specs written.** Beats, locations and dialogue are final; camera,
+composition, light and continuity are in [`panel-specs.md`](panel-specs.md). Page generation
+prompts are not written yet — see [`README.md`](README.md).
 
 ## Format
 5 pages at 4:5 portrait (1080 × 1350). 14 panels: 3 · 3 · 3 · 3 · 2.
@@ -114,7 +114,7 @@ freezes — except Deerock, who barely looks up.
 - Mika: Client minta balikin ke "Coba lagi"…
 - Deerock: Sekarang beneran satu baris.
 
-**5.2 · `LOC-KRL` evening · 18:40 · Deerock, anonymous commuters**
+**5.2 · `LOC-KRL` evening · 17:50 · Deerock, anonymous commuters**
 Evening carriage, orange light through the windows, a fuller crowd — see the sheet's evening
 passenger example. Deerock holds a strap with a small, content smile. His phone lights up.
 - Phone UI: `Mika — Oh iya, besok…`
@@ -134,5 +134,5 @@ passenger example. Deerock holds a strap with a small, content smile. His phone 
 - No new locations. The evening carriage uses the existing `LOC-KRL` sheet.
 
 ## Still to write
-`panel-specs.md`: camera, composition, pose, props and per-panel continuity for all 14 panels, in
-the format of `episodes/00-trailer/panel-specs.md`. Then one generation prompt per page.
+One generation prompt per page, built from [`panel-specs.md`](panel-specs.md) in the format of
+`episodes/00-trailer/generation-prompt.md`.

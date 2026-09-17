@@ -70,10 +70,10 @@ both members of a pair appear.
 | Code | Character | Outfit |
 | --- | --- | --- |
 | `D-W01` | Deerock | dark hoodie/overshirt + dark tee, dark jeans, orange accent, no harness |
-| `A-W01` | Aki | cream sweater, black cargo trousers, suspenders, lanyard |
+| `A-W01` | Aki | cream knitted sweater, black cargo trousers, suspenders, lanyard |
 | `K-W01` | Kai | dark hoodie under open jacket, olive cargo trousers, headphones around neck |
 | `R-W01` | Rin | black oversized hoodie/jacket, dark grey cargo trousers, lanyard |
-| `M-W01` | Mika | cream blouse, black wide trousers, suspenders, structured bag |
+| `M-W01` | Mika | collared cream blouse, black wide trousers, suspenders, structured bag |
 
 Deerock's alternates (`D-W02` office casual, `D-W03` home wear) are defined in the character
 bible. An episode declares its wardrobe codes once, at the top of the storyboard.
