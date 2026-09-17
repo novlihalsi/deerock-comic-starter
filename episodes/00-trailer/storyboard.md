@@ -3,7 +3,7 @@
 ## Production format
 
 - **Purpose:** Establish Deerock's ordinary commute-and-work rhythm, the team dynamic, and the Episode 01 setup.
-- **Format:** ONE vertical 9:16 page containing all 10 story panels, read continuously from top to bottom. There are no page breaks and no separate trailer pages.
+- **Format:** ONE 4:5 portrait page (1080 × 1350) containing all 10 story panels in six rows, read left to right and top to bottom. There are no page breaks and no separate trailer pages.
 - **Story preservation:** Keep all approved story beats, dialogue, character roles, locations, timing, wardrobe continuity, and canon unchanged. The one-page conversion is a layout change only.
 - **Text rule:** Spoken dialogue is Indonesian. Phone and screen text is functional only. Do not reproduce decorative reference-sheet slogans, add motivational copy, or label characters with name/role tags. The banned strings are listed in `prompts/negative-prompts.md`.
 - **Wardrobe continuity:** D-W01, A-W01, K-W01, R-W01, and M-W01 throughout the office sequence. Deerock keeps D-W01 from home through office; he carries, rather than wears, his overshirt only if the room temperature motivates it.
@@ -13,12 +13,12 @@
 
 ---
 
-## One-page vertical sequence
+## One-page sequence
 
 ### Panel 01 — Alarm
 
 - **Panel number:** 01
-- **Page/layout:** ONE 9:16 page; upper section, wide establishing panel.
+- **Page/layout:** ONE 4:5 page; row 1, left of three equal panels.
 - **Location reference:** `locations/home.png` — Bedroom 1; retain desk/monitor wall, bed, blinds, plants, and dark practical furnishings.
 - **Characters:** CHAR-DEEROCK (D-W01 base layers; glasses on bedside/desk, not yet worn).
 - **Action/expression:** Deerock lies awake and reaches to silence his phone alarm; mildly tired, not distressed.
@@ -32,7 +32,7 @@
 ### Panel 02 — Coffee
 
 - **Panel number:** 02
-- **Page/layout:** Same ONE 9:16 page; immediately below Panel 01, medium portrait-oriented panel.
+- **Page/layout:** Same page; row 1, centre of three equal panels.
 - **Location reference:** `locations/home.png` — Kitchen & Dining.
 - **Characters:** CHAR-DEEROCK (D-W01; glasses worn).
 - **Action/expression:** Deerock pours coffee into a plain mug while checking the time; focused and routine.
@@ -46,7 +46,7 @@
 ### Panel 03 — Leaving home
 
 - **Panel number:** 03
-- **Page/layout:** Same ONE 9:16 page; wide transition panel.
+- **Page/layout:** Same page; row 1, right of three equal panels.
 - **Location reference:** `locations/home.png` — front yard/carport and C12 marker.
 - **Characters:** CHAR-DEEROCK (D-W01, backpack worn, glasses on).
 - **Action/expression:** Deerock closes the front gate and walks toward the street with coffee tumbler; phone put away.
@@ -61,7 +61,7 @@
 ### Panel 04 — Sentra Lintas platform
 
 - **Panel number:** 04
-- **Page/layout:** Same ONE 9:16 page; panoramic horizontal panel.
+- **Page/layout:** Same page; row 2, left, about three fifths of the width.
 - **Location reference:** `locations/krl-station.png` — Sentra Lintas Station, Platform 1; elevated structure, platform sign, red/blue train, city backdrop.
 - **Characters:** CHAR-DEEROCK (D-W01, backpack worn); anonymous background commuters only.
 - **Action/expression:** Deerock waits safely behind the platform line and watches the approaching train; neutral and prepared.
@@ -75,7 +75,7 @@
 ### Panel 05 — KRL notification
 
 - **Panel number:** 05
-- **Page/layout:** Same ONE 9:16 page; portrait-oriented panel.
+- **Page/layout:** Same page; row 2, right, about two fifths of the width.
 - **Location reference:** `locations/krl-interior.png` — centre standing area near doors; silver poles, triangular straps, blue seats, door markings, route display.
 - **Characters:** CHAR-DEEROCK (D-W01, backpack worn/held close); anonymous passengers only.
 - **Action/expression:** Deerock stands beside a pole and reads Mika's team-chat reminder; nearly imperceptible eyebrow raise.
@@ -89,7 +89,7 @@
 ### Panel 06 — Office access
 
 - **Panel number:** 06
-- **Page/layout:** Same ONE 9:16 page; tall transition panel.
+- **Page/layout:** Same page; row 3, full width, the shallowest row.
 - **Location reference:** `locations/office.png` — NEXA Workspace Lobby / Reception; reception wall, NEXA mark, plants, access gates, floor finish, onward path.
 - **Characters:** CHAR-DEEROCK (D-W01, backpack worn); background workers optional and non-prominent.
 - **Action/expression:** Deerock taps his access card and looks toward the workspace; calm and more alert.
@@ -103,20 +103,20 @@
 ### Panel 07 — Team arrival
 
 - **Panel number:** 07
-- **Page/layout:** Same ONE 9:16 page; wide ensemble panel.
+- **Page/layout:** Same page; row 4, full width.
 - **Location reference:** `locations/office.png` — Open Workspace, established desk areas for Deerock, Aki, Kai, Rin, Mika.
 - **Characters:** CHAR-DEEROCK (D-W01); CHAR-AKI (A-W01); CHAR-KAI (K-W01); CHAR-RIN (R-W01); CHAR-MIKA (M-W01).
 - **Action/expression:** Deerock sets backpack by desk. Aki turns from Figma with practical smile; Kai swivels with headphones around neck; Rin reviews checklist; Mika enters with tablet/phone. Everyone remains in active work context.
 - **Camera:** Eye-level wide conversational aisle shot toward window wall.
 - **Composition:** Deerock foreground-left; Aki/Kai middle; Rin/Mika complete depth. Keep all defining silhouettes readable and speech bubbles unambiguous.
-- **Dialogue:** Aki: “Pagi, Rock.” Kai: “Pagi. API auth udah siap.” Rin: “Aku mulai regression.” Mika: “Stand-up sepuluh menit lagi.” Deerock: “Oke.”
+- **Dialogue:** Aki: “Pagi, Deerock.” Kai: “Pagi. API auth udah siap.” Rin: “Aku mulai regression.” Mika: “Stand-up sepuluh menit lagi.” Deerock: “Oke.”
 - **Lighting/time:** 08:50; soft window daylight and restrained office practical light.
 - **Continuity:** Strict character separation. Deerock: glasses, medium messy dark **purple**-black hair, slim youthful face, clean chin with only the tiny sparse under-lower-lip patch, 172 cm. Kai: **no glasses**, jet-black **short cropped** hair with ears and nape exposed, 178 cm, broader, headphones around the neck. Aki: bun. Mika: long wavy hair worn down. Wardrobe codes unchanged.
 
 ### Panel 08 — Design to QA handoff
 
 - **Panel number:** 08
-- **Page/layout:** Same ONE 9:16 page; large workflow panel.
+- **Page/layout:** Same page; row 5, full width.
 - **Location reference:** `locations/office.png` — Open Workspace; approved desk identities for Aki, Deerock, Kai, Rin, with Mika in shared aisle.
 - **Characters:** CHAR-DEEROCK, CHAR-AKI, CHAR-KAI, CHAR-RIN, CHAR-MIKA.
 - **Action/expression:** Aki points to Figma interaction; Deerock implements in code; Kai checks API response; Rin records a reproducible test step; Mika notes dependency. All attentive and collaborative.
@@ -129,7 +129,7 @@
 ### Panel 09 — The small change
 
 - **Panel number:** 09
-- **Page/layout:** Same ONE 9:16 page; medium reaction panel.
+- **Page/layout:** Same page; row 6, left, about three fifths of the width.
 - **Location reference:** `locations/office.png` — Deerock's Desk; dual monitors, black tumbler, headphones, plant, established desk placement.
 - **Characters:** CHAR-DEEROCK (D-W01); CHAR-MIKA (M-W01, partly in frame).
 - **Action/expression:** Deerock pauses at keyboard and looks up. Mika delivers the update with a measured, slightly apologetic half-smile. Deerock gives a small blank-stare beat, then refocuses.
@@ -142,7 +142,7 @@
 ### Panel 10 — Episode title / ending
 
 - **Panel number:** 10
-- **Page/layout:** Same ONE 9:16 page; bottom full-width ending/title section. This is the final section of the single vertical page, not a separate page.
+- **Page/layout:** Same page; row 6, right, about two fifths of the width — the ending/title panel. It is the last panel of the single page, not a separate page.
 - **Location reference:** `locations/office.png` — Deerock's Desk, quiet/defocused dual monitors and desk edge.
 - **Characters:** CHAR-DEEROCK (D-W01), soft partial side/rear silhouette only.
 - **Action/expression:** Deerock remains seated facing the monitor immediately after Panel 09; ready to inspect the request.
@@ -160,9 +160,9 @@
 
 ## One-page assembly rules
 
-- The final trailer is **one single vertical 9:16 page**, not three pages.
+- The final trailer is **one single 4:5 portrait page** (1080 × 1350), not three pages.
 - All 10 story panels remain in the exact approved order: 01 → 02 → 03 → 04 → 05 → 06 → 07 → 08 → 09 → 10.
 - Preserve the original story beats, dialogue, roles, locations, wardrobe, time flow, and canon; only the page architecture changes.
-- Panel boundaries may vary in height to fit the 9:16 composition, but no panel may be removed, merged, or reordered.
+- Panels sit in six rows (3 · 2 · 1 · 1 · 1 · 2). Boundaries may shift to fit the 4:5 composition, but no panel may be removed, merged, or reordered.
 - Panel 10 is the ending/title section and must include `COMING SOON` beneath the approved Episode 01 title.
 - Use panel-level generation/review against the approved references; never overwrite approved assets and retain versioned output naming.

@@ -197,4 +197,7 @@ Run before accepting any generated panel.
       title block. No slogans, no name tags, no captions.
 - [ ] No katana, harness, tactical rig, aura, glow or magazine layout.
 - [ ] Time of day and lighting continue from the previous panel.
+- [ ] The page matches the episode's declared format — 4:5 by default, so width ÷ height = 0.8.
+- [ ] Page density is within the series limits: 2–3 panels, at most 2 bubbles per panel and 5 per
+      page. The trailer is the one exception.
 - [ ] Filename follows section 8 and does not overwrite an approved asset.

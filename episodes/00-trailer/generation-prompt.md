@@ -1,6 +1,6 @@
 # Trailer — One-Shot Generation Prompt
 
-One prompt, one image: the whole 10-panel 9:16 page. This is the chosen production method for
+One prompt, one image: the whole 10-panel 4:5 page. This is the chosen production method for
 the trailer — it is a social-media teaser, not print, so a single good render beats a ten-step
 pipeline.
 
@@ -35,14 +35,23 @@ Ten attachments is a lot for some tools. If yours caps out, drop in this order:
 **Do not attach** `references/off-canon/deerock-virelux-cover.png` — it contains a katana and a
 tactical harness, and it will leak into the render.
 
-Output at **9:16**. Export 1080×1920 for a story, or keep the largest the generator gives you.
+Output at **4:5 portrait**, exported at **1080×1350** — the tallest ratio an Instagram feed post
+shows without cropping. Keep the largest size the generator gives you and downscale.
+
+Check the ratio **before** reviewing anything else: width ÷ height must be 0.8. A 9:16 or 2:3
+render means the generator ignored the format, and the panel layout will be wrong with it. Do not
+crop a taller render down to 4:5 — cropping cuts the top and bottom rows off. Re-roll instead.
+
+`v001`–`v004` in `results/` are the earlier **9:16 edition**. Do not use them as a layout
+reference for this format.
 
 ---
 
 ## The prompt
 
 ```
-A single vertical 9:16 comic page, 10 panels, read top to bottom.
+A single 4:5 portrait comic page (1080 x 1350), 10 panels in six rows, read left to right and
+top to bottom.
 Contemporary slice-of-life manga/anime: clean linework, restrained cel shading, subtle halftone
 texture, soft cinematic lighting, realistic modern Indonesian environments, natural expressions.
 Muted cool palette with subtle purple and blue accents. Thin dark panel borders, thin white
@@ -134,15 +143,18 @@ KRL CARRIAGE — commuter train interior: blue patterned bench seats along the w
 vertical poles, yellow and grey triangular hanging straps, overhead luggage rack, door area with
 a route map. Believable weekday commuter density.
 
-=== PAGE LAYOUT ===
+=== PAGE LAYOUT — 4:5 portrait, six rows ===
 
-Row 1 — three panels side by side: Panel 1, Panel 2, Panel 3.
-Row 2 — two panels: Panel 4 (wide, about two thirds) and Panel 5 (narrower).
-Row 3 — Panel 6, full width, short and letterboxed.
+Row 1 — three equal panels side by side: Panel 1, Panel 2, Panel 3.
+Row 2 — two panels: Panel 4 (wide, about three fifths) and Panel 5 (about two fifths).
+Row 3 — Panel 6, full width, the shallowest row on the page.
 Row 4 — Panel 7, full width.
-Row 5 — Panel 8, full width, the tallest panel on the page.
-Row 6 — Panel 9, full width.
-Row 7 — Panel 10, full width, the bottom title band.
+Row 5 — Panel 8, full width.
+Row 6 — two panels: Panel 9 (about three fifths) and Panel 10 (about two fifths), the title panel.
+
+The page is only a little taller than it is wide, so every row is shallow. Keep each panel's
+subject large and readable, keep background crowds sparse, and keep speech bubbles compact and
+tucked against the top edge of their panel so they never cover a face.
 
 === PANELS ===
 
@@ -194,7 +206,7 @@ setting his backpack down. Aki turns from her Figma screen. Kai — short croppe
 bare ears, no glasses — swivels in his chair with headphones around his neck. Rin looks up from
 a checklist. Mika walks in with a tablet. Everyone is mid-work, not posed for the camera. Leave clear space above the characters for speech bubbles.
 Speech bubbles, short, in this order left to right:
-  Aki: Pagi, Rock.
+  Aki: Pagi, Deerock.
   Kai: API auth udah siap.
   Rin: Aku mulai regression.
   Mika: Stand-up sepuluh menit lagi.
@@ -221,9 +233,9 @@ Speech bubbles:
   Mika: Oh iya, ada satu perubahan kecil lagi...
   Deerock: Yang bagian mana?
 
-PANEL 10 — 09:10. Bottom title band. Deerock seen from behind at his desk, soft and partly
-defocused, monitors glowing quietly. Same neutral office light, subtly softened. Keep the left
-half visually quiet for the title typography.
+PANEL 10 — 09:10. The title panel, bottom right of the page, beside Panel 9. Deerock seen from
+behind at his desk, soft and partly defocused, monitors glowing quietly. Same neutral office light,
+subtly softened. Keep the left half of this panel visually quiet for the title typography.
 Title text, exactly these three lines and nothing else:
   EPISODE 01
   JUST ONE SMALL CHANGE
@@ -267,15 +279,17 @@ stacking them tends to make the model over-correct.
 | Deerock grew stubble or a beard | `Deerock's chin is completely clean-shaven and smooth in every panel.` |
 | **Kai looks like Deerock** | `Kai's hair is SHORT — cropped at the sides and back, ears and nape fully exposed, nothing covering the ears. Deerock's hair is MEDIUM and covers his ears. Kai wears NO glasses in any panel.` |
 | Aki and Mika look alike | `Aki's hair is tied up in a bun; Mika's hair is long, loose and wavy. Different hairstyles, different coloured tops.` |
-| Panels merged or reordered | `Exactly 10 panels in the layout described, in order, none merged, none added.` |
+| Page came back 9:16 or 2:3 | `The page is 4:5 portrait — only slightly taller than it is wide. Six rows of panels, not seven.` |
+| Panels merged or reordered | `Exactly 10 panels in six rows, in the layout described, in order, none merged, none added.` |
 | Dialogue garbled | Drop the dialogue: replace every bubble with `empty white speech bubble` and add the text afterwards in any editor. |
 | Lobby gates in the wrong place | `In the NEXA lobby the reception desk comes FIRST, with the marble NEXA wall behind it. The access gates are further in, beyond the reception, next to the lift doors. No open workspace is visible from the lobby.` |
 | House looks too modern | `Deerock's house is a modest single-storey cluster house: cream walls, dark pitched tile roof, steel carport canopy, small windows. Not a glass villa. The car is a dark grey four-door sedan, not an MPV.` |
 | Motorcycle looks generic | `The scooter is a Honda Vario 150 (2017): compact automatic scooter, angular front apron, low flat footboard, stepped seat, GOLD alloy wheels. Not a sport bike, no fuel tank between the knees.` |
-| Page feels cramped | `Fewer background characters. More breathing room inside each panel.` |
+| Page feels cramped | `Fewer background characters, smaller speech bubbles, more breathing room inside each panel.` |
 
-Save each attempt as `results/ep00_page01_v002.png`, `v003`, and so on — never overwrite. When
-one is good, mark it approved in `assets/approved/manifest.md`.
+Save each 4:5 attempt as `results/ep00_page01_v005.png`, `v006`, and so on — never overwrite.
+`v001`–`v004` are the 9:16 edition. When one is good, mark it approved in
+`assets/approved/manifest.md`.
 
 ## Known trade-off
 

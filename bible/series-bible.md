@@ -59,10 +59,21 @@ A loose chain of ordinary workdays that gradually establishes the team and their
 There is no need for a large overarching plot.
 
 ## Episode format
+
+**Default page format: 4:5 portrait, exported at 1080 × 1350.** It is the tallest ratio an
+Instagram feed post shows without cropping, and a multi-page episode works as a carousel. An
+episode may use a different format, but its README must say so.
+
+**Page density: 2–3 panels per page, at most 2 speech or thought bubbles per panel, and at most 5
+per page.** A 4:5 page read on a phone has no room for more. Every page is also generated in one
+shot, so a denser page both reads worse and throws away more work when one panel fails and the
+page has to be re-rolled. The trailer is the deliberate exception: one teaser page carrying ten
+panels.
+
 | Slug | Format | Status |
 | --- | --- | --- |
-| `00-trailer` | ONE vertical 9:16 page, 10 panels read top-to-bottom | **complete** — `episodes/00-trailer/results/ep00_page01_v004.png` |
-| `01-just-one-small-change` | 3 pages, 3–4 panels per page | outline only |
+| `00-trailer` | ONE 4:5 portrait page, 10 panels in six rows | 4:5 edition not yet generated · 9:16 edition approved: `episodes/00-trailer/results/ep00_page01_v004.png` |
+| `01-just-one-small-change` | 5 pages at 4:5, 2–3 panels per page (14 panels) | story locked · panel specs not written |
 
 Changing an episode's page format is a canon change: update the episode's `README.md` and
 `storyboard.md` together, and never leave two documents describing different formats.

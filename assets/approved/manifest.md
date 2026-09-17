@@ -47,10 +47,12 @@ Produced in one shot; no panel-level artwork exists.
   "state-nya" in Panel 08 was then removed by a direct pixel edit: 30 pixels inside a 4 x 8 box at
   (166, 1012), filled from the bubble background 6 px to the right. No other pixel changed.
 
-**Accepted deviation in v004:**
+**Accepted deviations in v004:**
 - Panel 07, Kai's line reads "API auth udah siap." instead of the specified
   "Pagi. API auth udah siap." Aki greets Deerock first, so the exchange still reads naturally.
   Left as is; adding the word would mean retypesetting the bubble.
+- Panel 07, Aki's greeting reads "Pagi, Rock." The rule that Deerock is never shortened was set on
+  2026-09-17, after this page was approved. The 4:5 edition's prompt uses "Pagi, Deerock."
 
 ## Not for production
 
@@ -59,6 +61,27 @@ Produced in one shot; no panel-level artwork exists.
 | `references/off-canon/deerock-virelux-cover.png` | quarantined — see `references/off-canon/README.md` |
 
 ## Change log
+
+- **2026-09-17** — Deerock is now always called **Deerock** in full, never "Rock" or any other short
+  form. Rule added to `bible/character-bible.md` and `AGENTS.md`. Aki's lines changed to match:
+  `Pagi, Deerock.` in the trailer storyboard, panel specs and generation prompt, and
+  `Deerock… di HP jadi dua baris.` in Episode 01 panel 3.1. Records of what earlier images
+  actually contain are unchanged; the approved 9:16 `ep00_page01_v004.png` still reads
+  "Pagi, Rock." and is listed as a deviation.
+
+- **2026-09-17** — Episode 01 restructured from 3 pages to **5 pages at 4:5, 2–3 panels per page
+  (14 panels)**, and the story rewritten. The old outline retold the trailer beat for beat and
+  ended before the promised change happened. The new story compresses the morning to one page,
+  uses the trailer's closing exchange as its hinge, and follows the change through escalation,
+  a team fix and a payoff. Series-wide page density limits added to `bible/series-bible.md` and
+  the pre-flight checklist. No artwork exists for Episode 01.
+
+- **2026-09-17** — Default page format changed from 9:16 to **4:5 portrait (1080 × 1350)**, so
+  pages show uncropped in an Instagram feed. Updated the trailer's generation prompt, storyboard,
+  panel specs and README, the series bible's episode format table, Episode 01's format, and the
+  pre-flight checklist. The trailer layout went from seven rows to six (3 · 2 · 1 · 1 · 1 · 2);
+  story, dialogue and panel order are unchanged. The approved `ep00_page01_v004.png` stays as the
+  9:16 edition and its record above is unchanged. No 4:5 artwork exists yet.
 
 - **2026-09-16** — Sets corrected after the second render returned good characters in invented
   buildings. The NEXA lobby had been rendered with the access gates in front of the reception and

@@ -23,6 +23,8 @@ Reference: `characters/deerock.png`
 | Likes | Coffee, clean UI, music, solitude |
 | Dislikes | Unnecessary meetings, vague requirements, last-minute changes |
 
+- **Name:** always **Deerock**, in full — in dialogue, thoughts, chat messages and any on-page
+  text. Never "Rock", "Dee" or any other short form, including from close teammates.
 - **Hair:** dark purple-black, **medium length and layered** — soft strands falling over the
   forehead, covering the ears, reaching the nape. The purple is the single strongest identity cue
   in the cast; it must read as purple-black, not plain black. Length *and* colour together are

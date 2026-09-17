@@ -23,6 +23,7 @@ reference — read that folder's README first.
 ## Canon rules
 
 - Deerock is frontend, Aki is UI/UX, Kai is backend, Rin is QA, Mika is PM.
+- Deerock is always called **Deerock** in full — never "Rock", "Dee" or any other short form.
 - Modern, realistic software workplace in Greater Jakarta. Deerock lives in a small landed
   house in Cisauk and commutes by KRL into the Jakarta business district.
 - **No katana, ninja, samurai, supernatural, tactical harness or cyberpunk elements.** Ever.
