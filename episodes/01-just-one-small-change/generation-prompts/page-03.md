@@ -95,13 +95,13 @@ Row 2, the rest of the page — Panel 3, full width.
 === PANELS ===
 
 PANEL 1 — 10:30. DEEROCK'S DESK. Medium two-shot from slightly behind and between them, so Aki's
-iPad and Deerock's monitor are both visible. Aki, in a chair pulled up beside him, sketches a tidy
-single button with her Apple Pencil, pencil near her lips, focused. Deerock types, quietly engaged.
+iPad and Deerock's monitor are both visible. Aki, in a chair pulled up beside him, turns her iPad
+toward him to show a tidy single button she has sketched with her Apple Pencil, focused. Deerock types, quietly engaged.
 Bright mid-morning daylight. The iPad shows a simple button sketch and the monitor shows
 schematic code — no readable text.
 Speech bubbles, Aki's first:
-  Aki: Bisa dibuat lebih clean?
-  Deerock: Aku coba dulu.
+  Aki: Deerock, tombolnya udah aku redesign. Coba di-implement, ya.
+  Deerock: Siap. Aku coba dulu.
 
 PANEL 2 — 10:45. RIN'S DESK. Medium two-shot. Rin sits at her laptop typing, calm and focused. Kai
 stands behind the low partition with his forearms resting on it, leaning in — then pausing with one
@@ -109,15 +109,15 @@ finger raised as he catches himself, his grin turning into a sheepish laugh. Bri
 The laptop shows schematic code — no readable text.
 Speech bubbles, Rin's first. Kai's is the longest line on the page: keep his bubble compact,
 wrapped over three short lines, clear of both faces.
-  Rin: Pakai test-id aja. Biar nggak kejadian lagi.
-  Kai: API-nya udah ready. Eh, ini nggak ada urusan API, kan?
+  Rin: Test-nya aku ganti pakai ID, biar nggak rusak tiap teks ganti.
+  Kai: API-nya udah ready. Eh, nggak ada urusan API, ya?
 
 PANEL 3 — 11:05. DEEROCK'S DESK. Medium three-shot from the aisle. Deerock and Aki continue
 working side by side at the monitor while Mika stands beside them reading a fresh message on her
 phone. Mika has a small, relieved smile; Aki and Deerock stay quietly focused. Bright mid-morning
 daylight. The phone content and code are unreadable.
 Speech bubble:
-  Mika: Client oke kalau kita rapihin sekalian.
+  Mika: Sip, client oke kalau kita rapihin sekalian.
 
 === TEXT POLICY ===
 The ONLY text anywhere on this page is the five speech bubbles listed above. Spell every line

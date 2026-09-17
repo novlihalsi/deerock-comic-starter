@@ -101,21 +101,21 @@ profile, very still, one hand resting on the mouse, giving the screen a flat dea
 monitor at left fills about a third of the panel: a test runner with red ✗ icons and red status
 bars, no readable text. A faint red glow falls on her face.
 Two speech bubbles, both from Rin, stacked:
-  Rin: Regression empty state-ku merah.
-  Rin: Selector-nya masih ngandelin teks tombol.
+  Rin: Nggak cuma di HP. Test empty state-ku merah semua.
+  Rin: Soalnya test-nya nyari tombol dari tulisannya.
 
 PANEL 2 — 10:08. DEEROCK'S DESK. Eye-level medium two-shot. Deerock sits left of centre, staring
 blankly at his monitor, mouth a flat line. Kai rolls in from his directly neighbouring desk at
 right, with a wide grin and headphones around his neck, holding out a takeaway coffee cup.
 Speech bubble:
-  Kai: Kecil, katanya.
+  Kai: Wah, tumbang berjamaah. Katanya cuma ganti teks?
 
 PANEL 3 — 10:12. NEXA OPEN WORKSPACE around DEEROCK'S DESK, the largest panel. Eye-level
 conversational wide shot from the aisle. Aki holds her phone, Rin her laptop, Kai leans on the
 partition, Deerock listens, and Mika stands beside the group with her phone ready. This is a
 focused mini-huddle, not a crisis meeting. Bright mid-morning daylight.
 Speech bubble:
-  Mika: Kita benerin akar masalahnya, ya.
+  Mika: Jangan cuma di-patch. Kita benerin akar masalahnya.
 
 === TEXT POLICY ===
 The ONLY text anywhere on this page is the four speech bubbles listed above. Write "Deerock" in

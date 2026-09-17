@@ -70,6 +70,13 @@ shot, so a denser page both reads worse and throws away more work when one panel
 page has to be re-rolled. The trailer is the deliberate exception: one teaser page carrying ten
 panels.
 
+**Bubble length: about 10 words, rarely more than 12, and no more than about 40 words of dialogue
+on a page.** Both extremes have failed on Episode 01. Lines compressed to a few words lost readers,
+because they relied on context the page never gave. Lines that explained what the art already
+showed crowded the page and put long text at risk of garbled rendering. Each line should answer or
+follow from the one before it, and should not restate anything written on a screen in the same
+panel.
+
 | Slug | Format | Status |
 | --- | --- | --- |
 | `00-trailer` | ONE 4:5 portrait page, 10 panels in six rows | 4:5 edition not yet generated · 9:16 edition approved: `episodes/00-trailer/results/ep00_page01_v004.png` |

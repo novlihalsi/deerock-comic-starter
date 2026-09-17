@@ -92,12 +92,12 @@ Neutral office daylight. Leave space above Mika for her speech bubble.
 The tablet shows a simple empty-state screen with one button labelled exactly "Coba lagi". Beside
 the button, a design-tool comment reads exactly: Ganti jadi: Muat ulang data terbaru
 Speech bubble:
-  Mika: Client pengin lebih jelas. Cuma teks tombolnya, kok.
+  Mika: Client minta teks tombol ini diganti. Katanya biar lebih jelas.
 
 PANEL 2 — 09:15. DEEROCK'S DESK. Low close shot across Deerock's keyboard: his hands press Enter,
 his face above them with the faintest confident smile, cool monitor glow on his glasses. On the
 monitor, a single highlighted line in a schematic code editor — no readable code. Neutral daylight.
-Thought bubble, Deerock: Satu baris.
+Thought bubble, Deerock: Gampang. Cuma ganti satu baris.
 Small sound effect near the Enter key: TAK
 
 PANEL 3 — 10:05. DEEROCK'S DESK. Eye-level medium shot. Aki's phone is the foreground element,
@@ -108,7 +108,7 @@ The phone screen is the joke and must read clearly: one button whose label wraps
 TWO lines — "Muat ulang" on the first line and "data terbaru" on the second — so the button looks
 too tall and its text crowds the edges.
 Speech bubble:
-  Aki: Deerock… di HP jadi dua baris.
+  Aki: Deerock… teks barunya kepanjangan. Di HP tombolnya jadi dua baris.
 
 === TEXT POLICY ===
 The ONLY text anywhere on this page is: the button label "Coba lagi" and the comment "Ganti jadi:

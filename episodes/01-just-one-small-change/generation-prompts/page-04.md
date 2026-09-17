@@ -100,14 +100,14 @@ screen on his monitor. Aki has a relieved smile. Deerock gives the phone a small
 look — most of the day has gone into a one-line change. Warm afternoon daylight.
 The phone screen shows one button whose label reads exactly, on a SINGLE line, fitting cleanly:
 Muat ulang data terbaru
-Thought bubble, Deerock: Satu baris, katanya.
+Thought bubble, Deerock: Niatnya satu baris, jadinya seharian…
 
 PANEL 2 — 16:15. RIN'S DESK. Side-on medium shot at desk height. Rin sits at right, calm and
 quietly satisfied. Her monitor at left fills about a third of the panel with green ✓ rows and green
 status bars, no readable text. Kai leans over the low partition with a small thumbs-up, headphones
 around his neck. Warm afternoon daylight.
 Speech bubble:
-  Rin: Regression empty state aman.
+  Rin: Semua test udah hijau lagi. Aman.
 
 PANEL 3 — 16:30. NEXA OPEN WORKSPACE around DEEROCK'S DESK, window wall behind. Slightly elevated
 wide shot. Deerock sits at centre with a small smile. Aki stands beside him holding her phone. Kai
@@ -116,7 +116,7 @@ group, green ✓ rows on its screen. Mika stands in the aisle at the far right, 
 with her phone in her other hand. Warm late-afternoon sun low through the window wall, long soft
 shadows.
 Speech bubble:
-  Mika: Aku kabarin client, ya.
+  Mika: Kerja bagus, guys. Aku kabarin client, ya.
 
 === TEXT POLICY ===
 The ONLY text anywhere on this page is: the one-line button label "Muat ulang data terbaru" on

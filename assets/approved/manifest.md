@@ -82,6 +82,19 @@ style reference for the new page 1, `ep01_page01_v002.png`; its story content is
 
 ## Change log
 
+- **2026-09-17** — Episode 01 panel 3.1 dialogue changed to Aki: "Deerock, tombolnya udah aku
+  redesign. Coba di-implement, ya." and Deerock: "Siap. Aku coba dulu." The design-to-implementation
+  handoff now reads as a plain request and reply. Aki's canonical quote no longer appears in the
+  episode; Kai's and Deerock's still do.
+
+- **2026-09-17** — Episode 01 dialogue rewritten for flow and context, then trimmed. The previous
+  lines were too compressed to follow without outside context; a first rewrite fixed the causality
+  but nearly doubled the word count (85 to 161). The final version keeps the causal links at about
+  130 words, stops restating on-screen text in bubbles, fixes the logic of Aki's 3.1 line and the
+  ambiguity of Mika's 4.3 line, and scopes Rin's failing tests to the empty state. Synced across
+  the storyboard, panel specs and all five page prompts, with no italics markers in rendered text.
+  Bubble-length guideline added to `bible/series-bible.md`.
+
 - **2026-09-17** — Episode 01 revision review applied. Page 1 panel 1.1 is now a full-width medium
   two-shot that works as the carousel cover, and page 1's layout changed to match; Mika's line is
   "Client pengin lebih jelas. Cuma teks tombolnya, kok." (no em dash, "kok" restored). Page 4.1

@@ -30,13 +30,19 @@ reader who saw the trailer new information in its first panel, while the client 
 new reader enough context. The repair begins shortly after the failure is found; the afternoon is
 reserved for implementation and regression, not an unexplained gap.
 
-Aki, Kai and Deerock each say their reference sheet’s canonical quote as ordinary dialogue. Mika
+Kai and Deerock each say their reference sheet’s canonical quote as ordinary dialogue. Mika
 sets an explicit “fix the root cause” expectation with the client, and Rin names the test failure
 precisely, so nobody is framed as the problem.
 
-Deerock’s “satu baris” runs as a rule of three: the assumption at 09:15 (*Satu baris.*), the dry
-echo at 15:45 once the real fix is done (*Satu baris, katanya.*), and the payoff at 17:10
-(*Sekarang beneran satu baris.*). The echo also borrows Kai’s “Kecil, katanya.” from 10:08.
+Deerock’s “satu baris” runs through the whole episode: the assumption at 09:15 (*Gampang. Cuma
+ganti satu baris.*), Aki’s “jadi dua baris” fifty minutes later, the dry echo at 15:45
+(*Niatnya satu baris, jadinya seharian…*), and the payoff at 17:10 (“Nah. Kalau ini beneran satu
+baris.”).
+
+Every line answers or follows from the one before it, so a reader needs no outside context to
+follow the change. No bubble repeats what the art already shows: the new label is written on
+Mika’s tablet in 1.1, so her line only has to point at it. The episode runs to about 130 words of
+dialogue across five pages.
 
 ---
 
@@ -49,54 +55,55 @@ holding out her tablet; Deerock, seated, turns to look at it. The tablet shows t
 empty-state screen, its button and a client note, large enough to read. A new reader meets both
 characters, the place and the problem in one image.
 - Tablet UI: button `Coba lagi` · client note `Ganti jadi: Muat ulang data terbaru`
-- Mika: Client pengin lebih jelas. Cuma teks tombolnya, kok.
+- Mika: Client minta teks tombol ini diganti. Katanya biar lebih jelas.
 
 **1.2 · Deerock’s desk · 09:15 · Deerock**
 Close on his hands and keyboard; one changed line is highlighted on screen. A small, confident look.
-- Thought — Deerock: *Satu baris.*
+- Thought — Deerock: *Gampang. Cuma ganti satu baris.*
 - SFX: `TAK`
 
 **1.3 · Deerock’s desk · 10:05 · Aki, Deerock**
 Aki holds out her phone. On its screen the new label wraps onto two lines and pushes the button out
 of shape.
-- Aki: Deerock… di HP jadi dua baris.
+- Aki: Deerock… teks barunya kepanjangan. Di HP tombolnya jadi dua baris.
 
 ## Page 2 — Ternyata
 Tone: escalation by recognition, then a concrete decision.
 
 **2.1 · `LOC-OFFICE`, Rin’s desk · 10:07 · Rin**
 Rin, deadpan, in front of a monitor filled with red failing test rows.
-- Rin: Regression empty state-ku merah.
-- Rin: Selector-nya masih ngandelin teks tombol.
+- Rin: Nggak cuma di HP. Test empty state-ku merah semua.
+- Rin: Soalnya test-nya nyari tombol dari tulisannya.
 
 **2.2 · Deerock’s desk · 10:08 · Deerock, Kai**
 Deerock gives the monitor a small blank stare. Kai rolls his chair in beside him, grinning,
 headphones around his neck, holding out a coffee.
-- Kai: Kecil, katanya.
+- Kai: Wah, tumbang berjamaah. Katanya cuma ganti teks?
 
 **2.3 · `LOC-OFFICE` open workspace · 10:12 · all five**
 The team gathers briefly at Deerock’s desk. Mika has her phone ready to update the client; everyone
 is attentive rather than alarmed.
-- Mika: Kita benerin akar masalahnya, ya.
+- Mika: Jangan cuma di-patch. Kita benerin akar masalahnya.
 
 ## Page 3 — Dibenerin bareng
 Tone: warm, efficient collaboration; the fix starts before lunch.
 
 **3.1 · Deerock’s desk · 10:30 · Aki, Deerock**
-Aki sketches a button that remains clean at mobile width on her iPad. Deerock implements beside her.
-- Aki: Bisa dibuat lebih clean?
-- Deerock: Aku coba dulu.
+Aki shows Deerock a button she has sketched to stay clean at mobile width. Deerock implements it
+beside her.
+- Aki: Deerock, tombolnya udah aku redesign. Coba di-implement, ya.
+- Deerock: Siap. Aku coba dulu.
 
 **3.2 · Rin’s desk · 10:45 · Rin, Kai**
 Rin replaces the text-based selector with a test ID. Kai leans in, catches his assumption, and
 laughs at himself.
-- Rin: Pakai test-id aja. Biar nggak kejadian lagi.
-- Kai: API-nya udah ready. Eh, ini nggak ada urusan API, kan?
+- Rin: Test-nya aku ganti pakai ID, biar nggak rusak tiap teks ganti.
+- Kai: API-nya udah ready. Eh, nggak ada urusan API, ya?
 
 **3.3 · Deerock’s desk · 11:05 · Deerock, Aki, Mika**
 Mika reads a reply on her phone while Aki and Deerock keep working. The client has agreed to let
 them make the layout robust instead of rushing a cosmetic patch.
-- Mika: Client oke kalau kita rapihin sekalian.
+- Mika: Sip, client oke kalau kita rapihin sekalian.
 
 ## Page 4 — Lega dulu
 Tone: quiet progress, a dry echo, then a shared small win.
@@ -104,16 +111,16 @@ Tone: quiet progress, a dry echo, then a shared small win.
 **4.1 · Deerock’s desk · 15:45 · Aki, Deerock**
 Aki’s phone shows the long label fitting cleanly on one line. Deerock checks the same state on his
 monitor. Aki is relieved; Deerock’s look is dry — most of the day has gone into a one-line change.
-- Thought — Deerock: *Satu baris, katanya.*
+- Thought — Deerock: *Niatnya satu baris, jadinya seharian…*
 
 **4.2 · Rin’s desk · 16:15 · Rin, Kai**
 Rin’s test runner is green; Kai looks over the partition with a small thumbs-up.
-- Rin: Regression empty state aman.
+- Rin: Semua test udah hijau lagi. Aman.
 
 **4.3 · Deerock’s desk · 16:30 · Deerock, Aki, Kai, Rin, Mika**
 Wider shot in late-afternoon light. Green checks are visible on Rin’s screen and the button fits on
 Aki’s phone. Mika gives a thumbs up from the aisle.
-- Mika: Aku kabarin client, ya.
+- Mika: Kerja bagus, guys. Aku kabarin client, ya.
 
 ## Page 5 — Satu perubahan kecil lagi
 Tone: the twist, then a quiet ending. The swipe onto this page sets up the joke.
@@ -121,14 +128,14 @@ Tone: the twist, then a quiet ending. The swipe onto this page sets up the joke.
 **5.1 · Deerock’s desk · 17:10 · all five**
 Mika returns with her phone and an apologetic half-smile. The team, mid-stretch and packing up,
 freezes—except Deerock, who barely looks up.
-- Mika: Client minta balik ke "Coba lagi"…
-- Deerock: Sekarang beneran satu baris.
+- Mika: Eh… client bilang teks barunya kepanjangan. Minta balik ke "Coba lagi".
+- Deerock: Nah. Kalau ini beneran satu baris.
 
 **5.2 · `LOC-KRL` evening · 17:50 · Deerock, anonymous commuters**
 Evening carriage, orange light through the windows, a fuller crowd. Deerock holds a strap with a
 small, content smile. His phone lights up.
 - Phone UI: `Mika — Oh iya, besok…`
-- Thought — Deerock: *Besok aja.*
+- Thought — Deerock: *Besok aja mikirnya.*
 - SFX: `TING`
 
 ---

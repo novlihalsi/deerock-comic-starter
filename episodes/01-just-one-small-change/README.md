@@ -39,7 +39,8 @@ prompt per page.
 
 Every page stays within the series limits: 2–3 panels, at most 2 bubbles per panel, at most 5 per
 page. All of the trailer's text errors landed in its two five-bubble panels; these limits exist so
-that does not happen again.
+that does not happen again. Bubbles stay around 10 words and pages under about 40 words — the
+episode's dialogue totals about 130 words.
 
 ## Continuity with the published trailer
 
@@ -51,5 +52,5 @@ not recreate or contradict any trailer panel. Wardrobe carries over unchanged (`
 ## Key requirement
 
 Introduce the whole team without an exposition dump. No name tags, no role labels, no
-introduction captions. Each character arrives through what they do about the button, and Aki, Kai
-and Deerock each say their reference sheet's canonical quote as an ordinary line of dialogue.
+introduction captions. Each character arrives through what they do about the button, and Kai and
+Deerock each say their reference sheet's canonical quote as an ordinary line of dialogue.

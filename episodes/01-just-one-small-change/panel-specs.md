@@ -68,19 +68,19 @@
 
 - **Cast/location:** Deerock and Mika at Deerock’s desk, 09:11.
 - **Camera/action:** eye-level medium two-shot from the aisle, full width — the carousel cover. Deerock sits turned in his chair toward Mika; Mika stands beside the desk holding her tablet out between them, screen toward the reader and large enough to read. Mika has a direct, slightly apologetic half-smile; Deerock is calm and attentive. This is the next beat after the trailer’s closing exchange, so it must not reuse the trailer’s over-the-shoulder framing.
-- **Text:** button `Coba lagi`; client note `Ganti jadi: Muat ulang data terbaru`; Mika: `Client pengin lebih jelas. Cuma teks tombolnya, kok.` Nothing else is readable. No em dash in the line — generators render it unreliably.
+- **Text:** button `Coba lagi`; client note `Ganti jadi: Muat ulang data terbaru`; Mika: `Client minta teks tombol ini diganti. Katanya biar lebih jelas.` Nothing else is readable. The new label appears only in the tablet note, never in the bubble.
 
 ### 1.2 — One line
 
 - **Cast/location:** Deerock at his desk, 09:15.
 - **Camera/action:** low close shot across keyboard; he presses Enter, with a faint confident smile and cool monitor glow on glasses.
-- **Text:** Deerock thought: `Satu baris.` SFX: `TAK`. The highlighted code line is schematic and unreadable.
+- **Text:** Deerock thought: `Gampang. Cuma ganti satu baris.` SFX: `TAK`. The highlighted code line is schematic and unreadable.
 
 ### 1.3 — Two lines
 
 - **Cast/location:** Aki and Deerock at his desk, 10:05.
 - **Camera/action:** eye-level medium, in the narrower Row 2 slot. Aki’s phone dominates the foreground; she has an apologetic grin while Deerock turns in his chair, neutral.
-- **Text:** a visibly too-tall button wraps exactly `Muat ulang` / `data terbaru`; Aki: `Deerock… di HP jadi dua baris.`
+- **Text:** a visibly too-tall button wraps exactly `Muat ulang` / `data terbaru`; Aki: `Deerock… teks barunya kepanjangan. Di HP tombolnya jadi dua baris.`
 
 ---
 
@@ -92,19 +92,19 @@
 
 - **Cast/location:** Rin at her desk, 10:07.
 - **Camera/action:** side-on medium at desk height. Rin sits still in three-quarter profile; her monitor fills the left third with unreadable red test rows and red status bars.
-- **Text:** Rin: `Regression empty state-ku merah.` Rin: `Selector-nya masih ngandelin teks tombol.`
+- **Text:** Rin: `Nggak cuma di HP. Test empty state-ku merah semua.` Rin: `Soalnya test-nya nyari tombol dari tulisannya.`
 
-### 2.2 — “Kecil, katanya.”
+### 2.2 — Tumbang berjamaah
 
 - **Cast/location:** Deerock and Kai at Deerock’s desk, 10:08.
 - **Camera/action:** eye-level medium two-shot. Deerock watches his monitor with a flat expression while Kai rolls in from his neighbouring desk, offers a takeaway coffee and grins.
-- **Text:** Kai: `Kecil, katanya.`
+- **Text:** Kai: `Wah, tumbang berjamaah. Katanya cuma ganti teks?`
 
 ### 2.3 — Root cause
 
 - **Cast/location:** all five around Deerock’s desk, 10:12.
 - **Camera/action:** eye-level conversational wide from the aisle. Aki holds her phone, Rin her laptop, Kai leans on the partition, Deerock listens, Mika holds her phone ready. This is a focused mini-huddle, not a crisis meeting.
-- **Text:** Mika: `Kita benerin akar masalahnya, ya.`
+- **Text:** Mika: `Jangan cuma di-patch. Kita benerin akar masalahnya.`
 
 ---
 
@@ -112,23 +112,23 @@
 
 **Output:** `ep01_page03_v001.png` · **Bubbles:** 5 · **Layout:** Panels 3.1 and 3.2 are half-width Row 1, in parallel; Panel 3.3 is full-width Row 2.
 
-### 3.1 — Clean
+### 3.1 — Handoff
 
 - **Cast/location:** Aki and Deerock at Deerock’s desk, 10:30.
-- **Camera/action:** medium two-shot from slightly behind and between them, revealing Aki’s iPad and Deerock’s monitor. Aki sketches a mobile-friendly button with Apple Pencil; Deerock implements it.
-- **Text:** schematic button and code only. Aki: `Bisa dibuat lebih clean?` Deerock: `Aku coba dulu.`
+- **Camera/action:** medium two-shot from slightly behind and between them, revealing Aki’s iPad and Deerock’s monitor. Aki turns her iPad toward Deerock to show a mobile-friendly button she has sketched with her Apple Pencil; Deerock implements it.
+- **Text:** schematic button and code only. Aki: `Deerock, tombolnya udah aku redesign. Coba di-implement, ya.` Deerock: `Siap. Aku coba dulu.`
 
 ### 3.2 — test-id
 
 - **Cast/location:** Rin and Kai at Rin’s desk, 10:45.
 - **Camera/action:** medium two-shot. Rin types at her laptop; Kai leans on the partition, pauses with a raised finger, then laughs at his mistaken assumption. Wrap his long bubble in three short lines.
-- **Text:** schematic code only. Rin: `Pakai test-id aja. Biar nggak kejadian lagi.` Kai: `API-nya udah ready. Eh, ini nggak ada urusan API, kan?`
+- **Text:** schematic code only. Rin: `Test-nya aku ganti pakai ID, biar nggak rusak tiap teks ganti.` Kai: `API-nya udah ready. Eh, nggak ada urusan API, ya?`
 
 ### 3.3 — Time to fix it right
 
 - **Cast/location:** Deerock, Aki and Mika at Deerock’s desk, 11:05.
 - **Camera/action:** medium three-shot from the aisle. Deerock and Aki continue working while Mika reads a fresh client reply. Her smile is relieved but restrained.
-- **Text:** Mika: `Client oke kalau kita rapihin sekalian.` Phone content is unreadable.
+- **Text:** Mika: `Sip, client oke kalau kita rapihin sekalian.` Phone content is unreadable.
 
 ---
 
@@ -140,19 +140,19 @@
 
 - **Cast/location:** Aki and Deerock at Deerock’s desk, 15:45.
 - **Camera/action:** eye-level medium two-shot. Aki holds her phone between them; the label now fits cleanly on one line. Deerock checks the same state on his monitor. Aki is relieved; Deerock gives the phone a small, dry sideways look.
-- **Text:** button `Muat ulang data terbaru`, exactly one line; Deerock thought: `Satu baris, katanya.`
+- **Text:** button `Muat ulang data terbaru`, exactly one line; Deerock thought: `Niatnya satu baris, jadinya seharian…`
 
 ### 4.2 — Green
 
 - **Cast/location:** Rin and Kai at Rin’s desk, 16:15.
 - **Camera/action:** side-on medium. Green test rows occupy the left third; Kai leans over the partition with a small thumbs-up. Rin remains calm and satisfied.
-- **Text:** green ticks only; Rin: `Regression empty state aman.`
+- **Text:** green ticks only; Rin: `Semua test udah hijau lagi. Aman.`
 
 ### 4.3 — Green, together
 
 - **Cast/location:** all five around Deerock’s desk, 16:30.
 - **Camera/action:** slightly elevated wide, window wall behind. Deerock sits centre with a small smile; Aki holds phone; Kai leans back; Rin turns green checks toward them; Mika is in the aisle with a thumbs-up and phone.
-- **Text:** Mika: `Aku kabarin client, ya.`
+- **Text:** Mika: `Kerja bagus, guys. Aku kabarin client, ya.`
 
 ---
 
@@ -164,13 +164,13 @@
 
 - **Cast/location:** all five around Deerock’s desk, 17:10.
 - **Camera/action:** eye-level wide. Mika stands left with phone; Aki is mid-stretch, Kai midway through lifting his backpack, Rin lifting hers. Deerock is still at keyboard on right. Everyone but Deerock pauses in a small human beat.
-- **Text:** Mika: `Client minta balik ke "Coba lagi"…` Deerock: `Sekarang beneran satu baris.`
+- **Text:** Mika: `Eh… client bilang teks barunya kepanjangan. Minta balik ke "Coba lagi".` Deerock: `Nah. Kalau ini beneran satu baris.`
 
 ### 5.2 — Besok aja
 
 - **Cast/location:** Deerock and anonymous commuters in the KRL evening passenger setting, 17:50.
 - **Camera/action:** medium aisle shot. Deerock holds a yellow strap and phone, with fuller crowd and orange sunset window light. He is tired but content.
-- **Text:** notification sender `Mika`, message `Oh iya, besok…`; Deerock thought `Besok aja.`; SFX `TING`.
+- **Text:** notification sender `Mika`, message `Oh iya, besok…`; Deerock thought `Besok aja mikirnya.`; SFX `TING`.
 
 ---
 
@@ -179,7 +179,8 @@
 - [ ] Exact 4:5 layout, panel count and listed text only.
 - [ ] Page 1 is `ep01_page01_v002.png`; approved `v001` remains untouched.
 - [ ] Button label and wrapping follow the table.
-- [ ] Canonical quotes are exact in 3.1 and 3.2.
-- [ ] Deerock’s three “satu baris” lines are exact in 1.2, 4.1 and 5.1 — they are one running joke.
+- [ ] Canonical quotes appear word for word inside the 3.1 and 3.2 lines: “Aku coba dulu.” and “API-nya udah ready.”
+- [ ] The “satu baris” / “dua baris” lines are exact in 1.2, 1.3, 4.1 and 5.1 — they are one running joke.
+- [ ] No bubble is longer than about 12 words; no asterisks or italics markers appear in any rendered text.
 - [ ] Published trailer is neither replayed nor contradicted.
 - [ ] Character separation, lighting continuity and hard exclusions pass the series checklist.

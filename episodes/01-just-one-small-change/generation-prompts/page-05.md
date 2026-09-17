@@ -105,15 +105,15 @@ through slinging his backpack onto one shoulder, Rin lifting her backpack — ea
 pause, a small human beat, not a cartoon shock. Deerock sits at right, still at his keyboard,
 barely looking up, calm and unbothered. Golden late-afternoon light.
 Speech bubbles — Mika's first, higher and further left:
-  Mika: Client minta balik ke "Coba lagi"…
-  Deerock: Sekarang beneran satu baris.
+  Mika: Eh… client bilang teks barunya kepanjangan. Minta balik ke "Coba lagi".
+  Deerock: Nah. Kalau ini beneran satu baris.
 
 PANEL 2 — 17:50. KRL CARRIAGE, EVENING. Medium shot from the aisle. Deerock stands with his
 backpack on, one hand on a yellow hanging strap and his phone in the other, a window behind him.
 His phone screen lights up. He has a small, content smile — tired, but at ease. Orange sunset
 light through the carriage windows; anonymous evening commuters around him.
 The phone screen shows one chat notification — sender: Mika — message: Oh iya, besok…
-Thought bubble, Deerock: Besok aja.
+Thought bubble, Deerock: Besok aja mikirnya.
 Small sound effect beside the phone: TING
 This is the last panel of the episode. Nothing is written below it or around it.
 
