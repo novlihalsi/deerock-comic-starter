@@ -97,10 +97,74 @@ Everything not named under CHANGE ONLY must be pixel-for-pixel equivalent in int
 
 ---
 
+## One-shot pages — layout and style reference lines
+
+A one-shot page prompt (Route A) is built from the same locks as the template above, in this order:
+STYLE REFERENCE line, page header, CAST, SEPARATION, SETS, PAGE LAYOUT, PANELS, TEXT POLICY,
+NEGATIVE. `episodes/01-just-one-small-change/generation-prompts/` holds five worked examples.
+
+**PAGE LAYOUT.** Paste the block for the layout the storyboard names
+(`bible/visual-style.md`, Page layout) and fill in the numbers in angle brackets.
+
+```
+=== PAGE LAYOUT — 4:5 portrait, one panel (1-FULL) ===
+One single panel fills the whole page and runs to all four edges of the canvas — no border, no
+gutter, no margin.
+```
+
+```
+=== PAGE LAYOUT — 4:5 portrait, two panels stacked (2-STACK) ===
+Panel 1 on top, full width, about <60>% of the page height. Panel 2 below it, full width, the rest
+of the page. One thin, straight, horizontal white gutter between them.
+```
+
+```
+=== PAGE LAYOUT — 4:5 portrait, two panels side by side (2-SIDE) ===
+Two tall panels side by side, each the full height of the page: Panel 1 on the left, about <50>% of
+the width; Panel 2 on the right, the rest. One thin, straight, vertical white gutter between them.
+```
+
+```
+=== PAGE LAYOUT — 4:5 portrait, two panels split diagonally (2-DIAG) ===
+One thin, straight white gutter runs across the page on a gentle slant, from the left edge about
+<40>% of the way down to the right edge about <60>% of the way down. Panel 1 is the upper piece,
+Panel 2 the lower piece. Not a steep angle, not jagged.
+```
+
+```
+=== PAGE LAYOUT — 4:5 portrait, one large panel with an inset (2-INSET) ===
+Panel 1 fills the whole page and runs to all four edges of the canvas. Panel 2 is a small
+rectangular inset panel, about one third of the page width, set a little in from the
+<lower-right> corner, with a thin dark border and a thin white outline. The inset covers no face
+and no speech bubble in Panel 1. Read Panel 1 first, then the inset.
+```
+
+**STYLE REFERENCE.** Every page after the first one ever generated carries rendering references,
+because pages rendered independently drift apart in faces, line weight and palette. Attach two
+earlier approved pages:
+
+- the **anchor page** — page 1 of the episode, once approved. Page 1 itself uses the previous
+  episode's anchor page;
+- the **previous page** — the page just before this one. On page 2 it is the anchor page, so
+  attach it once.
+
+Chaining only the previous page lets small differences compound across a long carousel; the anchor
+page holds every page to the same starting point. Put this line at the very top of the prompt:
+
+```
+STYLE REFERENCE: the attached earlier comic pages are for rendering style only — match their line weight, colouring, shading and how each character's face is drawn. Do not copy their panels, their layout, their page border, their scenes, their outfits or any of their text. Clothing follows the CAST section below.
+```
+
+The clauses are there because each one has gone wrong: an attached page is full of speech bubbles a
+generator will happily reuse, and Aki's outfit on Episode 01's first reference page carried over
+onto a page where she had changed.
+
+---
+
 ## Notes that matter in practice
 
 - **This template is the panel-by-panel route.** For a whole page in one shot, see
-  `episodes/00-trailer/generation-prompt.md` instead — same locks, one prompt.
+  `episodes/00-trailer/generation-prompt.md` and the section above — same locks, one prompt.
 - **Prefer generating art without long dialogue baked in** if your generator's text rendering is
   unreliable, then typeset in the assembly step. Identity and environment continuity come first.
 - **Do not paraphrase the blocks.** Paste them. Every rewrite loses a locked trait.

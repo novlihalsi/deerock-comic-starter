@@ -104,6 +104,16 @@ style reference for the new page 1, `ep01_page01_v002.png`; its story content is
 
 ## Change log
 
+- **2026-09-18** — Page format tightened from Episode 02 on: **1–2 panels per page**, at most 2
+  bubbles per panel and 3 per page, about 25 words a page, and no fixed page count — only
+  Instagram's 20-slide carousel ceiling, past which an episode is posted in parts. Three panels on
+  a phone-sized 4:5 page proved too many. Two-panel pages must vary their shape: a layout menu
+  (`1-FULL`, `2-STACK`, `2-SIDE`, `2-DIAG`, `2-INSET`) is in `bible/visual-style.md`, the
+  storyboard names one per page, and no layout runs for more than two pages in a row; paste-ready
+  layout blocks are in `prompts/image-generation.md`. Style references now attach two pages — the
+  episode's anchor page and the previous page — so drift cannot compound across a longer carousel.
+  The trailer and Episode 01 stay as made.
+
 - **2026-09-18** — **Episode 01 complete.** Pages 1–5 approved as final and filed in
   `episodes/01-just-one-small-change/results/`: page 1 as `ep01_page01_v002.png` (the revised
   continuation from the published trailer; `v001` stays as the superseded pre-publication draft) and

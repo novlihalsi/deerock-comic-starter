@@ -38,8 +38,9 @@ prompt per page.
 
 ## Page density
 
-Every page stays within the series limits: 2–3 panels, at most 2 bubbles per panel, at most 5 per
-page. All of the trailer's text errors landed in its two five-bubble panels; these limits exist so
+Every page stays within the limits in force when it was made: 2–3 panels, at most 2 bubbles per
+panel, at most 5 per page. The series limit has since been tightened to 1–2 panels and 3 bubbles
+per page; this episode stays as made. All of the trailer's text errors landed in its two five-bubble panels; these limits exist so
 that does not happen again. Bubbles stay around 10 words and pages under about 40 words — the
 episode's dialogue totals about 130 words.
 

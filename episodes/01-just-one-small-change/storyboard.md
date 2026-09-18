@@ -7,8 +7,10 @@ it does not replay the commute or the 09:05 office handoff.
 ## Format
 
 5 pages at 4:5 portrait (1080 × 1350). 14 panels: 3 · 3 · 3 · 3 · 2.
-Each page is generated in one shot. Every page stays within the series density limits: at most
-2 bubbles per panel and 5 per page (`bible/series-bible.md`, Episode format).
+Each page is generated in one shot. Every page stays within the density limits in force when it
+was made: 2–3 panels, at most 2 bubbles per panel and 5 per page. The series limit is now 1–2
+panels and 3 bubbles per page (`bible/series-bible.md`, Episode format); this episode stays as
+made.
 
 ## Wardrobe
 

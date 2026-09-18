@@ -119,8 +119,9 @@ Two routes. Pick per deliverable, and write down which one the episode uses.
 
 ```
 A. Confirm the reference sheets exist and are approved.
-B. Build one prompt covering the whole page: cast locks, separation clauses, layout,
-   every panel, the text policy, the NEGATIVE block.
+B. Build one prompt covering the whole page: style reference line, cast locks, separation
+   clauses, the storyboard's layout block, every panel, the text policy, the NEGATIVE block.
+   Attach the sheets plus the anchor page and the previous page (prompts/image-generation.md).
 C. Generate the page.
 D. Review against the pre-flight checklist (section 10).
 E. Miss? Add ONE corrective line and re-roll the page. Bump the version every time.
@@ -128,7 +129,8 @@ F. Approve: record it in assets/approved/manifest.md.
 ```
 
 Fast, and the page rhythm and lighting stay coherent because it is one render. The cost is that
-a re-roll changes all ten panels — you cannot fix one in place. `episodes/00-trailer/generation-prompt.md`
+a re-roll changes every panel on the page — you cannot fix one in place. At one or two panels a
+page that is cheap; on the ten-panel trailer it was not. `episodes/00-trailer/generation-prompt.md`
 is the worked example, with a troubleshooting table for targeted re-rolls.
 
 ### Route B — panel by panel (when a panel will not behave)
@@ -203,6 +205,8 @@ Run before accepting any generated panel.
       shoulder, never turned toward the camera.
 - [ ] Full bleed: no white margin, border or frame around the page edge. White appears only in the
       gutters between panels.
-- [ ] Page density is within the series limits: 2–3 panels, at most 2 bubbles per panel and 5 per
-      page. The trailer is the one exception.
+- [ ] Page density is within the series limits: 1–2 panels, at most 2 bubbles per panel and 3 per
+      page, about 25 words. The trailer and Episode 01 are the exceptions.
+- [ ] The page has the layout the storyboard names (`bible/visual-style.md`, Page layout), and the
+      same layout does not run for more than two pages in a row.
 - [ ] Filename follows section 8 and does not overwrite an approved asset.

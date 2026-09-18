@@ -54,6 +54,32 @@ Mix:
 
 Avoid constant dramatic hero angles, dutch tilts and low heroic framing.
 
+## Page layout
+
+A page holds one or two panels (`bible/series-bible.md`, Episode format). The storyboard names one
+of these layouts for every page, chosen for the beat — not at random, and not the same one every
+time. **No layout runs for more than two pages in a row.**
+
+| Code | Shape | Use it for |
+| --- | --- | --- |
+| `1-FULL` | One panel filling the whole page, edge to edge | The cover, an establishing wide, a punchline, a quiet beat that needs room |
+| `2-STACK` | Two full-width panels, one above the other — equal, or uneven such as 60/40 or 70/30 | A scene and its consequence; a line and the reaction to it |
+| `2-SIDE` | Two full-height panels side by side, each tall and narrow — equal, or uneven such as 60/40 | Two faces in conversation, shot and reverse shot; two people in the same moment. Close and medium shots only, never a wide |
+| `2-DIAG` | Two panels split by one straight diagonal gutter at a gentle slant | Contrast — before and after, expectation and reality, office and train. Sparingly: about once an episode |
+| `2-INSET` | One page-filling panel with a small bordered panel set into one corner, about a third of the page width | A detail on top of the scene — a phone screen up close, a small reaction. The inset never covers a face or a bubble |
+
+`2-INSET` is the natural way to show a screen the reader must read: the main panel keeps the device
+facing its user (see *Screens face the person using them* above), and the inset shows the screen up
+close.
+
+For every layout: gutters are thin, white and straight; the outer edges stay full bleed; panels read
+top before bottom and left before right, and in `2-INSET` the main panel before the inset. Keep it
+slice-of-life — no shattered, jagged or overlapping action-manga layouts, and no steep diagonals.
+
+A generator draws `2-STACK` and `2-SIDE` most reliably and ignores `2-DIAG` and `2-INSET` more
+often. If a render ignores the layout, re-roll with one corrective line. If it fails twice, choose
+another layout from this table and change the storyboard to match.
+
 ## Locations
 Geometry, props and signage come from the location sheets listed in `references/registry.md`.
 Summaries live in `bible/story-world.md`. Do not redesign an established location.
