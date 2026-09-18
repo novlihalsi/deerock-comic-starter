@@ -57,6 +57,14 @@ character sheet that contains them.
 
 | File | What it is | Status |
 | --- | --- | --- |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page01_v001.png` | Episode 02, page 1 | **approved, final** |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page02_v001.png` | Episode 02, page 2 | **approved, final** |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page03_v001.png` | Episode 02, page 3 | **approved, final** |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page04_v001.png` | Episode 02, page 4 | **approved, final** |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page05_v001.png` | Episode 02, page 5 | **approved, final** |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page06_v001.png` | Episode 02, page 6 | **approved, final** |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page07_v001.png` | Episode 02, page 7 | **approved, final** |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page08_v001.png` | Episode 02, page 8 | **approved, final** |
 | `episodes/01-just-one-small-change/results/ep01_page01_v002.png` | Episode 01, page 1 | **approved, final** |
 | `episodes/01-just-one-small-change/results/ep01_page02_v001.png` | Episode 01, page 2 | **approved, final** |
 | `episodes/01-just-one-small-change/results/ep01_page03_v001.png` | Episode 01, page 3 | **approved, final** |

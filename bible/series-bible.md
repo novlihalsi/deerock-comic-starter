@@ -96,7 +96,7 @@ panel.
 | --- | --- | --- |
 | `00-trailer` | ONE 4:5 portrait page, 10 panels in six rows | 4:5 edition not yet generated · 9:16 edition approved: `episodes/00-trailer/results/ep00_page01_v004.png` |
 | `01-just-one-small-change` | 5 pages at 4:5, 2–3 panels per page (14 panels) — the earlier density limit | **complete** · all 5 pages approved, final (2026-09-18) |
-| `02-pr-review-jalur-rangkasbitung` | 8 pages at 4:5, 1–2 panels per page (14 panels) | prompts ready · page 1 next |
+| `02-pr-review-jalur-rangkasbitung` | 8 pages at 4:5, 1–2 panels per page (14 panels) | **complete** · all 8 pages approved, final (2026-09-18) |
 
 Changing an episode's page format is a canon change: update the episode's `README.md` and
 `storyboard.md` together, and never leave two documents describing different formats.

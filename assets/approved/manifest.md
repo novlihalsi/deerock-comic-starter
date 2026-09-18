@@ -28,6 +28,14 @@ version and mark the old one `superseded`.
 
 | Asset | Episode | Status | Note |
 | --- | --- | --- | --- |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page01_v001.png` | 02 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed, `2-STACK`. Approved 2026-09-18. Page 1 of 8. |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page02_v001.png` | 02 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed, `2-DIAG`. Approved 2026-09-18. Page 2 of 8. |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page03_v001.png` | 02 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed, `1-FULL`. Approved 2026-09-18. Page 3 of 8. |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page04_v001.png` | 02 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed, `2-INSET`. Approved 2026-09-18. Page 4 of 8. |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page05_v001.png` | 02 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed, `2-SIDE`. Approved 2026-09-18. Page 5 of 8. |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page06_v001.png` | 02 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed, `2-STACK`. Approved 2026-09-18. Page 6 of 8. |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page07_v001.png` | 02 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed, `2-SIDE`. Approved 2026-09-18. Page 7 of 8. |
+| `episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page08_v001.png` | 02 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed, `1-FULL`. Approved 2026-09-18. Page 8 of 8. |
 | `episodes/01-just-one-small-change/results/ep01_page01_v002.png` | 01 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed. Approved 2026-09-18. Page 1 of 5. |
 | `episodes/01-just-one-small-change/results/ep01_page02_v001.png` | 01 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed. Approved 2026-09-18. Page 2 of 5. |
 | `episodes/01-just-one-small-change/results/ep01_page03_v001.png` | 01 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed. Approved 2026-09-18. Page 3 of 5. |
@@ -61,6 +69,28 @@ Produced in one shot; no panel-level artwork exists.
   Left as is; adding the word would mean retypesetting the bubble.
 - Panel 07, Aki's greeting reads "Pagi, Rock." The rule that Deerock is never shortened was set on
   2026-09-17, after this page was approved. The 4:5 edition's prompt uses "Pagi, Deerock."
+
+### Episode 02 — final pages (`ep02_page01_v001.png` … `ep02_page08_v001.png`)
+Generated one page per shot from `episodes/02-pr-review-jalur-rangkasbitung/generation-prompts/`,
+each with the outfit crops and, from page 2 on, the anchor page and the previous page attached.
+Approved by the author as final on 2026-09-18. Measured on the filed images: all eight are
+1122 x 1402 (ratio 0.8003) with no white frame. All 14 panels are present, and all five layouts
+came out as specified, including `2-DIAG` on page 2 and `2-INSET` on page 4. Every bubble, thought,
+SFX and screen string matches the storyboard word for word, with "Deerock" in full. Deerock wears
+`D-W02` throughout — no hoodie — with his headphones on his head only in the carriage and his
+lanyard only from the lobby on; Kai wears `K-W02` with headphones around his neck. On page 3
+Deerock holds no strap, which is the joke.
+
+**Accepted deviations** — noticed on filing; the pages were approved as they are:
+- 2.1: Deerock's shirt has short sleeves; it has long sleeves on every other page.
+- 2.2: the commuter saying "Geser ke dalem, Mas! Masih muat!" is visible rather than off panel.
+  It reads more clearly this way.
+- 2-DIAG on page 2: the gutter rises to the right instead of falling to the right. No effect on
+  reading order.
+- 4.2: the avatar beside Kai's name in the notification looks like Deerock (purple hair, glasses).
+  The status bar also shows `07:45` and `4G`, which match the scene.
+- 6.2: Kai's cargo trousers are olive-brown rather than `K-W02`'s charcoal-black — the colour of
+  his default outfit.
 
 ### Episode 01 — final pages (`ep01_page01_v002.png`, `ep01_page02_v001.png` … `ep01_page05_v001.png`)
 Generated one page per shot from `episodes/01-just-one-small-change/generation-prompts/` and
@@ -105,6 +135,10 @@ style reference for the new page 1, `ep01_page01_v002.png`; its story content is
 | `references/off-canon/deerock-virelux-cover.png` | quarantined — see `references/off-canon/README.md` |
 
 ## Change log
+
+- **2026-09-18** — **Episode 02 complete.** Pages 1–8 approved as final and filed in
+  `episodes/02-pr-review-jalur-rangkasbitung/results/` as `v001`. The outfit crops fixed the
+  hoodie problem on the first try at every page. Five minor deviations are recorded above.
 
 - **2026-09-18** — Episode 02 page 1, first attempt, rejected and not filed: Deerock came back in his
   black hoodie instead of `D-W02`. Causes, most important first: the attachments drew the hoodie

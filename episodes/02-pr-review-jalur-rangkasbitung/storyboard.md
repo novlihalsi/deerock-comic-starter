@@ -1,6 +1,6 @@
 # Episode 02 — PR Review Jalur Rangkasbitung
 
-**Status: ready to generate.** Panel specs and page prompts are written and synchronised.
+**Status: complete.** All 8 pages approved, final (2026-09-18).
 
 ## Format
 
