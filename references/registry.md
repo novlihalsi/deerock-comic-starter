@@ -46,6 +46,11 @@ character sheet that contains them.
 
 | File | What it is | Status |
 | --- | --- | --- |
+| `episodes/01-just-one-small-change/results/ep01_page01_v002.png` | Episode 01, page 1 | **approved, final** |
+| `episodes/01-just-one-small-change/results/ep01_page02_v001.png` | Episode 01, page 2 | **approved, final** |
+| `episodes/01-just-one-small-change/results/ep01_page03_v001.png` | Episode 01, page 3 | **approved, final** |
+| `episodes/01-just-one-small-change/results/ep01_page04_v001.png` | Episode 01, page 4 | **approved, final** |
+| `episodes/01-just-one-small-change/results/ep01_page05_v001.png` | Episode 01, page 5 | **approved, final** |
 | `episodes/01-just-one-small-change/results/ep01_page01_v001.png` | Episode 01, page 1 — pre-publication story draft | superseded; style reference for page 1 `v002` |
 | `episodes/00-trailer/results/ep00_page01_v004.png` | The trailer page | **approved, final** |
 | `episodes/00-trailer/results/ep00_page01_v003.png` | Revision pass | superseded by v004 |

@@ -26,6 +26,11 @@ version and mark the old one `superseded`.
 
 | Asset | Episode | Status | Note |
 | --- | --- | --- | --- |
+| `episodes/01-just-one-small-change/results/ep01_page01_v002.png` | 01 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed. Approved 2026-09-18. Page 1 of 5. |
+| `episodes/01-just-one-small-change/results/ep01_page02_v001.png` | 01 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed. Approved 2026-09-18. Page 2 of 5. |
+| `episodes/01-just-one-small-change/results/ep01_page03_v001.png` | 01 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed. Approved 2026-09-18. Page 3 of 5. |
+| `episodes/01-just-one-small-change/results/ep01_page04_v001.png` | 01 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed. Approved 2026-09-18. Page 4 of 5. |
+| `episodes/01-just-one-small-change/results/ep01_page05_v001.png` | 01 | **APPROVED — final** | 1122 x 1402 (ratio 0.8003, 4:5), full bleed. Approved 2026-09-18. Page 5 of 5. |
 | `episodes/01-just-one-small-change/results/ep01_page01_v001.png` | 01 | superseded — pre-publication story draft, kept | 1122 x 1402 (ratio 0.8003, 4:5). Approved 2026-09-17 for the draft story; superseded when the episode was revised after the trailer's publication. Style reference for page 1 `v002`. |
 | `episodes/00-trailer/results/ep00_page01_v004.png` | 00-trailer | **APPROVED — final** | 941 x 1672 (9:16). Approved 2026-09-16. |
 | `episodes/00-trailer/results/ep00_page01_v003.png` | 00-trailer | superseded by v004 | Revision pass; lost Aki's greeting in Panel 07. |
@@ -55,6 +60,23 @@ Produced in one shot; no panel-level artwork exists.
 - Panel 07, Aki's greeting reads "Pagi, Rock." The rule that Deerock is never shortened was set on
   2026-09-17, after this page was approved. The 4:5 edition's prompt uses "Pagi, Deerock."
 
+### Episode 01 — final pages (`ep01_page01_v002.png`, `ep01_page02_v001.png` … `ep01_page05_v001.png`)
+Generated one page per shot from `episodes/01-just-one-small-change/generation-prompts/` and
+approved by the author as final on 2026-09-18. Measured on the filed images: all five are
+1122 x 1402 (ratio 0.8003) with no white frame on any edge. All 14 panels are present in the
+specified layouts (3 · 3 · 3 · 3 · 2), and every bubble, thought and SFX matches the storyboard word
+for word, with "Deerock" written in full. The only wall text is the office's own `GOOD WORK GOOD DAY`
+graphic in 1.1, which is allowed set signage. Deerock has his glasses in every panel, Kai's hair is
+short with the ears exposed, and Aki (bun, pink `A-W02` hoodie) is never confused with Mika (long
+loose hair, cream collared blouse).
+
+**Accepted deviations** — noticed on filing; the pages were approved as they are:
+- 1.1: Mika's expression is an open-mouthed smile rather than the specified small half-smile.
+- 4.3: the sky is already golden-pink at 16:30, earlier than the time table's light. It carries
+  straight into the 17:10 sunset of 5.1, so the page sequence still reads naturally.
+- 5.2: Deerock's backpack follows the new rule, but some commuters in the background still wear
+  theirs on their backs.
+
 ### Episode 01 — page 1 v001, pre-publication draft (`ep01_page01_v001.png`)
 Generated in one shot from `episodes/01-just-one-small-change/generation-prompts/page-01.md`, first
 attempt. Pre-flight checklist passes: 4:5 ratio, no title or caption, layout as specified, all four
@@ -81,6 +103,12 @@ style reference for the new page 1, `ep01_page01_v002.png`; its story content is
 | `references/off-canon/deerock-virelux-cover.png` | quarantined — see `references/off-canon/README.md` |
 
 ## Change log
+
+- **2026-09-18** — **Episode 01 complete.** Pages 1–5 approved as final and filed in
+  `episodes/01-just-one-small-change/results/`: page 1 as `ep01_page01_v002.png` (the revised
+  continuation from the published trailer; `v001` stays as the superseded pre-publication draft) and
+  pages 2–5 as `v001`. All five pages are 4:5 with full bleed. Three minor deviations are recorded
+  above.
 
 - **2026-09-17** — Page 5 review: in panel 2 Deerock smiled at the back of his own phone, with the
   screen turned to the camera, and wore his office lanyard on the train. New series rule in

@@ -4,7 +4,7 @@
 | --- | --- |
 | Format | 5 pages at 4:5 portrait (1080 × 1350), 2–3 panels per page |
 | Panels | 14 (3 · 3 · 3 · 3 · 2) |
-| Status | **Revised after trailer publication — replacement page 1 v002 pending.** |
+| Status | **Complete — all 5 pages approved, final (2026-09-18).** |
 | Files | [`storyboard.md`](storyboard.md) · [`panel-specs.md`](panel-specs.md) · [`generation-prompts/`](generation-prompts/README.md) · [`results/`](results) |
 
 ## Logline
@@ -21,19 +21,20 @@ prompt per page.
 1. ~~Expand the storyboard into `panel-specs.md`.~~ Done.
 2. ~~Write one generation prompt per page.~~ Done — start with
    [`generation-prompts/README.md`](generation-prompts/README.md).
-3. Generate each page in one shot. Page 1 now starts at `ep01_page01_v002.png`; pages 2–5 start at
-   `ep01_page02_v001.png` … `ep01_page05_v001.png` (see `bible/consistency-guide.md` section 8).
+3. ~~Generate each page in one shot.~~ Done — page 1 is `ep01_page01_v002.png`, pages 2–5 are
+   `ep01_page02_v001.png` … `ep01_page05_v001.png`. Approval record and accepted deviations:
+   `assets/approved/manifest.md`.
 
 ## Pages
 
 | Page | File | Status |
 | --- | --- | --- |
 | 1 | `results/ep01_page01_v001.png` | superseded pre-publication story draft — kept; used only as the style reference for v002 |
-| 1 | `results/ep01_page01_v002.png` | next: revised continuation from the published trailer |
-| 2 | — | generate after page 1 v002 is approved; attach v002 as the style reference |
-| 3 | — | not generated |
-| 4 | — | not generated |
-| 5 | — | not generated |
+| 1 | `results/ep01_page01_v002.png` | **approved, final** |
+| 2 | `results/ep01_page02_v001.png` | **approved, final** |
+| 3 | `results/ep01_page03_v001.png` | **approved, final** |
+| 4 | `results/ep01_page04_v001.png` | **approved, final** |
+| 5 | `results/ep01_page05_v001.png` | **approved, final** |
 
 ## Page density
 
