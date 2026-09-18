@@ -70,11 +70,11 @@ both members of a pair appear.
 | Code | Character | Outfit |
 | --- | --- | --- |
 | `D-W01` | Deerock | dark hoodie/overshirt + dark tee, dark jeans, orange accent, no harness |
-| `D-W02` | Deerock | open black overshirt over a slate-grey tee, dark grey chinos (sheet: *Office Casual*) |
+| `D-W02` | Deerock | open black collared shirt over a slate blue-grey tee, dark taupe-grey cargo trousers (sheet: *Office Casual*) |
 | `A-W01` | Aki | cream knitted sweater, black cargo trousers, suspenders, lanyard |
 | `A-W02` | Aki | `A-W01` with a dusty-pink oversized hoodie over the sweater (office AC) |
 | `K-W01` | Kai | dark hoodie under open jacket, olive cargo trousers, headphones around neck |
-| `K-W02` | Kai | light grey oversized sweater, olive cargo trousers, headphones around neck (sheet: *Sweater*) |
+| `K-W02` | Kai | light grey oversized sweatshirt, charcoal-black cargo trousers, white slip-ons, headphones around neck (sheet: *Sweater*) |
 | `R-W01` | Rin | black oversized hoodie/jacket, dark grey cargo trousers, lanyard |
 | `M-W01` | Mika | collared cream blouse, black plain wide trousers (no cargo pockets), suspenders, structured bag |
 
@@ -89,6 +89,14 @@ character bible, `prompts/character-blocks.md` and the table above before using 
 cues never change with the clothes: Deerock's glasses and purple-black hair, Kai's short hair and
 headphones around his neck, Aki's bun, Rin's fringe, Mika's long loose hair. Check the separation
 matrices again with the new outfits — two characters who share a frame should not share a top.
+
+**Describe the outfit exactly as the sheet draws it, and attach its crop.** A sheet draws the
+default outfit a dozen times — portrait, turnaround, expressions, scene examples — and each
+variation once, as a small figure. Given both, a generator follows the pictures, not the prompt:
+Episode 02's first page came back with Deerock in his default hoodie. So crop the variation's figure
+into `characters/outfits/`, register it in `references/registry.md`, attach it to every page that
+uses the outfit, and write the prompt to match what the crop shows. For the same reason, the first
+page of an episode with new outfits attaches no earlier episode's page as a style reference.
 
 Do not change an outfit between adjacent panels unless the story says the character changed.
 

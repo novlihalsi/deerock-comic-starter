@@ -6,7 +6,9 @@
 
 ```
 characters/deerock.png
+characters/outfits/deerock-office-casual.png   ← outfit reference: today's clothes
 characters/kai.png
+characters/outfits/kai-sweater.png   ← outfit reference: today's clothes
 locations/office.png
 episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page01_v001.png   ← style reference: anchor page (use the approved version)
 episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page06_v001.png   ← style reference: previous page (use the approved version)
@@ -19,6 +21,8 @@ glasses and hair over the ears on the left, bare ears and no glasses on the righ
 ---
 
 ```
+OUTFIT REFERENCE: the attached single-figure images show exactly what Deerock and Kai wear on this page. Their character sheets show other outfits as well — from the sheets take only faces, hair and build.
+
 STYLE REFERENCE: the attached earlier comic pages are for rendering style only — match their line weight, colouring, shading and how each character's face is drawn. Do not copy their panels, their layout, their page border, their scenes, their outfits or any of their text. Clothing follows the CAST section below.
 
 A single 4:5 portrait comic page (1080 x 1350) with 2 panels side by side, read left to right.
@@ -37,19 +41,23 @@ layered, soft strands falling over his forehead, COVERING HIS EARS and reaching 
 read purple, not black. ALWAYS wears thin dark rectangular glasses, in every panel. Youthful slim
 face. CLEAN CHIN — no beard, no moustache, no stubble, no jaw shadow; the only facial hair is a
 very thin, tiny, sparse patch directly beneath the lower lip.
-Wears his OFFICE-CASUAL outfit from the sheet: an open BLACK OVERSHIRT worn loose over a plain
-SLATE-GREY tee, dark grey chinos, dark sneakers. NO hoodie today. No harness, no straps, no pouches.
-His only bag is a dark practical backpack.
+Today he wears his OFFICE-CASUAL outfit, exactly as in the attached outfit reference: a BLACK
+COLLARED BUTTON-UP SHIRT worn OPEN like a light jacket — pointed shirt collar, buttons, a chest
+pocket, sleeves down to the wrists — over a plain SLATE BLUE-GREY crew-neck tee, with a white
+undershirt hem just showing below it; dark taupe-grey cargo trousers; dark sneakers. His character
+sheet mostly shows him in a black hoodie — that is NOT today's outfit.
+No harness, no straps, no pouches. His only bag is a dark practical backpack.
 Expression register: small and contained — slight frown, small smile, flat stare. Never broad.
 On this page: a lanyard around his neck. No headphones on him or around his neck.
 
 KAI — 28, male, backend developer, 178 cm, tallest and broadest of the team. JET BLACK hair, and
 it is SHORT: cropped short at the sides and back, EARS AND NAPE FULLY EXPOSED, short spiky tousled
 top, short fringe off the forehead. Nothing covers his ears. Clearly shorter hair than Deerock.
-NEVER wears glasses. Wears the SWEATER outfit from his sheet: a LIGHT GREY oversized crewneck
-sweater, OLIVE-BROWN cargo trousers that are clearly lighter than Deerock's dark grey chinos,
-sneakers. NO dark hoodie and NO jacket today. Black over-ear headphones AROUND HIS NECK, standing
-out against the light sweater.
+NEVER wears glasses. Today he wears his SWEATER outfit, exactly as in the attached outfit
+reference: a LIGHT GREY oversized pullover sweatshirt with a front pocket and the hood down,
+charcoal-black wide cargo trousers, white slip-on sneakers. His character sheet mostly shows him in a
+dark hoodie and jacket — that is NOT today's outfit. Black over-ear headphones AROUND HIS NECK,
+standing out against the light grey top.
 Cheerful and easy-going.
 Kai holds a takeaway coffee cup.
 
@@ -57,9 +65,9 @@ Deerock appears in Panel 1, Kai in Panel 2.
 
 SEPARATION — Deerock and Kai must be instantly distinguishable, even in a close-up where height
 and trousers are out of frame. Deerock: MEDIUM-length layered purple-black hair covering his ears,
-thin dark glasses, 172 cm, slim, open black overshirt over a slate-grey tee. Kai: SHORT cropped
-jet-black hair with ears and nape fully exposed, NO glasses at all, 178 cm, athletic and broader,
-light grey sweater, olive-brown cargo trousers, headphones around his neck. Glasses and hair over
+thin dark glasses, 172 cm, slim, open black collared shirt over a slate blue-grey tee. Kai: SHORT
+cropped jet-black hair with ears and nape fully exposed, NO glasses at all, 178 cm, athletic and
+broader, light grey sweatshirt, headphones around his neck. Glasses and hair over
 the ears means Deerock; short cropped hair and bare ears means Kai. Today their tops also differ:
 dark on Deerock, light on Kai.
 
@@ -103,11 +111,11 @@ no cyberpunk elements, no magazine-cover layout, no lens flare, no dramatic hero
 no photorealism, no chibi, no 3D render. No white border, outer margin or frame around the page.
 No sweat drops, no shock lines, no cartoon symbols.
 Deerock is never without glasses; his hair is never plain black; his chin is always clean —
-no beard, no moustache, no stubble. Deerock wears no hoodie in this episode — only the open black
-overshirt over the slate-grey tee.
+no beard, no moustache, no stubble. Deerock's top in every panel is the open black collared shirt
+over the slate blue-grey tee from the outfit reference.
 No phone, tablet or laptop screen is turned toward the camera — screens face the character using them.
 Kai never wears glasses, never has purple hair, and never has long or ear-covering hair.
-Kai wears the light grey sweater — no dark hoodie, no jacket.
+Kai's top is the light grey sweatshirt from the outfit reference — never dark, no jacket.
 Do not draw Kai as a second version of Deerock.
 Deerock has no headphones on him or around his neck on this page.
 Do not redesign any room or station.

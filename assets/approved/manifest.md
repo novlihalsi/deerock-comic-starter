@@ -21,6 +21,8 @@ version and mark the old one `superseded`.
 | `locations/office.png` | `LOC-OFFICE` | v1 | approved | 2026-09-16 |
 | `locations/cafe.png` | `LOC-CAFE` | v1 | approved | 2026-09-16 |
 | `props/motorcycle-vario150.jpg` | `PROP-MOTORCYCLE` | v1 | approved | 2026-09-16 |
+| `characters/outfits/deerock-office-casual.png` | `CHAR-DEEROCK` · `D-W02` | v1 | approved — cropped from the sheet | 2026-09-18 |
+| `characters/outfits/kai-sweater.png` | `CHAR-KAI` · `K-W02` | v1 | approved — cropped from the sheet | 2026-09-18 |
 
 ## Generated panels and pages
 
@@ -103,6 +105,18 @@ style reference for the new page 1, `ep01_page01_v002.png`; its story content is
 | `references/off-canon/deerock-virelux-cover.png` | quarantined — see `references/off-canon/README.md` |
 
 ## Change log
+
+- **2026-09-18** — Episode 02 page 1, first attempt, rejected and not filed: Deerock came back in his
+  black hoodie instead of `D-W02`. Causes, most important first: the attachments drew the hoodie
+  about a dozen times — the sheet's portrait, turnaround, expressions and scene examples, one of them
+  on the KRL, plus three panels of the attached Episode 01 page — and the office-casual outfit once,
+  as a small figure; the prompt described `D-W02` loosely ("overshirt", "dark grey chinos") rather
+  than as the sheet draws it; and it named the hoodie three times to forbid it. Fixes: outfit crops
+  `characters/outfits/deerock-office-casual.png` and `kai-sweater.png`, attached to every page that
+  uses them under a new OUTFIT REFERENCE line; `D-W02` and `K-W02` rewritten to match the crops
+  (Kai's trousers are charcoal-black, not the olive-brown first written); page 1 no longer attaches
+  the Episode 01 page; the hoodie is named once per prompt. Rule added to
+  `bible/consistency-guide.md` section 4.
 
 - **2026-09-18** — New rule: **a new day means new outfits** (`bible/consistency-guide.md`
   section 4). Episode 02 is a different day from the trailer and Episode 01, but its first draft

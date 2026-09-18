@@ -46,7 +46,7 @@ The sheet shows four outfit variations: *Default (Techwear)*, *Casual*, *Office 
 | Code | Outfit |
 | --- | --- |
 | `D-W01` | **Workday default.** Dark hoodie or dark overshirt over a plain dark tee, dark jeans/chinos, dark sneakers, one small orange accent. This is the sheet's "Default" silhouette **with the tactical parts removed** — no chest harness, no utility straps, no buckle rig, no pouches. |
-| `D-W02` | **Office casual**, the sheet's *Office Casual* variation: an open black overshirt worn loose over a plain slate-grey tee, dark grey chinos, dark sneakers; lanyard at the office. No hoodie. First worn in Episode 02. |
+| `D-W02` | **Office casual**, the sheet's *Office Casual* variation as it is drawn: a black collared button-up shirt worn open over a slate blue-grey crew-neck tee, a white undershirt hem just showing, dark taupe-grey cargo trousers, dark sneakers; lanyard at the office. Outfit crop: `characters/outfits/deerock-office-casual.png`. First worn in Episode 02. |
 | `D-W03` | Home wear: hoodie or loose tee, relaxed pants. |
 
 > **Canon note (resolved conflict).** The sheet styles Deerock's default look as techwear with
@@ -110,9 +110,10 @@ Reference: `characters/kai.png`
   *Sweater*, *Home Wear*.
 - **Wardrobe `K-W01`:** dark hoodie under an open dark jacket, **olive-brown** cargo trousers
   (clearly lighter and warmer than Deerock's near-black jeans), headphones around the neck, sneakers.
-- **Wardrobe `K-W02`:** the sheet's *Sweater* variation — a light grey oversized crewneck sweater,
-  **olive-brown** cargo trousers, sneakers, black headphones around the neck. No hoodie, no jacket.
-  First worn in Episode 02.
+- **Wardrobe `K-W02`:** the sheet's *Sweater* variation as it is drawn — a light grey oversized
+  pullover sweatshirt with a front pocket and the hood down, charcoal-black wide cargo trousers,
+  white slip-on sneakers, black headphones around the neck. Outfit crop:
+  `characters/outfits/kai-sweater.png`. First worn in Episode 02.
 
 ---
 
@@ -189,7 +190,7 @@ like Deerock. Hair *length* does the most work — lead with it, then carry the 
 
 Outfits change from episode to episode, so clothing is a bonus separator, never the main one. When
 both are in frame, give them tops of clearly different tone — in Episode 02, Deerock's dark open
-overshirt against Kai's light grey sweater.
+shirt against Kai's light grey sweatshirt.
 
 Never give Kai glasses. Never give Kai purple hair. **Never call Kai's hair "messy"** — use
 "short, spiky, cropped". Never give Deerock a wide open laugh in a neutral scene.

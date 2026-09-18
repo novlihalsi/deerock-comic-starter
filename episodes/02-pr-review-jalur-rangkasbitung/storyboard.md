@@ -24,8 +24,9 @@ layout from the menu in `bible/visual-style.md`; no layout runs for more than tw
 
 `D-W02` and `K-W02` throughout. This is a different day from the trailer and Episode 01, so both
 wear new outfits (`bible/consistency-guide.md` section 4), each taken from their sheet's outfit
-variations: Deerock in his *Office Casual* — an open black overshirt over a slate-grey tee, dark grey
-chinos — and Kai in his *Sweater* — a light grey oversized sweater and olive-brown cargo trousers.
+variations: Deerock in his *Office Casual* — an open black collared shirt over a slate blue-grey
+tee, dark taupe-grey cargo trousers — and Kai in his *Sweater* — a light grey oversized sweatshirt and
+charcoal-black cargo trousers.
 The dark-against-light tops add one more separator on the pages they share. Everyone else is an
 anonymous commuter.
 
@@ -151,7 +152,7 @@ Layout `2-STACK`, 6.1 about 45% of the height. Tone: drained, then bright.
 
 **6.1 · `LOC-OFFICE`, lobby · 08:45 · Deerock** — top
 Deerock walks through the NEXA access gates past the reception, tapping his access card, hollow-eyed
-and drained, his overshirt a little rumpled from the crush.
+and drained, his open shirt a little rumpled from the crush.
 - Thought — Deerock: *Rencana tidur 40 menit. Dapetnya 10.*
 
 **6.2 · `LOC-OFFICE`, Deerock's desk · 08:50 · Deerock, Kai** — bottom

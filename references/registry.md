@@ -16,6 +16,17 @@ Run `node tools/check-refs.mjs` to verify every path in the repo still resolves.
 | `CHAR-RIN` | `characters/rin.png` | approved · v1 |
 | `CHAR-MIKA` | `characters/mika.png` | approved · v1 |
 
+### Outfit references
+
+One figure cropped from a sheet's *outfit variations* row. Attach it whenever the character wears
+that outfit — the full sheet alone pulls the generator back to the default outfit
+(`bible/consistency-guide.md` section 4).
+
+| Character | Wardrobe | Crop | Status |
+| --- | --- | --- | --- |
+| `CHAR-DEEROCK` | `D-W02` | `characters/outfits/deerock-office-casual.png` | approved · cropped from the sheet |
+| `CHAR-KAI` | `K-W02` | `characters/outfits/kai-sweater.png` | approved · cropped from the sheet |
+
 ## Locations
 
 | ID | Reference sheet | Canonical name | Status |

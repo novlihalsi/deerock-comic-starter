@@ -6,14 +6,14 @@ separation, sets, layout, panels, text policy and negatives for that page only.
 
 | Page | Prompt | Layout | Panels | Attach |
 | --- | --- | --- | --- | --- |
-| 1 | [`page-01.md`](page-01.md) | `2-STACK` | 2 | deerock · krl-station · Episode 01 anchor page |
-| 2 | [`page-02.md`](page-02.md) | `2-DIAG` | 2 | deerock · krl-station · krl-interior · page 1 |
-| 3 | [`page-03.md`](page-03.md) | `1-FULL` | 1 | deerock · krl-interior · page 1 · page 2 |
-| 4 | [`page-04.md`](page-04.md) | `2-INSET` | 2 | deerock · krl-interior · page 1 · page 3 |
-| 5 | [`page-05.md`](page-05.md) | `2-SIDE` | 2 | deerock · krl-interior · page 1 · page 4 |
-| 6 | [`page-06.md`](page-06.md) | `2-STACK` | 2 | deerock · kai · office · page 1 · page 5 |
-| 7 | [`page-07.md`](page-07.md) | `2-SIDE` | 2 | deerock · kai · office · page 1 · page 6 |
-| 8 | [`page-08.md`](page-08.md) | `1-FULL` | 1 | deerock · kai · office · page 1 · page 7 |
+| 1 | [`page-01.md`](page-01.md) | `2-STACK` | 2 | deerock + outfit · krl-station |
+| 2 | [`page-02.md`](page-02.md) | `2-DIAG` | 2 | deerock + outfit · krl-station · krl-interior · page 1 |
+| 3 | [`page-03.md`](page-03.md) | `1-FULL` | 1 | deerock + outfit · krl-interior · page 1 · page 2 |
+| 4 | [`page-04.md`](page-04.md) | `2-INSET` | 2 | deerock + outfit · krl-interior · page 1 · page 3 |
+| 5 | [`page-05.md`](page-05.md) | `2-SIDE` | 2 | deerock + outfit · krl-interior · page 1 · page 4 |
+| 6 | [`page-06.md`](page-06.md) | `2-STACK` | 2 | deerock + outfit · kai + outfit · office · page 1 · page 5 |
+| 7 | [`page-07.md`](page-07.md) | `2-SIDE` | 2 | deerock + outfit · kai + outfit · office · page 1 · page 6 |
+| 8 | [`page-08.md`](page-08.md) | `1-FULL` | 1 | deerock + outfit · kai + outfit · office · page 1 · page 7 |
 
 ## Rules
 
@@ -36,9 +36,12 @@ Approvals go in `assets/approved/manifest.md`.
 
 The STYLE REFERENCE line is already the first line of every prompt; you only attach the pages.
 
-- **Page 1** attaches Episode 01's anchor page,
-  `episodes/01-just-one-small-change/results/ep01_page01_v002.png`. It is an office page with
-  other characters in it; the line tells the generator to take rendering only.
+- **Outfit references come first.** Every page attaches
+  `characters/outfits/deerock-office-casual.png`, and pages 6–8 also
+  `characters/outfits/kai-sweater.png`; the OUTFIT REFERENCE line at the top of each prompt points
+  at them. Without them, the sheets pull both back to their default hoodies.
+- **Page 1** attaches no earlier page. Episode 01's anchor page shows Deerock in his old hoodie three
+  times, and on the first attempt it outweighed the prompt.
 - **Page 1 of this episode is the anchor** once approved. Every later page attaches it plus the page
   just before. On page 2 they are the same page, so attach it once.
 - The attach lists name `v001`. If a page took more than one roll, attach its **approved** version.
@@ -67,7 +70,7 @@ Add **one** line at the very top of that page's prompt and re-roll. One fix at a
 | The crowd looks cartoonish | `Real rush hour, drawn straight: patient, ordinary commuters with natural faces. No squashed faces, nobody pressed against the glass.` |
 | Page 3: Deerock holds a strap | `Deerock's hands rest on his backpack. He is NOT holding any strap or pole — the packed crowd keeps him upright.` |
 | Headphones around Deerock's neck | `Deerock's headphones are ON HIS HEAD over his ears` (pages 3–5), or `Deerock has no headphones on him` (pages 6–7). Around the neck is Kai's cue. |
-| Deerock is in a hoodie, or Kai in a dark hoodie or jacket | `Today Deerock wears an open black overshirt over a slate-grey tee — no hoodie. Kai wears a light grey sweater — no hoodie, no jacket.` Most likely on page 1, whose style reference shows Deerock's Episode 01 hoodie. |
+| Deerock is in a hoodie, or Kai in a dark hoodie or jacket | First check that the outfit crops are attached. Then add `Deerock's top is an open BLACK COLLARED SHIRT with buttons over a slate blue-grey tee, exactly as in the outfit reference image — not a hooded top.` |
 | Kai looks like Deerock | `Kai's hair is SHORT — cropped at the sides and back, ears and nape fully exposed. Deerock's hair is MEDIUM and covers his ears. Kai wears NO glasses.` |
 | A commuter looks like Deerock | `Deerock is the only person in the carriage with purple-black hair and thin dark rectangular glasses.` |
 | A screen faces the camera | `Every screen faces the character using it. To show the reader the screen, the camera looks over that character's shoulder from behind.` (The page 4 inset is the one exception.) |

@@ -28,7 +28,7 @@ Page 1 of this episode becomes the anchor once approved.
 
 | Page | Sheets | Style reference pages |
 | --- | --- | --- |
-| 1 | deerock · krl-station | Episode 01 anchor `ep01_page01_v002.png` |
+| 1 | deerock · krl-station | none — see below |
 | 2 | deerock · krl-station · krl-interior | `ep02_page01` |
 | 3 | deerock · krl-interior | `ep02_page01` · `ep02_page02` |
 | 4 | deerock · krl-interior | `ep02_page01` · `ep02_page03` |
@@ -37,14 +37,18 @@ Page 1 of this episode becomes the anchor once approved.
 | 7 | deerock · kai · office | `ep02_page01` · `ep02_page06` |
 | 8 | deerock · kai · office | `ep02_page01` · `ep02_page07` |
 
+Every page also attaches `characters/outfits/deerock-office-casual.png`, and pages 6–8
+`characters/outfits/kai-sweater.png`. Page 1 attaches no earlier page: Episode 01's pages show
+Deerock in the hoodie he no longer wears, and on the first attempt that page outweighed the prompt.
+
 ### Wardrobe and carried items
 
 A new day, so new outfits from the sheets' variations: `D-W02` — Deerock's *Office Casual*, an open
-black overshirt over a slate-grey tee, dark grey chinos, **no hoodie** — and `K-W02` — Kai's
-*Sweater*, a light grey oversized crewneck and olive-brown cargo trousers, **no hoodie or jacket**.
-The Episode 01 page attached to page 1 shows Deerock in a hoodie; the prompt says clothing follows
-the CAST section. Deerock always wears glasses; Kai never does, and his headphones are around his
-neck.
+black collared shirt over a slate blue-grey tee, dark taupe-grey cargo trousers, **not a hoodie** —
+and `K-W02` — Kai's *Sweater*, a light grey oversized sweatshirt and charcoal-black cargo trousers.
+Every page attaches the outfit crops from `characters/outfits/`, because both sheets draw the old
+outfit a dozen times and the new one once. Deerock always wears glasses; Kai never does, and his
+headphones are around his neck.
 
 | Panels | Backpack | Headphones | Lanyard |
 | --- | --- | --- | --- |
@@ -180,7 +184,7 @@ Deerock/Kai separation clause on pages 6–8.
 ### 6.1 — Through the gates
 
 - **Cast/location:** Deerock in the NEXA lobby, 08:45.
-- **Camera/action:** medium shot from the lift side of the access gates, angled back toward the entrance. Deerock walks through a glass gate, tapping the access card on his lanyard, backpack on his back. Hollow-eyed and drained, shoulders low, overshirt a little rumpled from the crush. The reception desk and the marble `NEXA` wall are behind him in the background. Not a repeat of the trailer's rear view at the gates.
+- **Camera/action:** medium shot from the lift side of the access gates, angled back toward the entrance. Deerock walks through a glass gate, tapping the access card on his lanyard, backpack on his back. Hollow-eyed and drained, shoulders low, open shirt a little rumpled from the crush. The reception desk and the marble `NEXA` wall are behind him in the background. Not a repeat of the trailer's rear view at the gates.
 - **Text:** Deerock thought: `Rencana tidur 40 menit. Dapetnya 10.` The `NEXA` lettering on the marble wall is the only other text.
 
 ### 6.2 — Fast approval
@@ -226,7 +230,7 @@ Deerock/Kai separation clause on pages 6–8.
 - [ ] Ratio 0.8, full bleed, and the page's named layout; panels neither merged nor added.
 - [ ] Every screen faces the character using it; the only straight-on screen is the 4.2 inset.
 - [ ] Crowd density follows the table, and the crush is real rush hour — never cartoonish.
-- [ ] Outfits are `D-W02` and `K-W02` — no hoodie on Deerock, no dark hoodie or jacket on Kai.
+- [ ] Outfits match the attached outfit crops (`D-W02`, `K-W02`) — no hoodie on Deerock, a light grey top on Kai.
 - [ ] Backpack, headphones and lanyard follow the table; Deerock's headphones are never around his neck.
 - [ ] "Gerbong 3" in 1.2 and 8.1 and "40 menit" in 3.1 and 6.1 are exact — they are the setup and payoff.
 - [ ] No bubble is longer than about 12 words; no asterisks or italics markers appear in any rendered text.

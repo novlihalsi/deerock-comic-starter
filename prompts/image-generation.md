@@ -144,7 +144,8 @@ because pages rendered independently drift apart in faces, line weight and palet
 earlier approved pages:
 
 - the **anchor page** — page 1 of the episode, once approved. Page 1 itself uses the previous
-  episode's anchor page;
+  episode's anchor page — unless the characters on it have changed outfits since. Then page 1
+  attaches no earlier page, because a page full of the old outfit outweighs the prompt;
 - the **previous page** — the page just before this one. On page 2 it is the anchor page, so
   attach it once.
 
@@ -158,6 +159,17 @@ STYLE REFERENCE: the attached earlier comic pages are for rendering style only �
 The clauses are there because each one has gone wrong: an attached page is full of speech bubbles a
 generator will happily reuse, and Aki's outfit on Episode 01's first reference page carried over
 onto a page where she had changed.
+
+**OUTFIT REFERENCE.** When a character wears anything but their sheet's default outfit, attach the
+outfit crop listed in `references/registry.md` and put this line first, above the STYLE REFERENCE
+line:
+
+```
+OUTFIT REFERENCE: the attached single-figure image shows exactly what <name> wears on this page. The character sheet shows other outfits as well — from the sheet take only the face, hair and build.
+```
+
+Describe the outfit in the CAST block exactly as the crop draws it. When the text and the attached
+picture disagree, the picture wins.
 
 ---
 

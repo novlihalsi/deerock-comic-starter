@@ -6,6 +6,7 @@
 
 ```
 characters/deerock.png
+characters/outfits/deerock-office-casual.png   ← outfit reference: today's clothes
 locations/krl-interior.png
 episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page01_v001.png   ← style reference: anchor page (use the approved version)
 episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page04_v001.png   ← style reference: previous page (use the approved version)
@@ -18,6 +19,8 @@ stacked rows.
 ---
 
 ```
+OUTFIT REFERENCE: the attached single-figure image shows exactly what Deerock wears on this page. His character sheet shows other outfits as well — from the sheet take only his face, hair and build.
+
 STYLE REFERENCE: the attached earlier comic pages are for rendering style only — match their line weight, colouring, shading and how each character's face is drawn. Do not copy their panels, their layout, their page border, their scenes, their outfits or any of their text. Clothing follows the CAST section below.
 
 A single 4:5 portrait comic page (1080 x 1350) with 2 panels side by side, read left to right.
@@ -36,16 +39,19 @@ layered, soft strands falling over his forehead, COVERING HIS EARS and reaching 
 read purple, not black. ALWAYS wears thin dark rectangular glasses, in every panel. Youthful slim
 face. CLEAN CHIN — no beard, no moustache, no stubble, no jaw shadow; the only facial hair is a
 very thin, tiny, sparse patch directly beneath the lower lip.
-Wears his OFFICE-CASUAL outfit from the sheet: an open BLACK OVERSHIRT worn loose over a plain
-SLATE-GREY tee, dark grey chinos, dark sneakers. NO hoodie today. No harness, no straps, no pouches.
-His only bag is a dark practical backpack.
+Today he wears his OFFICE-CASUAL outfit, exactly as in the attached outfit reference: a BLACK
+COLLARED BUTTON-UP SHIRT worn OPEN like a light jacket — pointed shirt collar, buttons, a chest
+pocket, sleeves down to the wrists — over a plain SLATE BLUE-GREY crew-neck tee, with a white
+undershirt hem just showing below it; dark taupe-grey cargo trousers; dark sneakers. His character
+sheet mostly shows him in a black hoodie — that is NOT today's outfit.
+No harness, no straps, no pouches. His only bag is a dark practical backpack.
 Expression register: small and contained — slight frown, small smile, flat stare. Never broad.
 On this page: backpack worn on his FRONT. Over-ear headphones ON HIS HEAD — never around his neck.
-No lanyard.
+No lanyard — the one in the outfit reference is worn only at the office.
 
 Deerock is the only named character on this page, among anonymous commuters.
 
-ANONYMOUS COMMUTERS — ordinary Jakarta office workers and students: shirts, blouses, hoodies,
+ANONYMOUS COMMUTERS — ordinary Jakarta office workers and students: shirts, blouses, jackets,
 some women in hijab, some people in face masks, backpacks and tote bags. Varied faces, patient and
 a little tired. None of them resembles Deerock: nobody else has purple-black hair with thin dark
 rectangular glasses.
@@ -89,8 +95,8 @@ no cyberpunk elements, no magazine-cover layout, no lens flare, no dramatic hero
 no photorealism, no chibi, no 3D render. No white border, outer margin or frame around the page.
 No sweat drops, no shock lines, no cartoon symbols.
 Deerock is never without glasses; his hair is never plain black; his chin is always clean —
-no beard, no moustache, no stubble. Deerock wears no hoodie in this episode — only the open black
-overshirt over the slate-grey tee.
+no beard, no moustache, no stubble. Deerock's top in every panel is the open black collared shirt
+over the slate blue-grey tee from the outfit reference.
 No phone, tablet or laptop screen is turned toward the camera — screens face the character using them.
 The crowd is real rush hour, not a cartoon: no squashed or distorted faces, nobody pressed against the glass, no violent shoving, no angry faces.
 Deerock's headphones are on his head, never around his neck. He wears no lanyard.

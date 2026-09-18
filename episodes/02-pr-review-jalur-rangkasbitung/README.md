@@ -24,5 +24,6 @@ can barely lift in a packed, swaying carriage.
 
 ## Style references
 
-Page 1 attaches Episode 01's anchor page, `ep01_page01_v002.png`. Once page 1 is approved it
-becomes this episode's anchor: every later page attaches it plus the page before.
+Page 1 attaches no earlier page — Episode 01's pages show the outfits this episode changes. Once
+page 1 is approved it becomes this episode's anchor: every later page attaches it plus the page
+before. Every page also attaches the outfit crops in `characters/outfits/`.
