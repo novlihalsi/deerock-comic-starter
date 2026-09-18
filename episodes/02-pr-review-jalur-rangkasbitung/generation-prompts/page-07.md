@@ -1,0 +1,118 @@
+# Episode 02 · Page 7 — Jangan Ditanya
+
+**Save as:** `../results/ep02_page07_v001.png` · **Layout:** `2-SIDE` · **Panels:** 2 · **Bubbles:** 2
+
+**Attach:**
+
+```
+characters/deerock.png
+characters/kai.png
+locations/office.png
+episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page01_v001.png   ← style reference: anchor page (use the approved version)
+episodes/02-pr-review-jalur-rangkasbitung/results/ep02_page06_v001.png   ← style reference: previous page (use the approved version)
+```
+
+**Canary:** the page shows no title. If "Jangan Ditanya" appears anywhere, this prompt did not run as
+written. Two close-ups side by side hide height and trousers, so check hair and glasses first:
+glasses and hair over the ears on the left, bare ears and no glasses on the right.
+
+---
+
+```
+STYLE REFERENCE: the attached earlier comic pages are for rendering style only — match their line weight, colouring, shading and how each character's face is drawn. Do not copy their panels, their layout, their page border, their scenes, their outfits or any of their text. Clothing follows the CAST section below.
+
+A single 4:5 portrait comic page (1080 x 1350) with 2 panels side by side, read left to right.
+The canvas is exactly 4:5 — width to height 4 to 5. Not 3:4, not 2:3.
+Contemporary slice-of-life manga/anime: clean linework, restrained cel shading, subtle halftone
+texture, soft cinematic lighting, realistic modern Indonesian environments, natural expressions.
+Muted cool palette with subtle purple and blue accents. Thin dark panel borders, with thin white gutters
+BETWEEN panels only. FULL BLEED: the outer panels run right to the edges of the canvas — no white
+margin, border or frame around the page. Consistent line weight, eye size and face proportion across
+every character on the page. Speech and thought bubbles are compact and never cover a face.
+
+=== CAST — match the attached character sheets exactly ===
+
+DEEROCK — 25, male, frontend developer, 172 cm, slim. Dark PURPLE-black hair, MEDIUM length and
+layered, soft strands falling over his forehead, COVERING HIS EARS and reaching the nape — it must
+read purple, not black. ALWAYS wears thin dark rectangular glasses, in every panel. Youthful slim
+face. CLEAN CHIN — no beard, no moustache, no stubble, no jaw shadow; the only facial hair is a
+very thin, tiny, sparse patch directly beneath the lower lip.
+Wears his OFFICE-CASUAL outfit from the sheet: an open BLACK OVERSHIRT worn loose over a plain
+SLATE-GREY tee, dark grey chinos, dark sneakers. NO hoodie today. No harness, no straps, no pouches.
+His only bag is a dark practical backpack.
+Expression register: small and contained — slight frown, small smile, flat stare. Never broad.
+On this page: a lanyard around his neck. No headphones on him or around his neck.
+
+KAI — 28, male, backend developer, 178 cm, tallest and broadest of the team. JET BLACK hair, and
+it is SHORT: cropped short at the sides and back, EARS AND NAPE FULLY EXPOSED, short spiky tousled
+top, short fringe off the forehead. Nothing covers his ears. Clearly shorter hair than Deerock.
+NEVER wears glasses. Wears the SWEATER outfit from his sheet: a LIGHT GREY oversized crewneck
+sweater, OLIVE-BROWN cargo trousers that are clearly lighter than Deerock's dark grey chinos,
+sneakers. NO dark hoodie and NO jacket today. Black over-ear headphones AROUND HIS NECK, standing
+out against the light sweater.
+Cheerful and easy-going.
+Kai holds a takeaway coffee cup.
+
+Deerock appears in Panel 1, Kai in Panel 2.
+
+SEPARATION — Deerock and Kai must be instantly distinguishable, even in a close-up where height
+and trousers are out of frame. Deerock: MEDIUM-length layered purple-black hair covering his ears,
+thin dark glasses, 172 cm, slim, open black overshirt over a slate-grey tee. Kai: SHORT cropped
+jet-black hair with ears and nape fully exposed, NO glasses at all, 178 cm, athletic and broader,
+light grey sweater, olive-brown cargo trousers, headphones around his neck. Glasses and hair over
+the ears means Deerock; short cropped hair and bare ears means Kai. Today their tops also differ:
+dark on Deerock, light on Kai.
+
+=== SETS — match the attached location sheets exactly. Do not redesign any place. ===
+
+NEXA OPEN WORKSPACE (upper floor) — full-height window wall with a city skyline, warm wood desks
+in rows separated by low partitions, dual monitors, plants in low planters, exposed dark ceiling
+with linear lights. The named desks sit side by side along one row, in this order: Aki, Deerock,
+Kai, Rin — so Kai's desk is directly beside Deerock's. No other named character is in frame;
+background coworkers, if any, are small, generic and out of focus.
+DEEROCK'S DESK: two monitors (a landscape wallpaper on the left, code on the right), a mechanical
+keyboard, a black tumbler, sticky notes on the low partition. No laptop on the desk — it is still in
+his backpack. Any desk nameplate is out of focus and unreadable.
+
+=== PAGE LAYOUT — 4:5 portrait, two panels side by side (2-SIDE) ===
+Two tall panels side by side, each the full height of the page: Panel 1 on the left, about 50% of
+the width; Panel 2 on the right, the rest. One thin, straight, vertical white gutter between them.
+
+=== PANELS ===
+
+PANEL 1 (left) — 08:51. DEEROCK'S DESK. Close-up of Deerock, seated, seen from slightly above —
+Kai's eye line. He looks up with a flat, tired stare, eyelids a little heavy, mouth a straight
+line. His monitors glow softly behind him. No headphones on him.
+Speech bubble, Deerock: Jangan ditanya gimana caranya.
+
+PANEL 2 (right) — 08:51, the same moment, the reverse angle. Close-up of Kai standing by the desk,
+seen from slightly below — Deerock's eye line. His beaming grin stalls into an uncertain smile, one
+eyebrow raised, the takeaway coffee halfway to his mouth. Headphones around his neck. The window wall
+and city skyline behind him.
+Speech bubble, Kai: …Oke?
+
+=== TEXT POLICY ===
+The ONLY text anywhere on this page is Deerock's speech bubble in Panel 1 and Kai's speech bubble
+in Panel 2. Spell both exactly as written, including the ellipsis before "Oke?". Monitors and other
+screens are unreadable. Nothing else is written anywhere.
+
+=== NEGATIVE ===
+No katana, no sword, no ninja, no samurai, no fantasy armour, no tactical harness, no chest rig,
+no utility straps or buckle pouches, no supernatural effects, no action aura, no glowing weapon,
+no cyberpunk elements, no magazine-cover layout, no lens flare, no dramatic hero angles,
+no photorealism, no chibi, no 3D render. No white border, outer margin or frame around the page.
+No sweat drops, no shock lines, no cartoon symbols.
+Deerock is never without glasses; his hair is never plain black; his chin is always clean —
+no beard, no moustache, no stubble. Deerock wears no hoodie in this episode — only the open black
+overshirt over the slate-grey tee.
+No phone, tablet or laptop screen is turned toward the camera — screens face the character using them.
+Kai never wears glasses, never has purple hair, and never has long or ear-covering hair.
+Kai wears the light grey sweater — no dark hoodie, no jacket.
+Do not draw Kai as a second version of Deerock.
+Deerock has no headphones on him or around his neck on this page.
+Do not redesign any room or station.
+No page title, no chapter heading, no page number, no episode title, no captions, no narration
+boxes, no slogans, no taglines, no character name tags, no role labels, no watermark, no
+branding, no invented screen text, no readable desk nameplates, no katakana or Japanese
+decoration on clothing. Do not copy any decorative text printed on the reference sheets.
+```

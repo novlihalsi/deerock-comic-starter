@@ -101,11 +101,15 @@ Aki's is a loose knitted sweater with no collar, Mika's a crisp collared blouse 
 ```
 D-W01 — dark hoodie or dark overshirt over a plain dark tee, dark jeans/chinos, dark sneakers,
         one small orange accent. NO chest harness, NO utility straps, NO buckle pouches.
+D-W02 — OFFICE-CASUAL: an open BLACK OVERSHIRT worn loose over a plain SLATE-GREY tee, dark grey
+        chinos, dark sneakers; lanyard at the office. NO hoodie.
 A-W01 — cream loose knitted sweater (no collar), black wide cargo trousers, suspender straps,
         NEXA lanyard, sneakers.
 A-W02 — A-W01 with a DUSTY-PINK oversized hoodie pulled on over the sweater.
 K-W01 — dark hoodie under an open dark jacket, OLIVE-BROWN cargo trousers (lighter than
         Deerock's near-black jeans), over-ear headphones around the neck, sneakers.
+K-W02 — a LIGHT GREY oversized crewneck sweater, OLIVE-BROWN cargo trousers, sneakers, black
+        over-ear headphones around the neck. NO dark hoodie, NO jacket.
 R-W01 — black oversized hoodie or jacket over a light tee, dark grey wide cargo trousers,
         lanyard, sneakers.
 M-W01 — crisp collared cream blouse with rolled sleeves, black plain wide trousers (no cargo pockets), suspender straps,

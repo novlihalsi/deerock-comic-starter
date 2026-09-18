@@ -70,14 +70,25 @@ both members of a pair appear.
 | Code | Character | Outfit |
 | --- | --- | --- |
 | `D-W01` | Deerock | dark hoodie/overshirt + dark tee, dark jeans, orange accent, no harness |
+| `D-W02` | Deerock | open black overshirt over a slate-grey tee, dark grey chinos (sheet: *Office Casual*) |
 | `A-W01` | Aki | cream knitted sweater, black cargo trousers, suspenders, lanyard |
 | `A-W02` | Aki | `A-W01` with a dusty-pink oversized hoodie over the sweater (office AC) |
 | `K-W01` | Kai | dark hoodie under open jacket, olive cargo trousers, headphones around neck |
+| `K-W02` | Kai | light grey oversized sweater, olive cargo trousers, headphones around neck (sheet: *Sweater*) |
 | `R-W01` | Rin | black oversized hoodie/jacket, dark grey cargo trousers, lanyard |
 | `M-W01` | Mika | collared cream blouse, black plain wide trousers (no cargo pockets), suspenders, structured bag |
 
-Deerock's alternates (`D-W02` office casual, `D-W03` home wear) are defined in the character
-bible. An episode declares its wardrobe codes once, at the top of the storyboard.
+Deerock's home wear (`D-W03`) is defined in the character bible. An episode declares its wardrobe
+codes once, at the top of the storyboard.
+
+**A new day means new outfits.** An episode set on a different day from the one before it puts every
+character who appears in a different outfit; episodes on the same day share their codes, as the
+trailer and Episode 01 do. Take each new outfit from the *outfit variations* printed on that
+character's sheet, so the attached sheet shows the generator the clothes, and add its code to the
+character bible, `prompts/character-blocks.md` and the table above before using it. The identity
+cues never change with the clothes: Deerock's glasses and purple-black hair, Kai's short hair and
+headphones around his neck, Aki's bun, Rin's fringe, Mika's long loose hair. Check the separation
+matrices again with the new outfits — two characters who share a frame should not share a top.
 
 Do not change an outfit between adjacent panels unless the story says the character changed.
 

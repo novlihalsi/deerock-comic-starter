@@ -1,6 +1,6 @@
 # Episode 02 — PR Review Jalur Rangkasbitung
 
-**Status: storyboard draft.** Panel specs and page prompts not written yet.
+**Status: ready to generate.** Panel specs and page prompts are written and synchronised.
 
 ## Format
 
@@ -22,7 +22,12 @@ layout from the menu in `bible/visual-style.md`; no layout runs for more than tw
 
 ## Wardrobe
 
-`D-W01` and `K-W01` throughout. Everyone else is an anonymous commuter.
+`D-W02` and `K-W02` throughout. This is a different day from the trailer and Episode 01, so both
+wear new outfits (`bible/consistency-guide.md` section 4), each taken from their sheet's outfit
+variations: Deerock in his *Office Casual* — an open black overshirt over a slate-grey tee, dark grey
+chinos — and Kai in his *Sweater* — a light grey oversized sweater and olive-brown cargo trousers.
+The dark-against-light tops add one more separator on the pages they share. Everyone else is an
+anonymous commuter.
 
 - **Backpack:** on Deerock's back at the gates; swung to his front on the platform before the doors
   open, and worn there in the carriage (KRL etiquette, `bible/story-world.md`); on his back again in
@@ -87,7 +92,7 @@ running a routine he has done a thousand times. Backpack on his back.
 
 **1.2 · `LOC-STATION`, Platform 1 · 07:29 · Deerock, anonymous commuters**
 A crowded platform. Deerock stands just behind the yellow tactile line, precisely where the
-carriage door will stop, swinging his backpack round to his front, while the red-and-silver train
+carriage door will stop, swinging his backpack round to his front, while the red-and-white train
 pulls in. Commuters pack in behind him.
 - Thought — Deerock: *Gerbong 3, pintu tengah. Pas turun, langsung depan eskalator.*
 
@@ -146,7 +151,7 @@ Layout `2-STACK`, 6.1 about 45% of the height. Tone: drained, then bright.
 
 **6.1 · `LOC-OFFICE`, lobby · 08:45 · Deerock** — top
 Deerock walks through the NEXA access gates past the reception, tapping his access card, hollow-eyed
-and drained, his hoodie a little rumpled from the crush.
+and drained, his overshirt a little rumpled from the crush.
 - Thought — Deerock: *Rencana tidur 40 menit. Dapetnya 10.*
 
 **6.2 · `LOC-OFFICE`, Deerock's desk · 08:50 · Deerock, Kai** — bottom
@@ -171,8 +176,8 @@ Layout `1-FULL`. Tone: resignation, and the punchline.
 
 **8.1 · Deerock's desk · 08:52 · Deerock**
 Deerock takes his laptop out of his backpack and opens it with the air of a man accepting his fate.
-Dual monitors, black tumbler, headphones lying on the desk. Kai is a soft shape walking back to his
-own desk in the background.
+Dual monitors, black tumbler, headphones lying on the desk. Kai is a soft, out-of-focus shape back at
+his own desk beside Deerock's.
 - Thought — Deerock: *Kalau ada bug di production, murni salah guncangan gerbong 3.*
 
 ---
@@ -196,6 +201,6 @@ own desk in the background.
 
 ## Next
 
-Expand this storyboard into `panel-specs.md`, then write one prompt per page. Page 1 attaches
-Episode 01's anchor page, `episodes/01-just-one-small-change/results/ep01_page01_v002.png`, as its
-style reference (`prompts/image-generation.md`).
+Generate page 1 as `ep02_page01_v001.png`. See
+[`generation-prompts/README.md`](generation-prompts/README.md); detailed staging is in
+[`panel-specs.md`](panel-specs.md).

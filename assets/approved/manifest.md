@@ -104,6 +104,14 @@ style reference for the new page 1, `ep01_page01_v002.png`; its story content is
 
 ## Change log
 
+- **2026-09-18** — New rule: **a new day means new outfits** (`bible/consistency-guide.md`
+  section 4). Episode 02 is a different day from the trailer and Episode 01, but its first draft
+  had kept `D-W01` and `K-W01`. New codes from the sheets' outfit variations: `D-W02` (Deerock's
+  *Office Casual*, now specified as an open black overshirt over a slate-grey tee with dark grey
+  chinos) and `K-W02` (Kai's *Sweater*, light grey with olive-brown cargo trousers). Dark against
+  light also separates the two on the pages they share. Synced across the character bible,
+  character blocks, consistency guide and Episode 02's storyboard, panel specs and prompts.
+
 - **2026-09-18** — Page format tightened from Episode 02 on: **1–2 panels per page**, at most 2
   bubbles per panel and 3 per page, about 25 words a page, and no fixed page count — only
   Instagram's 20-slide carousel ceiling, past which an episode is posted in parts. Three panels on
